@@ -1,0 +1,23 @@
+[
+    { "name": "Car", "code": "transport_car", "icons": "🚗" },
+    { "name": "Bus", "code": "transport_bus", "icons": "🚌" },
+    { "name": "Bicycle", "code": "transport_bicycle", "icons": "🚲" },
+    { "name": "Motorcycle", "code": "transport_motorcycle", "icons": "🏍️" },
+    { "name": "Train", "code": "transport_train", "icons": "🚆" },
+    { "name": "Airplane", "code": "transport_airplane", "icons": "✈️" },
+    { "name": "Ship", "code": "transport_ship", "icons": "🚢" },
+    { "name": "Subway", "code": "transport_subway", "icons": "🚇" },
+    { "name": "Tram", "code": "transport_tram", "icons": "🚊" },
+    { "name": "Helicopter", "code": "transport_helicopter", "icons": "🚁" },
+    { "name": "Scooter", "code": "transport_scooter", "icons": "🛵" },
+    { "name": "Skateboard", "code": "transport_skateboard", "icons": "🛹" },
+    { "name": "Taxi", "code": "transport_taxi", "icons": "🚕" },
+    { "name": "Boat", "code": "transport_boat", "icons": "🛥️" },
+    { "name": "Hot Air Balloon", "code": "transport_hot_air_balloon", "icons": "🎈" },
+    { "name": "Ferry", "code": "transport_ferry", "icons": "⛴️" },
+    { "name": "Cable Car", "code": "transport_cable_car", "icons": "🚡" },
+    { "name": "Rickshaw", "code": "transport_rickshaw", "icons": "🛺" },
+    { "name": "Horse Carriage", "code": "transport_horse_carriage", "icons": "🏇" },
+    { "name": "Segway", "code": "transport_segway", "icons": "🛴" }
+  ]
+  
