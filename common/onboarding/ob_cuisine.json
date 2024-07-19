@@ -1,0 +1,12 @@
+[
+    { "name": "Italian", "code": "cuisine_italian", "icons": "🍝" },
+    { "name": "Japanese", "code": "cuisine_japanese", "icons": "🍣" },
+    { "name": "Mexican", "code": "cuisine_mexican", "icons": "🌮" },
+    { "name": "Chinese", "code": "cuisine_chinese", "icons": "🥡" },
+    { "name": "Indian", "code": "cuisine_indian", "icons": "🍛" },
+    { "name": "French", "code": "cuisine_french", "icons": "🥖" },
+    { "name": "Thai", "code": "cuisine_thai", "icons": "🍜" },
+    { "name": "Greek", "code": "cuisine_greek", "icons": "🥙" },
+    { "name": "Spanish", "code": "cuisine_spanish", "icons": "🥘" },
+    { "name": "Korean", "code": "cuisine_korean", "icons": "🍲" }
+]
