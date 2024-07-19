@@ -1,14 +1,14 @@
 [
-    { "name": "lbl_english", "code": "en", "icons": "🇬🇧" },
-    { "name": "lbl_espanol", "code": "es", "icons": "🇪🇸" },
-    { "name": "lbl_vietnam", "code": "vi", "icons": "🇻🇳" },
-    { "name": "lbl_rusia", "code": "ru", "icons": "🇷🇺" },
-    { "name": "lbl_china", "code": "zh", "icons": "🇨🇳" },
-    { "name": "lbl_hongkong", "code": "tw", "icons": "🇹🇼" },
-    { "name": "lbl_korea", "code": "kr", "icons": "🇰🇷" },
-    { "name": "lbl_thailand", "code": "th", "icons": "🇹🇭" },
-    { "name": "lbl_francais", "code": "fr", "icons": "🇫🇷" },
-    { "name": "lbl_italiano", "code": "it", "icons": "🇮🇹" },
-    { "name": "lbl_japan", "code": "ja", "icons": "🇯🇵" },
-    { "name": "lbl_deutsch", "code": "de", "icons": "🇩🇪" }
+    { "name": "English", "code": "en", "icons": "🇬🇧" },
+    { "name": "Español", "code": "es", "icons": "🇪🇸" },
+    { "name": "Tiếng Việt", "code": "vi", "icons": "🇻🇳" },
+    { "name": "Русский", "code": "ru", "icons": "🇷🇺" },
+    { "name": "中文", "code": "zh", "icons": "🇨🇳" },
+    { "name": "繁體", "code": "tw", "icons": "🇹🇼" },
+    { "name": "한국어", "code": "kr", "icons": "🇰🇷" },
+    { "name": "ไทย", "code": "th", "icons": "🇹🇭" },
+    { "name": "Français", "code": "fr", "icons": "🇫🇷" },
+    { "name": "Italiano", "code": "it", "icons": "🇮🇹" },
+    { "name": "日本語", "code": "ja", "icons": "🇯🇵" },
+    { "name": "Deutsch", "code": "de", "icons": "🇩🇪" }
 ]
