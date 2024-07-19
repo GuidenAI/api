@@ -1,0 +1,14 @@
+[
+    { "name": "English", "code": "GB", "icons": "🇬🇧" },
+    { "name": "Spain", "code": "ES", "icons": "🇪🇸" },
+    { "name": "Vietnam", "code": "VN", "icons": "🇻🇳" },
+    { "name": "Russia", "code": "RU", "icons": "🇷🇺" },
+    { "name": "China", "code": "CN", "icons": "🇨🇳" },
+    { "name": "Taiwan", "code": "TW", "icons": "🇹🇼" },
+    { "name": "Korea", "code": "KR", "icons": "🇰🇷" },
+    { "name": "Thailand", "code": "TH", "icons": "🇹🇭" },
+    { "name": "France", "code": "FR", "icons": "🇫🇷" },
+    { "name": "Italy", "code": "IT", "icons": "🇮🇹" },
+    { "name": "Japan", "code": "JP", "icons": "🇯🇵" },
+    { "name": "Germany", "code": "DE", "icons": "🇩🇪" }
+]
