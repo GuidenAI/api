@@ -1,0 +1,11 @@
+[
+    { "name": "Italy", "code": "IT", "icons": "🇮🇹" },
+    { "name": "Japan", "code": "JP", "icons": "🇯🇵" },
+    { "name": "New Zealand", "code": "NZ", "icons": "🇳🇿" },
+    { "name": "Greece", "code": "GR", "icons": "🇬🇷" },
+    { "name": "Australia", "code": "AU", "icons": "🇦🇺" },
+    { "name": "Thailand", "code": "TH", "icons": "🇹🇭" },
+    { "name": "France", "code": "FR", "icons": "🇫🇷" },
+    { "name": "Iceland", "code": "IS", "icons": "🇮🇸" },
+    { "name": "Canada", "code": "CA", "icons": "🇨🇦" }
+]
