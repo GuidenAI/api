@@ -1,0 +1,18 @@
+[
+    { "name": "Mountain", "code": "destination_mountain", "icons": "⛰️" },
+    { "name": "River", "code": "destination_river", "icons": "🏞️" },
+    { "name": "Sea", "code": "destination_sea", "icons": "🌊" },
+    { "name": "Beach", "code": "destination_beach", "icons": "🏖️" },
+    { "name": "Desert", "code": "destination_desert", "icons": "🏜️" },
+    { "name": "Forest", "code": "destination_forest", "icons": "🌲" },
+    { "name": "Island", "code": "destination_island", "icons": "🏝️" },
+    { "name": "Lake", "code": "destination_lake", "icons": "🏞️" },
+    { "name": "City", "code": "destination_city", "icons": "🏙️" },
+    { "name": "Village", "code": "destination_village", "icons": "🏡" },
+    { "name": "Countryside", "code": "destination_countryside", "icons": "🌾" },
+    { "name": "Cave", "code": "destination_cave", "icons": "🕳️" },
+    { "name": "Waterfall", "code": "destination_waterfall", "icons": "💦" },
+    { "name": "Canyon", "code": "destination_canyon", "icons": "🗻" },
+    { "name": "Plain", "code": "destination_plain", "icons": "🌄" },
+    { "name": "Valley", "code": "destination_valley", "icons": "🏞️" }
+  ]
