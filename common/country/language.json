@@ -4,7 +4,7 @@
     { "name": "Tiếng Việt", "code": "vi", "icons": "🇻🇳" },
     { "name": "Русский", "code": "ru", "icons": "🇷🇺" },
     { "name": "中文", "code": "zh", "icons": "🇨🇳" },
-    { "name": "繁體", "code": "TW", "icons": "🇹🇼" },
+    { "name": "繁體", "code": "tw", "icons": "🇹🇼" },
     { "name": "한국어", "code": "kr", "icons": "🇰🇷" },
     { "name": "ไทย", "code": "th", "icons": "🇹🇭" },
     { "name": "Français", "code": "fr", "icons": "🇫🇷" },
