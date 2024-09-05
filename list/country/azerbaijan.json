@@ -1,0 +1,22 @@
+{
+    "name": "Azerbaijan",
+    "image": "https://images.unsplash.com/photo-1544198365-65ab6ba083e0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Baku" },
+      { "name": "Ganja" },
+      { "name": "Sumqayit" },
+      { "name": "Sheki" },
+      { "name": "Lankaran" },
+      { "name": "Gabala" },
+      { "name": "Shamakhi" },
+      { "name": "Nakhchivan" },
+      { "name": "Mingachevir" },
+      { "name": "Guba" },
+      { "name": "Khachmaz" },
+      { "name": "Shirvan" },
+      { "name": "Zaqatala" },
+      { "name": "Qusar" },
+      { "name": "Agdash" }
+    ]
+  }
+  

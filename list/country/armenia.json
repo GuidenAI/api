@@ -1,0 +1,22 @@
+{
+    "name": "Armenia",
+    "image": "https://images.unsplash.com/photo-1571055107559-3d52b60d2a4d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Yerevan" },
+      { "name": "Gyumri" },
+      { "name": "Vanadzor" },
+      { "name": "Dilijan" },
+      { "name": "Echmiadzin" },
+      { "name": "Jermuk" },
+      { "name": "Tsaghkadzor" },
+      { "name": "Kapan" },
+      { "name": "Goris" },
+      { "name": "Sevan" },
+      { "name": "Alaverdi" },
+      { "name": "Hrazdan" },
+      { "name": "Stepanakert" },
+      { "name": "Ashtarak" },
+      { "name": "Byureghavan" }
+    ]
+  }
+  

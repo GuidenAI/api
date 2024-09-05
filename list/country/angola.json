@@ -1,0 +1,26 @@
+{
+    "name": "Angola",
+    "image": "https://images.unsplash.com/photo-1584916207869-9e2c973fbe89?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Luanda" },
+      { "name": "Benguela" },
+      { "name": "Lubango" },
+      { "name": "Huambo" },
+      { "name": "Lobito" },
+      { "name": "Namibe" },
+      { "name": "Malanje" },
+      { "name": "Soyo" },
+      { "name": "Uíge" },
+      { "name": "Kuito" },
+      { "name": "Cabinda" },
+      { "name": "Ondjiva" },
+      { "name": "Menongue" },
+      { "name": "Mbanza-Kongo" },
+      { "name": "Sumbe" },
+      { "name": "Ndalatando" },
+      { "name": "Luena" },
+      { "name": "Caxito" },
+      { "name": "Cuito Cuanavale" }
+    ]
+  }
+  

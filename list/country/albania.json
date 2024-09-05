@@ -1,0 +1,27 @@
+{
+    "name": "Albania",
+    "image": "https://images.unsplash.com/photo-1556646460-8900c0585b9e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Tirana" },
+      { "name": "Durres" },
+      { "name": "Shkoder" },
+      { "name": "Vlore" },
+      { "name": "Sarande" },
+      { "name": "Berat" },
+      { "name": "Gjirokaster" },
+      { "name": "Kruje" },
+      { "name": "Pogradec" },
+      { "name": "Fier" },
+      { "name": "Elbasan" },
+      { "name": "Korça" },
+      { "name": "Lezhe" },
+      { "name": "Himare" },
+      { "name": "Ksamil" },
+      { "name": "Permet" },
+      { "name": "Lushnje" },
+      { "name": "Kukes" },
+      { "name": "Tepelene" },
+      { "name": "Peshkopi" }
+    ]
+  }
+  

@@ -1,0 +1,27 @@
+{
+    "name": "Algeria",
+    "image": "https://images.unsplash.com/photo-1542482378-5c15de73943b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Algiers" },
+      { "name": "Oran" },
+      { "name": "Constantine" },
+      { "name": "Annaba" },
+      { "name": "Tlemcen" },
+      { "name": "Ghardaia" },
+      { "name": "Béjaïa" },
+      { "name": "Tamanrasset" },
+      { "name": "Setif" },
+      { "name": "Blida" },
+      { "name": "Batna" },
+      { "name": "Tipaza" },
+      { "name": "Djelfa" },
+      { "name": "Touggourt" },
+      { "name": "Biskra" },
+      { "name": "Skikda" },
+      { "name": "Bou Saada" },
+      { "name": "Medea" },
+      { "name": "Laghouat" },
+      { "name": "Ouargla" }
+    ]
+  }
+  

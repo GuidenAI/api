@@ -1,0 +1,22 @@
+{
+    "name": "Austria",
+    "image": "https://images.unsplash.com/photo-1545048489-cc9e7f2bc303?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Vienna" },
+      { "name": "Salzburg" },
+      { "name": "Innsbruck" },
+      { "name": "Graz" },
+      { "name": "Linz" },
+      { "name": "Hallstatt" },
+      { "name": "Klagenfurt" },
+      { "name": "Bregenz" },
+      { "name": "Zell am See" },
+      { "name": "Villach" },
+      { "name": "St. Pölten" },
+      { "name": "Eisenstadt" },
+      { "name": "Kitzbühel" },
+      { "name": "Wels" },
+      { "name": "Schladming" }
+    ]
+  }
+  

@@ -1,0 +1,27 @@
+{
+    "name": "Afghanistan",
+    "image": "https://images.unsplash.com/photo-1584467735871-20627b95cc96?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Kabul" },
+      { "name": "Herat" },
+      { "name": "Mazar-i-Sharif" },
+      { "name": "Kandahar" },
+      { "name": "Bamyan" },
+      { "name": "Jalalabad" },
+      { "name": "Ghazni" },
+      { "name": "Kunduz" },
+      { "name": "Lashkar Gah" },
+      { "name": "Pul-e Khumri" },
+      { "name": "Baghlan" },
+      { "name": "Farah" },
+      { "name": "Fayzabad" },
+      { "name": "Samangan" },
+      { "name": "Zaranj" },
+      { "name": "Charikar" },
+      { "name": "Shibirghan" },
+      { "name": "Taloqan" },
+      { "name": "Sar-e Pol" },
+      { "name": "Khost" }
+    ]
+  }
+  
