@@ -1,0 +1,38 @@
+{
+    "name": "France",
+    "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Paris" },
+      { "name": "Marseille" },
+      { "name": "Lyon" },
+      { "name": "Toulouse" },
+      { "name": "Nice" },
+      { "name": "Nantes" },
+      { "name": "Strasbourg" },
+      { "name": "Montpellier" },
+      { "name": "Bordeaux" },
+      { "name": "Lille" },
+      { "name": "Rennes" },
+      { "name": "Le Havre" },
+      { "name": "Reims" },
+      { "name": "Cannes" },
+      { "name": "Saint-Tropez" },
+      { "name": "Avignon" },
+      { "name": "Annecy" },
+      { "name": "Grenoble" },
+      { "name": "Dijon" },
+      { "name": "Aix-en-Provence" },
+      { "name": "Rouen" },
+      { "name": "Tours" },
+      { "name": "La Rochelle" },
+      { "name": "Biarritz" },
+      { "name": "Carcassonne" },
+      { "name": "Chamonix" },
+      { "name": "Colmar" },
+      { "name": "Amiens" },
+      { "name": "Metz" },
+      { "name": "Bayonne" },
+      { "name": "Versailles" }
+    ]
+  }
+  

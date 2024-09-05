@@ -1,0 +1,37 @@
+{
+    "name": "Italy",
+    "image": "https://images.unsplash.com/photo-1560347876-aeef00ee58a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "cities": [
+      { "name": "Rome" },
+      { "name": "Venice" },
+      { "name": "Florence" },
+      { "name": "Milan" },
+      { "name": "Naples" },
+      { "name": "Verona" },
+      { "name": "Bologna" },
+      { "name": "Turin" },
+      { "name": "Genoa" },
+      { "name": "Siena" },
+      { "name": "Pisa" },
+      { "name": "Palermo" },
+      { "name": "Catania" },
+      { "name": "Amalfi" },
+      { "name": "Positano" },
+      { "name": "Rimini" },
+      { "name": "Cinque Terre" },
+      { "name": "Sorrento" },
+      { "name": "Taormina" },
+      { "name": "Lucca" },
+      { "name": "Parma" },
+      { "name": "Modena" },
+      { "name": "Bari" },
+      { "name": "Lecce" },
+      { "name": "Matera" },
+      { "name": "Trapani" },
+      { "name": "Trieste" },
+      { "name": "Bergamo" },
+      { "name": "Perugia" },
+      { "name": "Ravenna" }
+    ]
+  }
+  
