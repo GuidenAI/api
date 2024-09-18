@@ -1,0 +1,40 @@
+{
+    "country": "Togo",
+    "describe": "Togo is a West African nation on the Gulf of Guinea, known for its palm-lined beaches and hilltop villages. It is a narrow strip of land with diverse cultures and landscapes, ranging from savannahs to forests.",
+    "image_link": "https://example.com/image-of-togo.jpg",
+    "cities": [
+        {
+            "name": "🏙 Lomé",
+            "geographical_location": "Located on the Gulf of Guinea, Lomé is the capital and largest city of Togo.",
+            "climate": "Lomé has a tropical savanna climate with a wet season from April to October and a dry season from November to March.",
+            "famous_cuisine": "Fufu, Akpan, and Koklo Meme.",
+            "popular_attractions": [
+                "Lomé Grand Market",
+                "Togo National Museum",
+                "Independence Monument"
+            ]
+        },
+        {
+            "name": "🌆 KpalimÃ©",
+            "geographical_location": "Situated in the Plateaux Region, near the Ghanaian border.",
+            "climate": "Kpalimé enjoys a tropical climate with a significant amount of rainfall throughout the year.",
+            "famous_cuisine": "Yam dishes and local fruits.",
+            "popular_attractions": [
+                "Mount Agou",
+                "Cascade de Kpimé",
+                "Crafts Center"
+            ]
+        },
+        {
+            "name": "🏙 SokodÃ©",
+            "geographical_location": "Located in the central part of Togo, it is the second-largest city.",
+            "climate": "Sokodé has a tropical savanna climate with a distinct wet and dry season.",
+            "famous_cuisine": "Tchakpalo and grilled meats.",
+            "popular_attractions": [
+                "Tchaoudjo Mosque",
+                "Traditional Festivals",
+                "Local Markets"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "country": "Latvia",
+    "describe": "Latvia is a country in the Baltic region of Northern Europe, known for its diverse culture, rich history, and beautiful landscapes. It is bordered by Estonia to the north, Lithuania to the south, Russia to the east, and Belarus to the southeast. The country has a population of around 1.9 million people and its capital is Riga.",
+    "image_link": "https://example.com/latvia-image.jpg",
+    "cities": [
+        {
+            "name": "🌆 Riga",
+            "geographical_location": "Located on the Gulf of Riga at the mouth of the Daugava River.",
+            "climate": "Riga has a humid continental climate with cold winters and mild, humid summers.",
+            "famous_cuisine": "Grey peas with bacon, Riga Black Balsam, and Sklandrausis.",
+            "popular_attractions": [
+                "Old Town Riga",
+                "Riga Central Market",
+                "Art Nouveau architecture"
+            ]
+        },
+        {
+            "name": "🏝 Jūrmala",
+            "geographical_location": "Situated on the Gulf of Riga, west of the capital city Riga.",
+            "climate": "Jūrmala has a maritime climate with mild summers and cool winters.",
+            "famous_cuisine": "Smoked fish, rye bread, and local seafood dishes.",
+            "popular_attractions": [
+                "Jūrmala Beach",
+                "Dzintari Forest Park",
+                "Jomas Street"
+            ]
+        },
+        {
+            "name": "🌳 Sigulda",
+            "geographical_location": "Located in the Vidzeme region, along the Gauja River valley.",
+            "climate": "Sigulda experiences a humid continental climate with snowy winters and warm summers.",
+            "famous_cuisine": "Wild game dishes, mushroom soup, and berry desserts.",
+            "popular_attractions": [
+                "Gauja National Park",
+                "Turaida Castle",
+                "Sigulda Bobsleigh and Luge Track"
+            ]
+        }
+    ]
+}

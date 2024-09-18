@@ -1,26 +1,40 @@
 {
-    "name": "Angola",
-    "image": "https://images.unsplash.com/photo-1584916207869-9e2c973fbe89?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "Angola",
+    "describe": "Angola is a country located on the west coast of Southern Africa. It is known for its rich cultural heritage, diverse ecosystems, and a history marked by Portuguese colonization and a long civil war. The country is rich in natural resources, particularly oil and diamonds, and has a rapidly growing economy.",
+    "image_link": "https://example.com/angola-image.jpg",
     "cities": [
-      { "name": "Luanda" },
-      { "name": "Benguela" },
-      { "name": "Lubango" },
-      { "name": "Huambo" },
-      { "name": "Lobito" },
-      { "name": "Namibe" },
-      { "name": "Malanje" },
-      { "name": "Soyo" },
-      { "name": "Uíge" },
-      { "name": "Kuito" },
-      { "name": "Cabinda" },
-      { "name": "Ondjiva" },
-      { "name": "Menongue" },
-      { "name": "Mbanza-Kongo" },
-      { "name": "Sumbe" },
-      { "name": "Ndalatando" },
-      { "name": "Luena" },
-      { "name": "Caxito" },
-      { "name": "Cuito Cuanavale" }
+        {
+            "name": "🏝 Luanda",
+            "geographical_location": "Located on the Atlantic coast in the northwest of Angola.",
+            "climate": "Luanda has a tropical savanna climate with a dry season from May to October and a wet season from November to April.",
+            "famous_cuisine": "Calulu, Moamba de Galinha, and Funge.",
+            "popular_attractions": [
+                "Fortress of São Miguel",
+                "National Museum of Anthropology",
+                "Ilha do Mussulo"
+            ]
+        },
+        {
+            "name": "🏝 Benguela",
+            "geographical_location": "Situated on the west coast of Angola, south of Luanda.",
+            "climate": "Benguela has a semi-arid climate with mild temperatures and low rainfall.",
+            "famous_cuisine": "Grilled fish, Moamba de Galinha, and Cocada Amarela.",
+            "popular_attractions": [
+                "Praia Morena",
+                "Baía Azul",
+                "Nossa Senhora do Pópulo Church"
+            ]
+        },
+        {
+            "name": "🏔 Lubango",
+            "geographical_location": "Located in the south of Angola, surrounded by mountains.",
+            "climate": "Lubango has a subtropical highland climate with mild temperatures and distinct wet and dry seasons.",
+            "famous_cuisine": "Chikwanga, Kizaca, and various grilled meats.",
+            "popular_attractions": [
+                "Tundavala Gap",
+                "Christ the King Statue",
+                "Serra da Leba"
+            ]
+        }
     ]
-  }
-  
+}

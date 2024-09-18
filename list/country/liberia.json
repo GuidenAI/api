@@ -1,0 +1,29 @@
+{
+    "country": "Liberia",
+    "describe": "Liberia is a country located on the west coast of Africa. It is known for its rich history, diverse culture, and lush rainforests. The country was founded by freed American and Caribbean slaves in the 19th century, and its capital, Monrovia, is named after U.S. President James Monroe. Liberia is home to a variety of ethnic groups and languages, and it boasts beautiful beaches and vibrant wildlife.",
+    "image_link": "https://example.com/liberia-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Monrovia",
+            "geographical_location": "Located on the Atlantic coast in the northwest of Liberia.",
+            "climate": "Monrovia has a tropical monsoon climate with a wet season from May to October and a dry season from November to April.",
+            "famous_cuisine": "Jollof rice, palm butter, and cassava leaf stew.",
+            "popular_attractions": [
+                "Providence Island",
+                "Liberian National Museum",
+                "Centennial Pavilion"
+            ]
+        },
+        {
+            "name": "🏝 Buchanan",
+            "geographical_location": "Situated on the central coast of Liberia, southeast of Monrovia.",
+            "climate": "Buchanan experiences a tropical climate with significant rainfall throughout the year.",
+            "famous_cuisine": "Fufu and soup, fried plantains, and pepper soup.",
+            "popular_attractions": [
+                "Buchanan Beach",
+                "Port of Buchanan",
+                "Cestos River"
+            ]
+        }
+    ]
+}

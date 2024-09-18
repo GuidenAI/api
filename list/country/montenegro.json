@@ -1,0 +1,40 @@
+{
+    "country": "Montenegro",
+    "describe": "Montenegro is a picturesque Balkan country known for its stunning Adriatic coastline, rugged mountains, medieval villages, and rich cultural heritage. It offers a blend of natural beauty and historical charm, making it a popular destination for travelers seeking both adventure and relaxation.",
+    "image_link": "https://example.com/montenegro.jpg",
+    "cities": [
+        {
+            "name": "🏙 Podgorica",
+            "geographical_location": "Located in the central part of Montenegro, Podgorica is the country's capital and largest city.",
+            "climate": "Podgorica has a humid subtropical climate with hot summers and mild winters.",
+            "famous_cuisine": "Cevapi, Burek, and Njeguški pršut.",
+            "popular_attractions": [
+                "Millennium Bridge",
+                "Ribnica Bridge",
+                "Podgorica City Museum"
+            ]
+        },
+        {
+            "name": "🏝 Kotor",
+            "geographical_location": "Situated on the Adriatic coast, Kotor is nestled in a secluded part of the Gulf of Kotor.",
+            "climate": "Kotor experiences a Mediterranean climate with hot, dry summers and mild, wet winters.",
+            "famous_cuisine": "Black Risotto, Kotor Bay Mussels, and Pasticada.",
+            "popular_attractions": [
+                "Kotor Old Town",
+                "Kotor Fortress",
+                "Maritime Museum"
+            ]
+        },
+        {
+            "name": "🏝 Budva",
+            "geographical_location": "Located on the Adriatic Sea, Budva is known for its sandy beaches and vibrant nightlife.",
+            "climate": "Budva has a Mediterranean climate with warm summers and mild winters.",
+            "famous_cuisine": "Seafood specialties, Njeguški steak, and Rakija.",
+            "popular_attractions": [
+                "Budva Old Town",
+                "Mogren Beach",
+                "Sveti Stefan"
+            ]
+        }
+    ]
+}

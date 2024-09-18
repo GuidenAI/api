@@ -1,0 +1,31 @@
+{
+    "country": "Kuwait",
+    "describe": "Kuwait is a small, oil-rich country located in the Middle East, bordered by Iraq and Saudi Arabia. Known for its modern architecture, cultural heritage, and significant oil reserves, Kuwait plays a crucial role in the global energy market.",
+    "image_link": "https://example.com/kuwait-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Kuwait City",
+            "geographical_location": "Located on the coast of the Persian Gulf in the eastern part of the country.",
+            "climate": "Kuwait City has a desert climate with extremely hot summers and mild winters.",
+            "famous_cuisine": "Machboos, a spiced rice dish with meat or fish, and Mutabbaq Samak, a fish dish.",
+            "popular_attractions": [
+                "Kuwait Towers",
+                "The Grand Mosque",
+                "Al Shaheed Park",
+                "The Avenues Mall"
+            ]
+        },
+        {
+            "name": "🏝 Salmiya",
+            "geographical_location": "Situated along the Persian Gulf coast, just southeast of Kuwait City.",
+            "climate": "Salmiya experiences a desert climate with hot, dry summers and mild winters.",
+            "famous_cuisine": "Seafood dishes, particularly grilled fish and shrimp.",
+            "popular_attractions": [
+                "Marina Mall",
+                "The Scientific Center",
+                "Al Fanar Mall",
+                "Salmiya Park"
+            ]
+        }
+    ]
+}

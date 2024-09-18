@@ -1,0 +1,29 @@
+{
+    "country": "Sao Tome and Principe",
+    "describe": "Sao Tome and Principe is a small island nation located in the Gulf of Guinea, off the western coast of Central Africa. It consists of two main islands, Sao Tome and Principe, and several smaller islets. The country is known for its rich biodiversity, lush rainforests, and beautiful beaches. It has a diverse culture influenced by Portuguese colonial history and African heritage.",
+    "image_link": "https://example.com/sao_tome_and_principe.jpg",
+    "cities": [
+        {
+            "name": "🏝 Sao Tome",
+            "geographical_location": "Located on the northeastern coast of Sao Tome Island.",
+            "climate": "Tropical climate with a wet season from October to May and a dry season from June to September.",
+            "famous_cuisine": "Calulu, a traditional dish made with fish or chicken, vegetables, and palm oil.",
+            "popular_attractions": [
+                "National Museum of Sao Tome",
+                "Cathedral of Sao Tome",
+                "Independence Square"
+            ]
+        },
+        {
+            "name": "🏝 Principe",
+            "geographical_location": "Situated on the northern part of Principe Island.",
+            "climate": "Equatorial climate with high humidity and consistent temperatures year-round.",
+            "famous_cuisine": "Grilled fish with banana, a popular local delicacy.",
+            "popular_attractions": [
+                "Obo Natural Park",
+                "Banana Beach",
+                "Santo Antonio town"
+            ]
+        }
+    ]
+}

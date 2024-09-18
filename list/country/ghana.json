@@ -1,0 +1,40 @@
+{
+    "country": "Ghana",
+    "describe": "Ghana, located in West Africa, is known for its diverse wildlife, old forts, and secluded beaches, such as at Busua. The coastal towns of Elmina and Cape Coast offer posubstantial history with their colonial-era castles. Ghana is also famous for its rich culture, vibrant festivals, and welcoming people.",
+    "image_link": "https://example.com/image-of-ghana.jpg",
+    "cities": [
+        {
+            "name": "🏝 Accra",
+            "geographical_location": "Located on the Atlantic coast of West Africa, Accra is the capital city of Ghana.",
+            "climate": "Accra has a tropical savanna climate with a wet season from April to mid-November and a dry season from mid-November to March.",
+            "famous_cuisine": "Jollof rice, Waakye, Kenkey with fried fish",
+            "popular_attractions": [
+                "Kwame Nkrumah Mausoleum",
+                "Labadi Beach",
+                "Makola Market"
+            ]
+        },
+        {
+            "name": "🏰 Kumasi",
+            "geographical_location": "Kumasi is located in the Ashanti Region, in the south-central part of Ghana.",
+            "climate": "Kumasi has a tropical wet and dry climate, with a lengthy wet season from March to November.",
+            "famous_cuisine": "Fufu with light soup, Omo tuo (rice balls) with groundnut soup",
+            "popular_attractions": [
+                "Manhyia Palace",
+                "Kumasi Fort and Military Museum",
+                "Kejetia Market"
+            ]
+        },
+        {
+            "name": "🏝 Cape Coast",
+            "geographical_location": "Cape Coast is situated in the Central Region of Ghana, along the Gulf of Guinea.",
+            "climate": "Cape Coast has a tropical savanna climate with a wet season from April to November.",
+            "famous_cuisine": "Red Red (bean stew), Fante kenkey with fried fish",
+            "popular_attractions": [
+                "Cape Coast Castle",
+                "Kakum National Park",
+                "Elmina Castle"
+            ]
+        }
+    ]
+}

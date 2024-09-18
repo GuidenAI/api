@@ -1,0 +1,43 @@
+{
+    "country": "Nepal",
+    "describe": "Nepal is a landlocked country in South Asia, located mainly in the Himalayas. It is known for its stunning landscapes, rich cultural heritage, and as the home of Mount Everest, the highest peak in the world.",
+    "image_link": "https://example.com/nepal-image.jpg",
+    "cities": [
+        {
+            "name": "🕌 Kathmandu",
+            "geographical_location": "Located in the Kathmandu Valley in central Nepal.",
+            "climate": "Kathmandu has a temperate climate with warm summers and mild winters.",
+            "famous_cuisine": "Momo (dumplings), Dal Bhat (lentil soup with rice), Newari cuisine.",
+            "popular_attractions": [
+                "Swayambhunath Stupa (Monkey Temple)",
+                "Pashupatinath Temple",
+                "Boudhanath Stupa",
+                "Durbar Square"
+            ]
+        },
+        {
+            "name": "🏔 Pokhara",
+            "geographical_location": "Situated in the western part of Nepal, near the Annapurna mountain range.",
+            "climate": "Pokhara has a humid subtropical climate with heavy monsoon rains.",
+            "famous_cuisine": "Thakali set, Fish curry from Phewa Lake.",
+            "popular_attractions": [
+                "Phewa Lake",
+                "Sarangkot",
+                "World Peace Pagoda",
+                "Davis Falls"
+            ]
+        },
+        {
+            "name": "🕌 Lumbini",
+            "geographical_location": "Located in the Rupandehi District of Province No. 5, near the Indian border.",
+            "climate": "Lumbini has a subtropical climate with hot summers and mild winters.",
+            "famous_cuisine": "Lentil soup, rice, and vegetable curries.",
+            "popular_attractions": [
+                "Maya Devi Temple",
+                "Lumbini Monastic Site",
+                "Ashoka Pillar",
+                "Lumbini Museum"
+            ]
+        }
+    ]
+}

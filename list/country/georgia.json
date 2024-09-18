@@ -1,0 +1,40 @@
+{
+    "country": "Georgia",
+    "describe": "Georgia is a country located at the intersection of Eastern Europe and Western Asia, known for its diverse culture, rich history, and stunning landscapes ranging from the Black Sea beaches to the Caucasus Mountains.",
+    "image_link": "https://example.com/georgia-image.jpg",
+    "cities": [
+        {
+            "name": "🏰 Tbilisi",
+            "geographical_location": "Located in the eastern part of Georgia, along the banks of the Kura River.",
+            "climate": "Tbilisi has a humid subtropical climate with warm summers and mild winters.",
+            "famous_cuisine": "Khinkali (dumplings), Khachapuri (cheese-filled bread)",
+            "popular_attractions": [
+                "Narikala Fortress",
+                "Tbilisi Old Town",
+                "Sulfur Baths"
+            ]
+        },
+        {
+            "name": "🏝 Batumi",
+            "geographical_location": "Situated on the coast of the Black Sea in southwestern Georgia.",
+            "climate": "Batumi has a humid subtropical climate with high humidity and significant rainfall throughout the year.",
+            "famous_cuisine": "Adjarian Khachapuri (boat-shaped cheese bread), Sinori (cheese and dough rolls)",
+            "popular_attractions": [
+                "Batumi Boulevard",
+                "Botanical Garden",
+                "Alphabetic Tower"
+            ]
+        },
+        {
+            "name": "🌆 Kutaisi",
+            "geographical_location": "Located in the western part of Georgia, along the Rioni River.",
+            "climate": "Kutaisi has a humid subtropical climate with hot summers and cool winters.",
+            "famous_cuisine": "Imeretian Khachapuri (cheese bread), Lobiani (bean-filled bread)",
+            "popular_attractions": [
+                "Bagrati Cathedral",
+                "Gelati Monastery",
+                "Prometheus Cave"
+            ]
+        }
+    ]
+}

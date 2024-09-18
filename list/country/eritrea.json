@@ -1,0 +1,29 @@
+{
+    "country": "Eritrea",
+    "describe": "Eritrea is a country in the Horn of Africa, bordered by Sudan to the west, Ethiopia to the south, and Djibouti to the southeast. It has a long coastline along the Red Sea to the northeast and east. Eritrea is known for its rich cultural heritage, diverse ethnic groups, and historical sites, including ancient ruins and Italian colonial architecture.",
+    "image_link": "https://example.com/eritrea-image.jpg",
+    "cities": [
+        {
+            "name": "🏔 Asmara",
+            "geographical_location": "Located on the eastern edge of the Eritrean highlands.",
+            "climate": "Asmara has a semi-arid climate with mild temperatures year-round.",
+            "famous_cuisine": "Zigni, a spicy stew served with injera.",
+            "popular_attractions": [
+                "Fiat Tagliero Building",
+                "Asmara Cathedral",
+                "National Museum of Eritrea"
+            ]
+        },
+        {
+            "name": "🏝 Massawa",
+            "geographical_location": "Situated on the Red Sea coast.",
+            "climate": "Massawa has a hot desert climate with very high temperatures in summer.",
+            "famous_cuisine": "Seafood dishes, especially grilled fish.",
+            "popular_attractions": [
+                "Dahlak Archipelago",
+                "Old Town of Massawa",
+                "Sheikh Hanafi Mosque"
+            ]
+        }
+    ]
+}

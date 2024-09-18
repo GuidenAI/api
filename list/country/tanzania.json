@@ -1,0 +1,40 @@
+{
+    "country": "Tanzania",
+    "describe": "Tanzania is a country in East Africa known for its vast wilderness areas, including the plains of Serengeti National Park, a safari mecca populated by the 'big five' game (elephant, lion, leopard, buffalo, and rhino), and Kilimanjaro National Park, home to Africa's highest mountain. Offshore lie the tropical islands of Zanzibar, with Arabic influences, and Mafia, with a marine park home to whale sharks and coral reefs.",
+    "image_link": "https://example.com/tanzania-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Dar es Salaam",
+            "geographical_location": "Located on the eastern coast of Tanzania along the Indian Ocean.",
+            "climate": "Tropical climate with hot and humid weather year-round.",
+            "famous_cuisine": "Nyama Choma (grilled meat), Ugali (maize porridge), and Samaki (fish).",
+            "popular_attractions": [
+                "National Museum of Tanzania",
+                "Kivukoni Fish Market",
+                "Coco Beach"
+            ]
+        },
+        {
+            "name": "🏝 Zanzibar City",
+            "geographical_location": "Situated on the western coast of Unguja, the main island of the Zanzibar Archipelago.",
+            "climate": "Tropical climate with a hot and humid atmosphere, tempered by sea breezes.",
+            "famous_cuisine": "Zanzibar Pizza, Biryani, and Spice-infused dishes.",
+            "popular_attractions": [
+                "Stone Town",
+                "Prison Island",
+                "Jozani Chwaka Bay National Park"
+            ]
+        },
+        {
+            "name": "🌳 Arusha",
+            "geographical_location": "Located in northern Tanzania, beneath Mount Meru.",
+            "climate": "Temperate climate with cool, dry winters and warm, wet summers.",
+            "famous_cuisine": "Ndizi na Nyama (banana and meat stew), and Pilau rice.",
+            "popular_attractions": [
+                "Arusha National Park",
+                "Cultural Heritage Centre",
+                "Mount Meru"
+            ]
+        }
+    ]
+}

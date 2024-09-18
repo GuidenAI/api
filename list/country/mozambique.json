@@ -1,0 +1,40 @@
+{
+    "country": "Mozambique",
+    "describe": "Mozambique is a country located in Southeast Africa bordered by the Indian Ocean to the east. It is known for its rich cultural heritage, diverse wildlife, and stunning coastline. The country has a vibrant history influenced by Portuguese colonialism, and it is famous for its traditional music and dance.",
+    "image_link": "https://example.com/image_of_mozambique.jpg",
+    "cities": [
+        {
+            "name": "🏝 Maputo",
+            "geographical_location": "Located in the southern part of Mozambique along the Indian Ocean coast.",
+            "climate": "Maputo has a tropical savanna climate with a hot and humid wet season from November to March and a cooler dry season from April to October.",
+            "famous_cuisine": "Matapa, a dish made from cassava leaves cooked in peanut sauce, and Piri Piri chicken.",
+            "popular_attractions": [
+                "Maputo Central Market",
+                "Maputo Fortress",
+                "Tunduru Botanical Gardens"
+            ]
+        },
+        {
+            "name": "🏝 Beira",
+            "geographical_location": "Situated in central Mozambique, along the coast of the Indian Ocean.",
+            "climate": "Beira experiences a tropical savanna climate with a distinct wet and dry season.",
+            "famous_cuisine": "Seafood dishes, particularly prawns and fish curry.",
+            "popular_attractions": [
+                "Macuti Lighthouse and Shipwreck",
+                "Beira Cathedral",
+                "Gorongosa National Park (nearby)"
+            ]
+        },
+        {
+            "name": "🏝 Pemba",
+            "geographical_location": "Located in the northern part of Mozambique on a peninsula in Pemba Bay.",
+            "climate": "Pemba has a tropical climate with a wet season from December to April and a dry season from May to November.",
+            "famous_cuisine": "Coconut-based dishes and fresh seafood.",
+            "popular_attractions": [
+                "Pemba Beach",
+                "Quirimbas National Park",
+                "Ibo Island"
+            ]
+        }
+    ]
+}

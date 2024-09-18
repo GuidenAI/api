@@ -1,0 +1,40 @@
+{
+    "country": "Fiji",
+    "describe": "Fiji is an archipelago in the South Pacific Ocean, known for its stunning beaches, coral reefs, and vibrant culture. It consists of over 300 islands, with the two major ones being Viti Levu and Vanua Levu. Fiji is famous for its friendly people, tropical climate, and as a popular destination for tourists seeking relaxation and adventure.",
+    "image_link": "https://example.com/fiji-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Suva",
+            "geographical_location": "Located on the southeast coast of the island of Viti Levu.",
+            "climate": "Tropical rainforest climate with consistent temperatures and high humidity.",
+            "famous_cuisine": "Kokoda (Fijian ceviche), Lovo (traditional feast cooked in an earth oven).",
+            "popular_attractions": [
+                "Fiji Museum",
+                "Colo-i-Suva Forest Park",
+                "Municipal Market"
+            ]
+        },
+        {
+            "name": "🏝 Nadi",
+            "geographical_location": "Situated on the western side of Viti Levu, near the Nadi River.",
+            "climate": "Tropical savanna climate with a distinct wet and dry season.",
+            "famous_cuisine": "Rourou (taro leaves in coconut milk), Fijian curry.",
+            "popular_attractions": [
+                "Sri Siva Subramaniya Temple",
+                "Garden of the Sleeping Giant",
+                "Denarau Island"
+            ]
+        },
+        {
+            "name": "🏝 Lautoka",
+            "geographical_location": "Located on the western coast of Viti Levu, north of Nadi.",
+            "climate": "Tropical climate with a warm, humid atmosphere.",
+            "famous_cuisine": "Palusami (taro leaves with coconut cream), Cassava cake.",
+            "popular_attractions": [
+                "Koroyanitu National Heritage Park",
+                "Churchill Park",
+                "Botanical Gardens"
+            ]
+        }
+    ]
+}

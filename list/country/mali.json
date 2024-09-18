@@ -1,0 +1,40 @@
+{
+    "country": "Mali",
+    "describe": "Mali is a landlocked country in West Africa, known for its rich history, diverse cultures, and significant historical sites. It is home to the ancient city of Timbuktu and the Niger River, which is a vital water source for the region.",
+    "image_link": "https://example.com/mali-image.jpg",
+    "cities": [
+        {
+            "name": "🕌 Bamako",
+            "geographical_location": "Located in the southwestern part of Mali along the Niger River.",
+            "climate": "Bamako has a tropical savanna climate with a wet season from May to October and a dry season from November to April.",
+            "famous_cuisine": "Tô (millet porridge), Jollof rice, and Grilled meat skewers.",
+            "popular_attractions": [
+                "National Museum of Mali",
+                "Bamako Grand Mosque",
+                "Parc National du Mali"
+            ]
+        },
+        {
+            "name": "🏜 Timbuktu",
+            "geographical_location": "Situated in the central part of Mali, near the Niger River.",
+            "climate": "Timbuktu has a hot desert climate with extremely hot summers and mild winters.",
+            "famous_cuisine": "Rice with peanut sauce, Couscous, and Dried fish dishes.",
+            "popular_attractions": [
+                "Sankore Mosque",
+                "Djinguereber Mosque",
+                "Timbuktu Manuscripts"
+            ]
+        },
+        {
+            "name": "🏜 Gao",
+            "geographical_location": "Located in eastern Mali, along the Niger River.",
+            "climate": "Gao has a hot desert climate with very high temperatures and minimal rainfall.",
+            "famous_cuisine": "Millet-based dishes, Fish stews, and Spicy sauces.",
+            "popular_attractions": [
+                "Askia Tomb",
+                "Gao Grand Mosque",
+                "Niger River excursions"
+            ]
+        }
+    ]
+}

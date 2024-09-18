@@ -1,0 +1,40 @@
+{
+    "country": "Norway",
+    "describe": "Norway, known for its stunning fjords, northern lights, and rich Viking history, is a Scandinavian country located in Northern Europe. It boasts a high standard of living, a strong economy, and a commitment to environmental sustainability.",
+    "image_link": "https://example.com/norway.jpg",
+    "cities": [
+        {
+            "name": "🌳 Oslo",
+            "geographical_location": "Located at the head of the Oslofjord in southeastern Norway.",
+            "climate": "Humid continental climate with warm summers and cold, snowy winters.",
+            "famous_cuisine": "Rakfisk, Kjøttkaker, and Lutefisk.",
+            "popular_attractions": [
+                "Vigeland Park",
+                "Akershus Fortress",
+                "The Viking Ship Museum"
+            ]
+        },
+        {
+            "name": "🏝 Bergen",
+            "geographical_location": "Situated on the west coast, surrounded by mountains and fjords.",
+            "climate": "Oceanic climate with mild winters and cool, wet summers.",
+            "famous_cuisine": "Bergen Fish Soup and Raspeballer.",
+            "popular_attractions": [
+                "Bryggen Hanseatic Wharf",
+                "Fløyen Mountain",
+                "Bergenhus Fortress"
+            ]
+        },
+        {
+            "name": "🌆 TromsÃ¸",
+            "geographical_location": "Located above the Arctic Circle in northern Norway.",
+            "climate": "Subarctic climate with long, cold winters and short, mild summers.",
+            "famous_cuisine": "Reindeer stew and Arctic char.",
+            "popular_attractions": [
+                "The Arctic Cathedral",
+                "Polaria",
+                "Tromsø Cable Car"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "country": "Rwanda",
+    "describe": "Rwanda, known as the 'Land of a Thousand Hills', is a landlocked country in East-Central Africa. It is renowned for its breathtaking landscapes, rich culture, and vibrant wildlife, including the famous mountain gorillas in Volcanoes National Park.",
+    "image_link": "https://example.com/rwanda-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Kigali",
+            "geographical_location": "Central Rwanda",
+            "climate": "Kigali has a tropical savanna climate with a pronounced dry season. The city enjoys moderate temperatures throughout the year.",
+            "famous_cuisine": "Brochettes, Isombe, and Ugali",
+            "popular_attractions": [
+                "Kigali Genocide Memorial",
+                "Inema Art Center",
+                "Kimironko Market"
+            ]
+        },
+        {
+            "name": "🌳 Musanze",
+            "geographical_location": "Northwestern Rwanda",
+            "climate": "Musanze has a temperate climate due to its elevation, with cooler temperatures and significant rainfall.",
+            "famous_cuisine": "Ibirayi (potatoes), Akabenz (pork), and Agatogo",
+            "popular_attractions": [
+                "Volcanoes National Park",
+                "Musanze Caves",
+                "Twin Lakes of Burera and Ruhondo"
+            ]
+        },
+        {
+            "name": "🌆 Huye",
+            "geographical_location": "Southern Rwanda",
+            "climate": "Huye experiences a tropical climate with a wet and dry season, and it is generally cooler due to its elevation.",
+            "famous_cuisine": "Isombe, Ikivuguto (fermented milk), and Ibihaza (pumpkin stew)",
+            "popular_attractions": [
+                "Ethnographic Museum",
+                "Arboretum de Ruhande",
+                "Butare Cathedral"
+            ]
+        }
+    ]
+}

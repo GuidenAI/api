@@ -1,0 +1,20 @@
+{
+    "country": "Vatican City",
+    "describe": "Vatican City, officially known as the Vatican City State, is an independent city-state enclaved within Rome, Italy. It is the spiritual and administrative center of the Roman Catholic Church and the residence of the Pope. With an area of about 44 hectares (110 acres) and a population of around 800, it is the smallest state in the world by both area and population.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vatican_City_at_night.jpg/1200px-Vatican_City_at_night.jpg",
+    "cities": [
+        {
+            "name": "🏙 Vatican City",
+            "geographical_location": "Located within the city of Rome, Italy, Vatican City is situated on the Vatican Hill, on the west bank of the Tiber River.",
+            "climate": "Vatican City has a Mediterranean climate with mild, rainy winters and hot, dry summers.",
+            "famous_cuisine": "While Vatican City does not have its own distinct cuisine, it shares culinary traditions with Rome and Italy, including dishes like pasta, risotto, and gelato.",
+            "popular_attractions": [
+                "St. Peter's Basilica",
+                "The Vatican Museums",
+                "The Sistine Chapel",
+                "St. Peter's Square",
+                "The Vatican Gardens"
+            ]
+        }
+    ]
+}

@@ -1,778 +1,778 @@
 [
-    {
-      "name": "Afghanistan",
-      "url": "https://data.guidenai.com/list/country/afghanistan.json"
-    },
-    {
-      "name": "Albania",
-      "url": "https://data.guidenai.com/list/country/albania.json"
-    },
-    {
-      "name": "Algeria",
-      "url": "https://data.guidenai.com/list/country/algeria.json"
-    },
-    {
-      "name": "Andorra",
-      "url": "https://data.guidenai.com/list/country/andorra.json"
-    },
-    {
-      "name": "Angola",
-      "url": "https://data.guidenai.com/list/country/angola.json"
-    },
-    {
-      "name": "Argentina",
-      "url": "https://data.guidenai.com/list/country/argentina.json"
-    },
-    {
-      "name": "Armenia",
-      "url": "https://data.guidenai.com/list/country/armenia.json"
-    },
-    {
-      "name": "Australia",
-      "url": "https://data.guidenai.com/list/country/australia.json"
-    },
-    {
-      "name": "Austria",
-      "url": "https://data.guidenai.com/list/country/austria.json"
-    },
-    {
-      "name": "Azerbaijan",
-      "url": "https://data.guidenai.com/list/country/azerbaijan.json"
-    },
-    {
-      "name": "Bahamas",
-      "url": "https://data.guidenai.com/list/country/bahamas.json"
-    },
-    {
-      "name": "Bahrain",
-      "url": "https://data.guidenai.com/list/country/bahrain.json"
-    },
-    {
-      "name": "Bangladesh",
-      "url": "https://data.guidenai.com/list/country/bangladesh.json"
-    },
-    {
-      "name": "Barbados",
-      "url": "https://data.guidenai.com/list/country/barbados.json"
-    },
-    {
-      "name": "Belarus",
-      "url": "https://data.guidenai.com/list/country/belarus.json"
-    },
-    {
-      "name": "Belgium",
-      "url": "https://data.guidenai.com/list/country/belgium.json"
-    },
-    {
-      "name": "Belize",
-      "url": "https://data.guidenai.com/list/country/belize.json"
-    },
-    {
-      "name": "Benin",
-      "url": "https://data.guidenai.com/list/country/benin.json"
-    },
-    {
-      "name": "Bhutan",
-      "url": "https://data.guidenai.com/list/country/bhutan.json"
-    },
-    {
-      "name": "Bolivia",
-      "url": "https://data.guidenai.com/list/country/bolivia.json"
-    },
-    {
-      "name": "Bosnia and Herzegovina",
-      "url": "https://data.guidenai.com/list/country/bosniaandherzegovina.json"
-    },
-    {
-      "name": "Botswana",
-      "url": "https://data.guidenai.com/list/country/botswana.json"
-    },
-    {
-      "name": "Brazil",
-      "url": "https://data.guidenai.com/list/country/brazil.json"
-    },
-    {
-      "name": "Brunei",
-      "url": "https://data.guidenai.com/list/country/brunei.json"
-    },
-    {
-      "name": "Bulgaria",
-      "url": "https://data.guidenai.com/list/country/bulgaria.json"
-    },
-    {
-      "name": "Burkina Faso",
-      "url": "https://data.guidenai.com/list/country/burkinafaso.json"
-    },
-    {
-      "name": "Burundi",
-      "url": "https://data.guidenai.com/list/country/burundi.json"
-    },
-    {
-      "name": "Cabo Verde",
-      "url": "https://data.guidenai.com/list/country/capoverde.json"
-    },
-    {
-      "name": "Cambodia",
-      "url": "https://data.guidenai.com/list/country/cambodia.json"
-    },
-    {
-      "name": "Cameroon",
-      "url": "https://data.guidenai.com/list/country/cameroon.json"
-    },
-    {
-      "name": "Canada",
-      "url": "https://data.guidenai.com/list/country/canada.json"
-    },
-    {
-      "name": "Central African Republic",
-      "url": "https://data.guidenai.com/list/country/centralafricanrepublic.json"
-    },
-    {
-      "name": "Chad",
-      "url": "https://data.guidenai.com/list/country/chad.json"
-    },
-    {
-      "name": "Chile",
-      "url": "https://data.guidenai.com/list/country/chile.json"
-    },
-    {
-      "name": "China",
-      "url": "https://data.guidenai.com/list/country/china.json"
-    },
-    {
-      "name": "Colombia",
-      "url": "https://data.guidenai.com/list/country/colombia.json"
-    },
-    {
-      "name": "Comoros",
-      "url": "https://data.guidenai.com/list/country/comoros.json"
-    },
-    {
-      "name": "Congo (Congo-Brazzaville)",
-      "url": "https://data.guidenai.com/list/country/congobrazzaville.json"
-    },
-    {
-      "name": "Costa Rica",
-      "url": "https://data.guidenai.com/list/country/costarica.json"
-    },
-    {
-      "name": "Croatia",
-      "url": "https://data.guidenai.com/list/country/croatia.json"
-    },
-    {
-      "name": "Cuba",
-      "url": "https://data.guidenai.com/list/country/cuba.json"
-    },
-    {
-      "name": "Cyprus",
-      "url": "https://data.guidenai.com/list/country/cyprus.json"
-    },
-    {
-      "name": "Czech Republic",
-      "url": "https://data.guidenai.com/list/country/czechrepublic.json"
-    },
-    {
-      "name": "Democratic Republic of the Congo",
-      "url": "https://data.guidenai.com/list/country/democraticrepublicofthecongo.json"
-    },
-    {
-      "name": "Denmark",
-      "url": "https://data.guidenai.com/list/country/denmark.json"
-    },
-    {
-      "name": "Djibouti",
-      "url": "https://data.guidenai.com/list/country/djibouti.json"
-    },
-    {
-      "name": "Dominica",
-      "url": "https://data.guidenai.com/list/country/dominica.json"
-    },
-    {
-      "name": "Dominican Republic",
-      "url": "https://data.guidenai.com/list/country/dominicanrepublic.json"
-    },
-    {
-      "name": "Ecuador",
-      "url": "https://data.guidenai.com/list/country/ecuador.json"
-    },
-    {
-      "name": "Egypt",
-      "url": "https://data.guidenai.com/list/country/egypt.json"
-    },
-    {
-      "name": "El Salvador",
-      "url": "https://data.guidenai.com/list/country/elsalvador.json"
-    },
-    {
-      "name": "Equatorial Guinea",
-      "url": "https://data.guidenai.com/list/country/equatorialguinea.json"
-    },
-    {
-      "name": "Eritrea",
-      "url": "https://data.guidenai.com/list/country/eritrea.json"
-    },
-    {
-      "name": "Estonia",
-      "url": "https://data.guidenai.com/list/country/estonia.json"
-    },
-    {
-      "name": "Eswatini",
-      "url": "https://data.guidenai.com/list/country/eswatini.json"
-    },
-    {
-      "name": "Ethiopia",
-      "url": "https://data.guidenai.com/list/country/ethiopia.json"
-    },
-    {
-      "name": "Fiji",
-      "url": "https://data.guidenai.com/list/country/fiji.json"
-    },
-    {
-      "name": "Finland",
-      "url": "https://data.guidenai.com/list/country/finland.json"
-    },
-    {
-      "name": "France",
-      "url": "https://data.guidenai.com/list/country/france.json"
-    },
-    {
-      "name": "Gabon",
-      "url": "https://data.guidenai.com/list/country/gabon.json"
-    },
-    {
-      "name": "Gambia",
-      "url": "https://data.guidenai.com/list/country/gambia.json"
-    },
-    {
-      "name": "Georgia",
-      "url": "https://data.guidenai.com/list/country/georgia.json"
-    },
-    {
-      "name": "Germany",
-      "url": "https://data.guidenai.com/list/country/germany.json"
-    },
-    {
-      "name": "Ghana",
-      "url": "https://data.guidenai.com/list/country/ghana.json"
-    },
-    {
-      "name": "Greece",
-      "url": "https://data.guidenai.com/list/country/greece.json"
-    },
-    {
-      "name": "Grenada",
-      "url": "https://data.guidenai.com/list/country/grenada.json"
-    },
-    {
-      "name": "Guatemala",
-      "url": "https://data.guidenai.com/list/country/guatemala.json"
-    },
-    {
-      "name": "Guinea",
-      "url": "https://data.guidenai.com/list/country/guinea.json"
-    },
-    {
-      "name": "Guinea-Bissau",
-      "url": "https://data.guidenai.com/list/country/guineabissau.json"
-    },
-    {
-      "name": "Guyana",
-      "url": "https://data.guidenai.com/list/country/guyana.json"
-    },
-    {
-      "name": "Haiti",
-      "url": "https://data.guidenai.com/list/country/haiti.json"
-    },
-    {
-      "name": "Honduras",
-      "url": "https://data.guidenai.com/list/country/honduras.json"
-    },
-    {
-      "name": "Hungary",
-      "url": "https://data.guidenai.com/list/country/hungary.json"
-    },
-    {
-      "name": "Iceland",
-      "url": "https://data.guidenai.com/list/country/iceland.json"
-    },
-    {
-      "name": "India",
-      "url": "https://data.guidenai.com/list/country/india.json"
-    },
-    {
-      "name": "Indonesia",
-      "url": "https://data.guidenai.com/list/country/indonesia.json"
-    },
-    {
-      "name": "Iran",
-      "url": "https://data.guidenai.com/list/country/iran.json"
-    },
-    {
-      "name": "Iraq",
-      "url": "https://data.guidenai.com/list/country/iraq.json"
-    },
-    {
-      "name": "Ireland",
-      "url": "https://data.guidenai.com/list/country/ireland.json"
-    },
-    {
-      "name": "Israel",
-      "url": "https://data.guidenai.com/list/country/israel.json"
-    },
-    {
-      "name": "Italy",
-      "url": "https://data.guidenai.com/list/country/italy.json"
-    },
-    {
-      "name": "Ivory Coast",
-      "url": "https://data.guidenai.com/list/country/ivorycoast.json"
-    },
-    {
-      "name": "Jamaica",
-      "url": "https://data.guidenai.com/list/country/jamaica.json"
-    },
-    {
-      "name": "Japan",
-      "url": "https://data.guidenai.com/list/country/japan.json"
-    },
-    {
-      "name": "Jordan",
-      "url": "https://data.guidenai.com/list/country/jordan.json"
-    },
-    {
-      "name": "Kazakhstan",
-      "url": "https://data.guidenai.com/list/country/kazakhstan.json"
-    },
-    {
-      "name": "Kenya",
-      "url": "https://data.guidenai.com/list/country/kenya.json"
-    },
-    {
-      "name": "Kiribati",
-      "url": "https://data.guidenai.com/list/country/kiribati.json"
-    },
-    {
-      "name": "Kuwait",
-      "url": "https://data.guidenai.com/list/country/kuwait.json"
-    },
-    {
-      "name": "Kyrgyzstan",
-      "url": "https://data.guidenai.com/list/country/kyrgyzstan.json"
-    },
-    {
-      "name": "Laos",
-      "url": "https://data.guidenai.com/list/country/laos.json"
-    },
-    {
-      "name": "Latvia",
-      "url": "https://data.guidenai.com/list/country/latvia.json"
-    },
-    {
-      "name": "Lebanon",
-      "url": "https://data.guidenai.com/list/country/lebanon.json"
-    },
-    {
-      "name": "Lesotho",
-      "url": "https://data.guidenai.com/list/country/lesotho.json"
-    },
-    {
-      "name": "Liberia",
-      "url": "https://data.guidenai.com/list/country/liberia.json"
-    },
-    {
-      "name": "Libya",
-      "url": "https://data.guidenai.com/list/country/libya.json"
-    },
-    {
-      "name": "Liechtenstein",
-      "url": "https://data.guidenai.com/list/country/liechtenstein.json"
-    },
-    {
-      "name": "Lithuania",
-      "url": "https://data.guidenai.com/list/country/lithuania.json"
-    },
-    {
-      "name": "Luxembourg",
-      "url": "https://data.guidenai.com/list/country/luxembourg.json"
-    },
-    {
-      "name": "Madagascar",
-      "url": "https://data.guidenai.com/list/country/madagascar.json"
-    },
-    {
-      "name": "Malawi",
-      "url": "https://data.guidenai.com/list/country/malawi.json"
-    },
-    {
-      "name": "Malaysia",
-      "url": "https://data.guidenai.com/list/country/malaysia.json"
-    },
-    {
-      "name": "Maldives",
-      "url": "https://data.guidenai.com/list/country/maldives.json"
-    },
-    {
-      "name": "Mali",
-      "url": "https://data.guidenai.com/list/country/mali.json"
-    },
-    {
-      "name": "Malta",
-      "url": "https://data.guidenai.com/list/country/malta.json"
-    },
-    {
-      "name": "Marshall Islands",
-      "url": "https://data.guidenai.com/list/country/marshallislands.json"
-    },
-    {
-      "name": "Mauritania",
-      "url": "https://data.guidenai.com/list/country/mauritania.json"
-    },
-    {
-      "name": "Mauritius",
-      "url": "https://data.guidenai.com/list/country/mauritius.json"
-    },
-    {
-      "name": "Mexico",
-      "url": "https://data.guidenai.com/list/country/mexico.json"
-    },
-    {
-      "name": "Micronesia",
-      "url": "https://data.guidenai.com/list/country/micronesia.json"
-    },
-    {
-      "name": "Moldova",
-      "url": "https://data.guidenai.com/list/country/moldova.json"
-    },
-    {
-      "name": "Monaco",
-      "url": "https://data.guidenai.com/list/country/monaco.json"
-    },
-    {
-      "name": "Mongolia",
-      "url": "https://data.guidenai.com/list/country/mongolia.json"
-    },
-    {
-      "name": "Montenegro",
-      "url": "https://data.guidenai.com/list/country/montenegro.json"
-    },
-    {
-      "name": "Morocco",
-      "url": "https://data.guidenai.com/list/country/morocco.json"
-    },
-    {
-      "name": "Mozambique",
-      "url": "https://data.guidenai.com/list/country/mozambique.json"
-    },
-    {
-      "name": "Myanmar",
-      "url": "https://data.guidenai.com/list/country/myanmar.json"
-    },
-    {
-      "name": "Namibia",
-      "url": "https://data.guidenai.com/list/country/namibia.json"
-    },
-    {
-      "name": "Nauru",
-      "url": "https://data.guidenai.com/list/country/nauru.json"
-    },
-    {
-      "name": "Nepal",
-      "url": "https://data.guidenai.com/list/country/nepal.json"
-    },
-    {
-      "name": "Netherlands",
-      "url": "https://data.guidenai.com/list/country/netherlands.json"
-    },
-    {
-      "name": "New Zealand",
-      "url": "https://data.guidenai.com/list/country/newzealand.json"
-    },
-    {
-      "name": "Nicaragua",
-      "url": "https://data.guidenai.com/list/country/nicaragua.json"
-    },
-    {
-      "name": "Niger",
-      "url": "https://data.guidenai.com/list/country/niger.json"
-    },
-    {
-      "name": "Nigeria",
-      "url": "https://data.guidenai.com/list/country/nigeria.json"
-    },
-    {
-      "name": "North Korea",
-      "url": "https://data.guidenai.com/list/country/northkorea.json"
-    },
-    {
-      "name": "North Macedonia",
-      "url": "https://data.guidenai.com/list/country/northmacedonia.json"
-    },
-    {
-      "name": "Norway",
-      "url": "https://data.guidenai.com/list/country/norway.json"
-    },
-    {
-      "name": "Oman",
-      "url": "https://data.guidenai.com/list/country/oman.json"
-    },
-    {
-      "name": "Pakistan",
-      "url": "https://data.guidenai.com/list/country/pakistan.json"
-    },
-    {
-      "name": "Palau",
-      "url": "https://data.guidenai.com/list/country/palau.json"
-    },
-    {
-      "name": "Panama",
-      "url": "https://data.guidenai.com/list/country/panama.json"
-    },
-    {
-      "name": "Papua New Guinea",
-      "url": "https://data.guidenai.com/list/country/papuanewguinea.json"
-    },
-    {
-      "name": "Paraguay",
-      "url": "https://data.guidenai.com/list/country/paraguay.json"
-    },
-    {
-      "name": "Peru",
-      "url": "https://data.guidenai.com/list/country/peru.json"
-    },
-    {
-      "name": "Philippines",
-      "url": "https://data.guidenai.com/list/country/philippines.json"
-    },
-    {
-      "name": "Poland",
-      "url": "https://data.guidenai.com/list/country/poland.json"
-    },
-    {
-      "name": "Portugal",
-      "url": "https://data.guidenai.com/list/country/portugal.json"
-    },
-    {
-      "name": "Qatar",
-      "url": "https://data.guidenai.com/list/country/qatar.json"
-    },
-    {
-      "name": "Romania",
-      "url": "https://data.guidenai.com/list/country/romania.json"
-    },
-    {
-      "name": "Russia",
-      "url": "https://data.guidenai.com/list/country/russia.json"
-    },
-    {
-      "name": "Rwanda",
-      "url": "https://data.guidenai.com/list/country/rwanda.json"
-    },
-    {
-      "name": "Saint Kitts and Nevis",
-      "url": "https://data.guidenai.com/list/country/saintkittsandnevis.json"
-    },
-    {
-      "name": "Saint Lucia",
-      "url": "https://data.guidenai.com/list/country/saintlucia.json"
-    },
-    {
-      "name": "Saint Vincent and the Grenadines",
-      "url": "https://data.guidenai.com/list/country/saintvincentandthegrenadines.json"
-    },
-    {
-      "name": "Samoa",
-      "url": "https://data.guidenai.com/list/country/samoa.json"
-    },
-    {
-      "name": "San Marino",
-      "url": "https://data.guidenai.com/list/country/sanmarino.json"
-    },
-    {
-      "name": "Sao Tome and Principe",
-      "url": "https://data.guidenai.com/list/country/saotomeandprincipe.json"
-    },
-    {
-      "name": "Saudi Arabia",
-      "url": "https://data.guidenai.com/list/country/saudiarabia.json"
-    },
-    {
-      "name": "Senegal",
-      "url": "https://data.guidenai.com/list/country/senegal.json"
-    },
-    {
-      "name": "Serbia",
-      "url": "https://data.guidenai.com/list/country/serbia.json"
-    },
-    {
-      "name": "Seychelles",
-      "url": "https://data.guidenai.com/list/country/seychelles.json"
-    },
-    {
-      "name": "Sierra Leone",
-      "url": "https://data.guidenai.com/list/country/sierraleone.json"
-    },
-    {
-      "name": "Singapore",
-      "url": "https://data.guidenai.com/list/country/singapore.json"
-    },
-    {
-      "name": "Slovakia",
-      "url": "https://data.guidenai.com/list/country/slovakia.json"
-    },
-    {
-      "name": "Slovenia",
-      "url": "https://data.guidenai.com/list/country/slovenia.json"
-    },
-    {
-      "name": "Solomon Islands",
-      "url": "https://data.guidenai.com/list/country/solomonislands.json"
-    },
-    {
-      "name": "Somalia",
-      "url": "https://data.guidenai.com/list/country/somalia.json"
-    },
-    {
-      "name": "South Africa",
-      "url": "https://data.guidenai.com/list/country/southafrica.json"
-    },
-    {
-      "name": "South Korea",
-      "url": "https://data.guidenai.com/list/country/southkorea.json"
-    },
-    {
-      "name": "South Sudan",
-      "url": "https://data.guidenai.com/list/country/southsudan.json"
-    },
-    {
-      "name": "Spain",
-      "url": "https://data.guidenai.com/list/country/spain.json"
-    },
-    {
-      "name": "Sri Lanka",
-      "url": "https://data.guidenai.com/list/country/srilanka.json"
-    },
-    {
-      "name": "Sudan",
-      "url": "https://data.guidenai.com/list/country/sudan.json"
-    },
-    {
-      "name": "Suriname",
-      "url": "https://data.guidenai.com/list/country/suriname.json"
-    },
-    {
-      "name": "Sweden",
-      "url": "https://data.guidenai.com/list/country/sweden.json"
-    },
-    {
-      "name": "Switzerland",
-      "url": "https://data.guidenai.com/list/country/switzerland.json"
-    },
-    {
-      "name": "Syria",
-      "url": "https://data.guidenai.com/list/country/syria.json"
-    },
-    {
-      "name": "Taiwan",
-      "url": "https://data.guidenai.com/list/country/taiwan.json"
-    },
-    {
-      "name": "Tajikistan",
-      "url": "https://data.guidenai.com/list/country/tajikistan.json"
-    },
-    {
-      "name": "Tanzania",
-      "url": "https://data.guidenai.com/list/country/tanzania.json"
-    },
-    {
-      "name": "Thailand",
-      "url": "https://data.guidenai.com/list/country/thailand.json"
-    },
-    {
-      "name": "Timor-Leste",
-      "url": "https://data.guidenai.com/list/country/timorleste.json"
-    },
-    {
-      "name": "Togo",
-      "url": "https://data.guidenai.com/list/country/togo.json"
-    },
-    {
-      "name": "Tonga",
-      "url": "https://data.guidenai.com/list/country/tonga.json"
-    },
-    {
-      "name": "Trinidad and Tobago",
-      "url": "https://data.guidenai.com/list/country/trinidadandtobago.json"
-    },
-    {
-      "name": "Tunisia",
-      "url": "https://data.guidenai.com/list/country/tunisia.json"
-    },
-    {
-      "name": "Turkey",
-      "url": "https://data.guidenai.com/list/country/turkey.json"
-    },
-    {
-      "name": "Turkmenistan",
-      "url": "https://data.guidenai.com/list/country/turkmenistan.json"
-    },
-    {
-      "name": "Tuvalu",
-      "url": "https://data.guidenai.com/list/country/tuvalu.json"
-    },
-    {
-      "name": "Uganda",
-      "url": "https://data.guidenai.com/list/country/uganda.json"
-    },
-    {
-      "name": "Ukraine",
-      "url": "https://data.guidenai.com/list/country/ukraine.json"
-    },
-    {
-      "name": "United Arab Emirates",
-      "url": "https://data.guidenai.com/list/country/unitedarabemirates.json"
-    },
-    {
-      "name": "United Kingdom",
-      "url": "https://data.guidenai.com/list/country/unitedkingdom.json"
-    },
-    {
-      "name": "United States",
-      "url": "https://data.guidenai.com/list/country/unitedstates.json"
-    },
-    {
-      "name": "Uruguay",
-      "url": "https://data.guidenai.com/list/country/uruguay.json"
-    },
-    {
-      "name": "Uzbekistan",
-      "url": "https://data.guidenai.com/list/country/uzbekistan.json"
-    },
-    {
-      "name": "Vanuatu",
-      "url": "https://data.guidenai.com/list/country/vanuatu.json"
-    },
-    {
-      "name": "Vatican City",
-      "url": "https://data.guidenai.com/list/country/vaticancity.json"
-    },
-    {
-      "name": "Venezuela",
-      "url": "https://data.guidenai.com/list/country/venezuela.json"
-    },
-    {
-      "name": "Vietnam",
-      "url": "https://data.guidenai.com/list/country/vietnam.json"
-    },
-    {
-      "name": "Yemen",
-      "url": "https://data.guidenai.com/list/country/yemen.json"
-    },
-    {
-      "name": "Zambia",
-      "url": "https://data.guidenai.com/list/country/zambia.json"
-    },
-    {
-      "name": "Zimbabwe",
-      "url": "https://data.guidenai.com/list/country/zimbabwe.json"
-    }
+  {
+    "name": "Afghanistan",
+    "url": "https://data.guidenai.com/list/country/afghanistan.json"
+  },
+  {
+    "name": "Albania",
+    "url": "https://data.guidenai.com/list/country/albania.json"
+  },
+  {
+    "name": "Algeria",
+    "url": "https://data.guidenai.com/list/country/algeria.json"
+  },
+  {
+    "name": "Andorra",
+    "url": "https://data.guidenai.com/list/country/andorra.json"
+  },
+  {
+    "name": "Angola",
+    "url": "https://data.guidenai.com/list/country/angola.json"
+  },
+  {
+    "name": "Argentina",
+    "url": "https://data.guidenai.com/list/country/argentina.json"
+  },
+  {
+    "name": "Armenia",
+    "url": "https://data.guidenai.com/list/country/armenia.json"
+  },
+  {
+    "name": "Australia",
+    "url": "https://data.guidenai.com/list/country/australia.json"
+  },
+  {
+    "name": "Austria",
+    "url": "https://data.guidenai.com/list/country/austria.json"
+  },
+  {
+    "name": "Azerbaijan",
+    "url": "https://data.guidenai.com/list/country/azerbaijan.json"
+  },
+  {
+    "name": "Bahamas",
+    "url": "https://data.guidenai.com/list/country/bahamas.json"
+  },
+  {
+    "name": "Bahrain",
+    "url": "https://data.guidenai.com/list/country/bahrain.json"
+  },
+  {
+    "name": "Bangladesh",
+    "url": "https://data.guidenai.com/list/country/bangladesh.json"
+  },
+  {
+    "name": "Barbados",
+    "url": "https://data.guidenai.com/list/country/barbados.json"
+  },
+  {
+    "name": "Belarus",
+    "url": "https://data.guidenai.com/list/country/belarus.json"
+  },
+  {
+    "name": "Belgium",
+    "url": "https://data.guidenai.com/list/country/belgium.json"
+  },
+  {
+    "name": "Belize",
+    "url": "https://data.guidenai.com/list/country/belize.json"
+  },
+  {
+    "name": "Benin",
+    "url": "https://data.guidenai.com/list/country/benin.json"
+  },
+  {
+    "name": "Bhutan",
+    "url": "https://data.guidenai.com/list/country/bhutan.json"
+  },
+  {
+    "name": "Bolivia",
+    "url": "https://data.guidenai.com/list/country/bolivia.json"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "url": "https://data.guidenai.com/list/country/bosnia_and_herzegovina.json"
+  },
+  {
+    "name": "Botswana",
+    "url": "https://data.guidenai.com/list/country/botswana.json"
+  },
+  {
+    "name": "Brazil",
+    "url": "https://data.guidenai.com/list/country/brazil.json"
+  },
+  {
+    "name": "Brunei",
+    "url": "https://data.guidenai.com/list/country/brunei.json"
+  },
+  {
+    "name": "Bulgaria",
+    "url": "https://data.guidenai.com/list/country/bulgaria.json"
+  },
+  {
+    "name": "Burkina Faso",
+    "url": "https://data.guidenai.com/list/country/burkina_faso.json"
+  },
+  {
+    "name": "Burundi",
+    "url": "https://data.guidenai.com/list/country/burundi.json"
+  },
+  {
+    "name": "Cabo Verde",
+    "url": "https://data.guidenai.com/list/country/cabo_verde.json"
+  },
+  {
+    "name": "Cambodia",
+    "url": "https://data.guidenai.com/list/country/cambodia.json"
+  },
+  {
+    "name": "Cameroon",
+    "url": "https://data.guidenai.com/list/country/cameroon.json"
+  },
+  {
+    "name": "Canada",
+    "url": "https://data.guidenai.com/list/country/canada.json"
+  },
+  {
+    "name": "Central African Republic",
+    "url": "https://data.guidenai.com/list/country/central_african_republic.json"
+  },
+  {
+    "name": "Chad",
+    "url": "https://data.guidenai.com/list/country/chad.json"
+  },
+  {
+    "name": "Chile",
+    "url": "https://data.guidenai.com/list/country/chile.json"
+  },
+  {
+    "name": "China",
+    "url": "https://data.guidenai.com/list/country/china.json"
+  },
+  {
+    "name": "Colombia",
+    "url": "https://data.guidenai.com/list/country/colombia.json"
+  },
+  {
+    "name": "Comoros",
+    "url": "https://data.guidenai.com/list/country/comoros.json"
+  },
+  {
+    "name": "Congo (Congo-Brazzaville)",
+    "url": "https://data.guidenai.com/list/country/congo_congo_brazzaville.json"
+  },
+  {
+    "name": "Costa Rica",
+    "url": "https://data.guidenai.com/list/country/costa_rica.json"
+  },
+  {
+    "name": "Croatia",
+    "url": "https://data.guidenai.com/list/country/croatia.json"
+  },
+  {
+    "name": "Cuba",
+    "url": "https://data.guidenai.com/list/country/cuba.json"
+  },
+  {
+    "name": "Cyprus",
+    "url": "https://data.guidenai.com/list/country/cyprus.json"
+  },
+  {
+    "name": "Czech Republic",
+    "url": "https://data.guidenai.com/list/country/czech_republic.json"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "url": "https://data.guidenai.com/list/country/democratic_republic_of_the_congo.json"
+  },
+  {
+    "name": "Denmark",
+    "url": "https://data.guidenai.com/list/country/denmark.json"
+  },
+  {
+    "name": "Djibouti",
+    "url": "https://data.guidenai.com/list/country/djibouti.json"
+  },
+  {
+    "name": "Dominica",
+    "url": "https://data.guidenai.com/list/country/dominica.json"
+  },
+  {
+    "name": "Dominican Republic",
+    "url": "https://data.guidenai.com/list/country/dominican_republic.json"
+  },
+  {
+    "name": "Ecuador",
+    "url": "https://data.guidenai.com/list/country/ecuador.json"
+  },
+  {
+    "name": "Egypt",
+    "url": "https://data.guidenai.com/list/country/egypt.json"
+  },
+  {
+    "name": "El Salvador",
+    "url": "https://data.guidenai.com/list/country/el_salvador.json"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "url": "https://data.guidenai.com/list/country/equatorial_guinea.json"
+  },
+  {
+    "name": "Eritrea",
+    "url": "https://data.guidenai.com/list/country/eritrea.json"
+  },
+  {
+    "name": "Estonia",
+    "url": "https://data.guidenai.com/list/country/estonia.json"
+  },
+  {
+    "name": "Eswatini",
+    "url": "https://data.guidenai.com/list/country/eswatini.json"
+  },
+  {
+    "name": "Ethiopia",
+    "url": "https://data.guidenai.com/list/country/ethiopia.json"
+  },
+  {
+    "name": "Fiji",
+    "url": "https://data.guidenai.com/list/country/fiji.json"
+  },
+  {
+    "name": "Finland",
+    "url": "https://data.guidenai.com/list/country/finland.json"
+  },
+  {
+    "name": "France",
+    "url": "https://data.guidenai.com/list/country/france.json"
+  },
+  {
+    "name": "Gabon",
+    "url": "https://data.guidenai.com/list/country/gabon.json"
+  },
+  {
+    "name": "Gambia",
+    "url": "https://data.guidenai.com/list/country/gambia.json"
+  },
+  {
+    "name": "Georgia",
+    "url": "https://data.guidenai.com/list/country/georgia.json"
+  },
+  {
+    "name": "Germany",
+    "url": "https://data.guidenai.com/list/country/germany.json"
+  },
+  {
+    "name": "Ghana",
+    "url": "https://data.guidenai.com/list/country/ghana.json"
+  },
+  {
+    "name": "Greece",
+    "url": "https://data.guidenai.com/list/country/greece.json"
+  },
+  {
+    "name": "Grenada",
+    "url": "https://data.guidenai.com/list/country/grenada.json"
+  },
+  {
+    "name": "Guatemala",
+    "url": "https://data.guidenai.com/list/country/guatemala.json"
+  },
+  {
+    "name": "Guinea",
+    "url": "https://data.guidenai.com/list/country/guinea.json"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "url": "https://data.guidenai.com/list/country/guinea_bissau.json"
+  },
+  {
+    "name": "Guyana",
+    "url": "https://data.guidenai.com/list/country/guyana.json"
+  },
+  {
+    "name": "Haiti",
+    "url": "https://data.guidenai.com/list/country/haiti.json"
+  },
+  {
+    "name": "Honduras",
+    "url": "https://data.guidenai.com/list/country/honduras.json"
+  },
+  {
+    "name": "Hungary",
+    "url": "https://data.guidenai.com/list/country/hungary.json"
+  },
+  {
+    "name": "Iceland",
+    "url": "https://data.guidenai.com/list/country/iceland.json"
+  },
+  {
+    "name": "India",
+    "url": "https://data.guidenai.com/list/country/india.json"
+  },
+  {
+    "name": "Indonesia",
+    "url": "https://data.guidenai.com/list/country/indonesia.json"
+  },
+  {
+    "name": "Iran",
+    "url": "https://data.guidenai.com/list/country/iran.json"
+  },
+  {
+    "name": "Iraq",
+    "url": "https://data.guidenai.com/list/country/iraq.json"
+  },
+  {
+    "name": "Ireland",
+    "url": "https://data.guidenai.com/list/country/ireland.json"
+  },
+  {
+    "name": "Israel",
+    "url": "https://data.guidenai.com/list/country/israel.json"
+  },
+  {
+    "name": "Italy",
+    "url": "https://data.guidenai.com/list/country/italy.json"
+  },
+  {
+    "name": "Ivory Coast",
+    "url": "https://data.guidenai.com/list/country/ivory_coast.json"
+  },
+  {
+    "name": "Jamaica",
+    "url": "https://data.guidenai.com/list/country/jamaica.json"
+  },
+  {
+    "name": "Japan",
+    "url": "https://data.guidenai.com/list/country/japan.json"
+  },
+  {
+    "name": "Jordan",
+    "url": "https://data.guidenai.com/list/country/jordan.json"
+  },
+  {
+    "name": "Kazakhstan",
+    "url": "https://data.guidenai.com/list/country/kazakhstan.json"
+  },
+  {
+    "name": "Kenya",
+    "url": "https://data.guidenai.com/list/country/kenya.json"
+  },
+  {
+    "name": "Kiribati",
+    "url": "https://data.guidenai.com/list/country/kiribati.json"
+  },
+  {
+    "name": "Kuwait",
+    "url": "https://data.guidenai.com/list/country/kuwait.json"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "url": "https://data.guidenai.com/list/country/kyrgyzstan.json"
+  },
+  {
+    "name": "Laos",
+    "url": "https://data.guidenai.com/list/country/laos.json"
+  },
+  {
+    "name": "Latvia",
+    "url": "https://data.guidenai.com/list/country/latvia.json"
+  },
+  {
+    "name": "Lebanon",
+    "url": "https://data.guidenai.com/list/country/lebanon.json"
+  },
+  {
+    "name": "Lesotho",
+    "url": "https://data.guidenai.com/list/country/lesotho.json"
+  },
+  {
+    "name": "Liberia",
+    "url": "https://data.guidenai.com/list/country/liberia.json"
+  },
+  {
+    "name": "Libya",
+    "url": "https://data.guidenai.com/list/country/libya.json"
+  },
+  {
+    "name": "Liechtenstein",
+    "url": "https://data.guidenai.com/list/country/liechtenstein.json"
+  },
+  {
+    "name": "Lithuania",
+    "url": "https://data.guidenai.com/list/country/lithuania.json"
+  },
+  {
+    "name": "Luxembourg",
+    "url": "https://data.guidenai.com/list/country/luxembourg.json"
+  },
+  {
+    "name": "Madagascar",
+    "url": "https://data.guidenai.com/list/country/madagascar.json"
+  },
+  {
+    "name": "Malawi",
+    "url": "https://data.guidenai.com/list/country/malawi.json"
+  },
+  {
+    "name": "Malaysia",
+    "url": "https://data.guidenai.com/list/country/malaysia.json"
+  },
+  {
+    "name": "Maldives",
+    "url": "https://data.guidenai.com/list/country/maldives.json"
+  },
+  {
+    "name": "Mali",
+    "url": "https://data.guidenai.com/list/country/mali.json"
+  },
+  {
+    "name": "Malta",
+    "url": "https://data.guidenai.com/list/country/malta.json"
+  },
+  {
+    "name": "Marshall Islands",
+    "url": "https://data.guidenai.com/list/country/marshall_islands.json"
+  },
+  {
+    "name": "Mauritania",
+    "url": "https://data.guidenai.com/list/country/mauritania.json"
+  },
+  {
+    "name": "Mauritius",
+    "url": "https://data.guidenai.com/list/country/mauritius.json"
+  },
+  {
+    "name": "Mexico",
+    "url": "https://data.guidenai.com/list/country/mexico.json"
+  },
+  {
+    "name": "Micronesia",
+    "url": "https://data.guidenai.com/list/country/micronesia.json"
+  },
+  {
+    "name": "Moldova",
+    "url": "https://data.guidenai.com/list/country/moldova.json"
+  },
+  {
+    "name": "Monaco",
+    "url": "https://data.guidenai.com/list/country/monaco.json"
+  },
+  {
+    "name": "Mongolia",
+    "url": "https://data.guidenai.com/list/country/mongolia.json"
+  },
+  {
+    "name": "Montenegro",
+    "url": "https://data.guidenai.com/list/country/montenegro.json"
+  },
+  {
+    "name": "Morocco",
+    "url": "https://data.guidenai.com/list/country/morocco.json"
+  },
+  {
+    "name": "Mozambique",
+    "url": "https://data.guidenai.com/list/country/mozambique.json"
+  },
+  {
+    "name": "Myanmar",
+    "url": "https://data.guidenai.com/list/country/myanmar.json"
+  },
+  {
+    "name": "Namibia",
+    "url": "https://data.guidenai.com/list/country/namibia.json"
+  },
+  {
+    "name": "Nauru",
+    "url": "https://data.guidenai.com/list/country/nauru.json"
+  },
+  {
+    "name": "Nepal",
+    "url": "https://data.guidenai.com/list/country/nepal.json"
+  },
+  {
+    "name": "Netherlands",
+    "url": "https://data.guidenai.com/list/country/netherlands.json"
+  },
+  {
+    "name": "New Zealand",
+    "url": "https://data.guidenai.com/list/country/new_zealand.json"
+  },
+  {
+    "name": "Nicaragua",
+    "url": "https://data.guidenai.com/list/country/nicaragua.json"
+  },
+  {
+    "name": "Niger",
+    "url": "https://data.guidenai.com/list/country/niger.json"
+  },
+  {
+    "name": "Nigeria",
+    "url": "https://data.guidenai.com/list/country/nigeria.json"
+  },
+  {
+    "name": "North Korea",
+    "url": "https://data.guidenai.com/list/country/north_korea.json"
+  },
+  {
+    "name": "North Macedonia",
+    "url": "https://data.guidenai.com/list/country/north_macedonia.json"
+  },
+  {
+    "name": "Norway",
+    "url": "https://data.guidenai.com/list/country/norway.json"
+  },
+  {
+    "name": "Oman",
+    "url": "https://data.guidenai.com/list/country/oman.json"
+  },
+  {
+    "name": "Pakistan",
+    "url": "https://data.guidenai.com/list/country/pakistan.json"
+  },
+  {
+    "name": "Palau",
+    "url": "https://data.guidenai.com/list/country/palau.json"
+  },
+  {
+    "name": "Panama",
+    "url": "https://data.guidenai.com/list/country/panama.json"
+  },
+  {
+    "name": "Papua New Guinea",
+    "url": "https://data.guidenai.com/list/country/papua_new_guinea.json"
+  },
+  {
+    "name": "Paraguay",
+    "url": "https://data.guidenai.com/list/country/paraguay.json"
+  },
+  {
+    "name": "Peru",
+    "url": "https://data.guidenai.com/list/country/peru.json"
+  },
+  {
+    "name": "Philippines",
+    "url": "https://data.guidenai.com/list/country/philippines.json"
+  },
+  {
+    "name": "Poland",
+    "url": "https://data.guidenai.com/list/country/poland.json"
+  },
+  {
+    "name": "Portugal",
+    "url": "https://data.guidenai.com/list/country/portugal.json"
+  },
+  {
+    "name": "Qatar",
+    "url": "https://data.guidenai.com/list/country/qatar.json"
+  },
+  {
+    "name": "Romania",
+    "url": "https://data.guidenai.com/list/country/romania.json"
+  },
+  {
+    "name": "Russia",
+    "url": "https://data.guidenai.com/list/country/russia.json"
+  },
+  {
+    "name": "Rwanda",
+    "url": "https://data.guidenai.com/list/country/rwanda.json"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "url": "https://data.guidenai.com/list/country/saint_kitts_and_nevis.json"
+  },
+  {
+    "name": "Saint Lucia",
+    "url": "https://data.guidenai.com/list/country/saint_lucia.json"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "url": "https://data.guidenai.com/list/country/saint_vincent_and_the_grenadines.json"
+  },
+  {
+    "name": "Samoa",
+    "url": "https://data.guidenai.com/list/country/samoa.json"
+  },
+  {
+    "name": "San Marino",
+    "url": "https://data.guidenai.com/list/country/san_marino.json"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "url": "https://data.guidenai.com/list/country/sao_tome_and_principe.json"
+  },
+  {
+    "name": "Saudi Arabia",
+    "url": "https://data.guidenai.com/list/country/saudi_arabia.json"
+  },
+  {
+    "name": "Senegal",
+    "url": "https://data.guidenai.com/list/country/senegal.json"
+  },
+  {
+    "name": "Serbia",
+    "url": "https://data.guidenai.com/list/country/serbia.json"
+  },
+  {
+    "name": "Seychelles",
+    "url": "https://data.guidenai.com/list/country/seychelles.json"
+  },
+  {
+    "name": "Sierra Leone",
+    "url": "https://data.guidenai.com/list/country/sierra_leone.json"
+  },
+  {
+    "name": "Singapore",
+    "url": "https://data.guidenai.com/list/country/singapore.json"
+  },
+  {
+    "name": "Slovakia",
+    "url": "https://data.guidenai.com/list/country/slovakia.json"
+  },
+  {
+    "name": "Slovenia",
+    "url": "https://data.guidenai.com/list/country/slovenia.json"
+  },
+  {
+    "name": "Solomon Islands",
+    "url": "https://data.guidenai.com/list/country/solomon_islands.json"
+  },
+  {
+    "name": "Somalia",
+    "url": "https://data.guidenai.com/list/country/somalia.json"
+  },
+  {
+    "name": "South Africa",
+    "url": "https://data.guidenai.com/list/country/south_africa.json"
+  },
+  {
+    "name": "South Korea",
+    "url": "https://data.guidenai.com/list/country/south_korea.json"
+  },
+  {
+    "name": "South Sudan",
+    "url": "https://data.guidenai.com/list/country/south_sudan.json"
+  },
+  {
+    "name": "Spain",
+    "url": "https://data.guidenai.com/list/country/spain.json"
+  },
+  {
+    "name": "Sri Lanka",
+    "url": "https://data.guidenai.com/list/country/sri_lanka.json"
+  },
+  {
+    "name": "Sudan",
+    "url": "https://data.guidenai.com/list/country/sudan.json"
+  },
+  {
+    "name": "Suriname",
+    "url": "https://data.guidenai.com/list/country/suriname.json"
+  },
+  {
+    "name": "Sweden",
+    "url": "https://data.guidenai.com/list/country/sweden.json"
+  },
+  {
+    "name": "Switzerland",
+    "url": "https://data.guidenai.com/list/country/switzerland.json"
+  },
+  {
+    "name": "Syria",
+    "url": "https://data.guidenai.com/list/country/syria.json"
+  },
+  {
+    "name": "Taiwan",
+    "url": "https://data.guidenai.com/list/country/taiwan.json"
+  },
+  {
+    "name": "Tajikistan",
+    "url": "https://data.guidenai.com/list/country/tajikistan.json"
+  },
+  {
+    "name": "Tanzania",
+    "url": "https://data.guidenai.com/list/country/tanzania.json"
+  },
+  {
+    "name": "Thailand",
+    "url": "https://data.guidenai.com/list/country/thailand.json"
+  },
+  {
+    "name": "Timor-Leste",
+    "url": "https://data.guidenai.com/list/country/timor_leste.json"
+  },
+  {
+    "name": "Togo",
+    "url": "https://data.guidenai.com/list/country/togo.json"
+  },
+  {
+    "name": "Tonga",
+    "url": "https://data.guidenai.com/list/country/tonga.json"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "url": "https://data.guidenai.com/list/country/trinidad_and_tobago.json"
+  },
+  {
+    "name": "Tunisia",
+    "url": "https://data.guidenai.com/list/country/tunisia.json"
+  },
+  {
+    "name": "Turkey",
+    "url": "https://data.guidenai.com/list/country/turkey.json"
+  },
+  {
+    "name": "Turkmenistan",
+    "url": "https://data.guidenai.com/list/country/turkmenistan.json"
+  },
+  {
+    "name": "Tuvalu",
+    "url": "https://data.guidenai.com/list/country/tuvalu.json"
+  },
+  {
+    "name": "Uganda",
+    "url": "https://data.guidenai.com/list/country/uganda.json"
+  },
+  {
+    "name": "Ukraine",
+    "url": "https://data.guidenai.com/list/country/ukraine.json"
+  },
+  {
+    "name": "United Arab Emirates",
+    "url": "https://data.guidenai.com/list/country/united_arab_emirates.json"
+  },
+  {
+    "name": "United Kingdom",
+    "url": "https://data.guidenai.com/list/country/united_kingdom.json"
+  },
+  {
+    "name": "United States",
+    "url": "https://data.guidenai.com/list/country/united_states.json"
+  },
+  {
+    "name": "Uruguay",
+    "url": "https://data.guidenai.com/list/country/uruguay.json"
+  },
+  {
+    "name": "Uzbekistan",
+    "url": "https://data.guidenai.com/list/country/uzbekistan.json"
+  },
+  {
+    "name": "Vanuatu",
+    "url": "https://data.guidenai.com/list/country/vanuatu.json"
+  },
+  {
+    "name": "Vatican City",
+    "url": "https://data.guidenai.com/list/country/vatican_city.json"
+  },
+  {
+    "name": "Venezuela",
+    "url": "https://data.guidenai.com/list/country/venezuela.json"
+  },
+  {
+    "name": "Vietnam",
+    "url": "https://data.guidenai.com/list/country/vietnam.json"
+  },
+  {
+    "name": "Yemen",
+    "url": "https://data.guidenai.com/list/country/yemen.json"
+  },
+  {
+    "name": "Zambia",
+    "url": "https://data.guidenai.com/list/country/zambia.json"
+  },
+  {
+    "name": "Zimbabwe",
+    "url": "https://data.guidenai.com/list/country/zimbabwe.json"
+  }
 ]

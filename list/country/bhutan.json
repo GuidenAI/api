@@ -1,0 +1,40 @@
+{
+    "country": "Bhutan",
+    "describe": "Bhutan, a small kingdom nestled in the Eastern Himalayas, is known for its stunning landscapes, rich culture, and commitment to preserving its environment and traditions. It is often referred to as the 'Land of the Thunder Dragon' and is famous for its unique approach to measuring prosperity through Gross National Happiness.",
+    "image_link": "https://example.com/bhutan-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Thimphu",
+            "geographical_location": "Located in the western part of Bhutan, Thimphu is the capital and largest city of the country.",
+            "climate": "Thimphu experiences a subtropical highland climate with dry winters and warm, wet summers.",
+            "famous_cuisine": "Ema Datshi (chili cheese stew), Jasha Maru (spicy chicken stew)",
+            "popular_attractions": [
+                "Tashichho Dzong",
+                "Buddha Dordenma Statue",
+                "National Memorial Chorten"
+            ]
+        },
+        {
+            "name": "🌆 Paro",
+            "geographical_location": "Paro is located in the Paro Valley in the western part of Bhutan.",
+            "climate": "Paro has a temperate climate with warm summers and cool winters.",
+            "famous_cuisine": "Zow Shungo (rice and vegetables), Hoentay (buckwheat dumplings)",
+            "popular_attractions": [
+                "Paro Taktsang (Tiger's Nest Monastery)",
+                "Rinpung Dzong",
+                "Kyichu Lhakhang"
+            ]
+        },
+        {
+            "name": "🌆 Punakha",
+            "geographical_location": "Punakha is situated in the western part of Bhutan, at the confluence of the Pho Chhu and Mo Chhu rivers.",
+            "climate": "Punakha enjoys a subtropical climate with warm winters and hot, humid summers.",
+            "famous_cuisine": "Puta (buckwheat noodles), Goep (tripe stew)",
+            "popular_attractions": [
+                "Punakha Dzong",
+                "Chimi Lhakhang",
+                "Khamsum Yulley Namgyal Chorten"
+            ]
+        }
+    ]
+}

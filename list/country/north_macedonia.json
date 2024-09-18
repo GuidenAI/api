@@ -1,0 +1,43 @@
+{
+    "country": "North Macedonia",
+    "describe": "North Macedonia is a landlocked country in Southeast Europe, known for its rich history, diverse culture, and stunning natural landscapes. It is a part of the Balkan Peninsula and has a mix of mountainous terrain and picturesque lakes.",
+    "image_link": "https://example.com/north-macedonia-image.jpg",
+    "cities": [
+        {
+            "name": "🌉 Skopje",
+            "geographical_location": "Located in the northern part of the country, along the Vardar River.",
+            "climate": "Skopje has a continental climate with hot summers and cold, snowy winters.",
+            "famous_cuisine": "Tavče Gravče, Ajvar, and Kebapi.",
+            "popular_attractions": [
+                "Skopje Fortress",
+                "Stone Bridge",
+                "Old Bazaar",
+                "Mother Teresa Memorial House"
+            ]
+        },
+        {
+            "name": "🏰 Ohrid",
+            "geographical_location": "Situated on the northeastern shore of Lake Ohrid.",
+            "climate": "Ohrid has a Mediterranean climate with warm, dry summers and mild, wet winters.",
+            "famous_cuisine": "Ohrid Trout, Pastrmajlija, and Sarma.",
+            "popular_attractions": [
+                "Lake Ohrid",
+                "Church of St. John at Kaneo",
+                "Ancient Theatre of Ohrid",
+                "Samoil's Fortress"
+            ]
+        },
+        {
+            "name": "🌳 Bitola",
+            "geographical_location": "Located in the southwestern part of the country, near the Pelister National Park.",
+            "climate": "Bitola experiences a temperate climate with warm summers and cold winters.",
+            "famous_cuisine": "Selsko Meso, Turli Tava, and Mastika.",
+            "popular_attractions": [
+                "Heraclea Lyncestis",
+                "Bitola Old Bazaar",
+                "Magnolia Square",
+                "Pelister National Park"
+            ]
+        }
+    ]
+}

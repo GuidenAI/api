@@ -1,0 +1,31 @@
+{
+    "country": "Antigua and Barbuda",
+    "describe": "Antigua and Barbuda is a twin-island nation located in the Caribbean, known for its stunning beaches, vibrant culture, and rich history. It is part of the Lesser Antilles and is renowned for its coral reefs and clear waters, making it a popular destination for tourists seeking sun, sand, and sea.",
+    "image_link": "https://example.com/antigua-barbuda.jpg",
+    "cities": [
+        {
+            "name": "🏝 St. John's",
+            "geographical_location": "Located on the northwest coast of Antigua, St. John's is the capital and largest city of Antigua and Barbuda.",
+            "climate": "Tropical climate with warm temperatures year-round and a wet season from June to November.",
+            "famous_cuisine": "Fungee and Pepperpot, Ducana, Saltfish, and Johnny Cakes.",
+            "popular_attractions": [
+                "Nelson's Dockyard",
+                "St. John's Cathedral",
+                "Museum of Antigua and Barbuda",
+                "Heritage Quay"
+            ]
+        },
+        {
+            "name": "🏝 English Harbour",
+            "geographical_location": "Situated on the southern coast of Antigua, English Harbour is known for its natural harbours and historical significance.",
+            "climate": "Tropical climate with a distinct wet and dry season, offering warm weather throughout the year.",
+            "famous_cuisine": "Seafood dishes, including grilled lobster and conch fritters.",
+            "popular_attractions": [
+                "Shirley Heights",
+                "Nelson's Dockyard National Park",
+                "Pigeon Point Beach",
+                "Dow's Hill Interpretation Centre"
+            ]
+        }
+    ]
+}

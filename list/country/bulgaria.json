@@ -1,0 +1,51 @@
+{
+    "country": "Bulgaria",
+    "describe": "Bulgaria is a country in Southeast Europe, known for its rich history, diverse landscapes, and cultural heritage. It is bordered by Romania to the north, Serbia and North Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east.",
+    "image_link": "https://example.com/bulgaria-image.jpg",
+    "cities": [
+        {
+            "name": "🏔 Sofia",
+            "geographical_location": "Located in the western part of Bulgaria, at the foot of Vitosha Mountain.",
+            "climate": "Sofia has a humid continental climate with cold winters and warm summers.",
+            "famous_cuisine": "Shopska salad, Banitsa, and Tarator.",
+            "popular_attractions": [
+                "Alexander Nevsky Cathedral",
+                "Vitosha Boulevard",
+                "National Palace of Culture"
+            ]
+        },
+        {
+            "name": "🌆 Plovdiv",
+            "geographical_location": "Situated in the south-central part of Bulgaria, along the banks of the Maritsa River.",
+            "climate": "Plovdiv experiences a humid subtropical climate with hot summers and mild winters.",
+            "famous_cuisine": "Kebapche, Kyufte, and Patatnik.",
+            "popular_attractions": [
+                "Ancient Theatre of Philippopolis",
+                "Old Town of Plovdiv",
+                "Kapana Creative District"
+            ]
+        },
+        {
+            "name": "🏝 Varna",
+            "geographical_location": "Located on the northeastern coast of Bulgaria, along the Black Sea.",
+            "climate": "Varna has a humid subtropical climate with mild winters and warm, humid summers.",
+            "famous_cuisine": "Seafood dishes, Sarmi, and Moussaka.",
+            "popular_attractions": [
+                "Sea Garden",
+                "Varna Archaeological Museum",
+                "Aladzha Monastery"
+            ]
+        },
+        {
+            "name": "🏝 Burgas",
+            "geographical_location": "Situated on the southeastern coast of Bulgaria, along the Black Sea.",
+            "climate": "Burgas features a humid subtropical climate with mild winters and hot, humid summers.",
+            "famous_cuisine": "Fish soup, Tsatsa, and Kavarma.",
+            "popular_attractions": [
+                "Burgas Sea Garden",
+                "Poda Protected Area",
+                "St. Anastasia Island"
+            ]
+        }
+    ]
+}

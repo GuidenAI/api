@@ -1,0 +1,40 @@
+{
+    "country": "Belize",
+    "describe": "Belize is a small Central American nation known for its rich biodiversity and distinct cultural heritage. It boasts a Caribbean coastline, lush jungles, and ancient Mayan ruins.",
+    "image_link": "https://example.com/image-of-belize.jpg",
+    "cities": [
+        {
+            "name": "🏝 Belize City",
+            "geographical_location": "Located on the eastern coast of Belize, facing the Caribbean Sea.",
+            "climate": "Tropical climate with a wet and dry season, experiencing high humidity and temperatures averaging 75-85°F (24-29°C).",
+            "famous_cuisine": "Rice and beans, stew chicken, and fry jacks.",
+            "popular_attractions": [
+                "Belize Barrier Reef",
+                "Museum of Belize",
+                "St. John's Cathedral"
+            ]
+        },
+        {
+            "name": "🏝 San Pedro",
+            "geographical_location": "Situated on the southern part of Ambergris Caye, off the northeastern coast of Belize.",
+            "climate": "Tropical climate with warm temperatures year-round, averaging 80-90°F (27-32°C).",
+            "famous_cuisine": "Seafood ceviche, conch fritters, and lobster dishes.",
+            "popular_attractions": [
+                "Hol Chan Marine Reserve",
+                "Secret Beach",
+                "Marco Gonzalez Maya Site"
+            ]
+        },
+        {
+            "name": "🌳 Belmopan",
+            "geographical_location": "Located near the center of Belize, in the Cayo District.",
+            "climate": "Tropical climate with a distinct wet and dry season, temperatures ranging from 70-90°F (21-32°C).",
+            "famous_cuisine": "Tamales, garnaches, and escabeche.",
+            "popular_attractions": [
+                "Guanacaste National Park",
+                "Belmopan Market",
+                "Blue Hole National Park"
+            ]
+        }
+    ]
+}

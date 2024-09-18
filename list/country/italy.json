@@ -1,37 +1,62 @@
 {
-    "name": "Italy",
-    "image": "https://images.unsplash.com/photo-1560347876-aeef00ee58a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "Italy",
+    "describe": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s 'David' and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital.",
+    "image_link": "https://example.com/italy-image.jpg",
     "cities": [
-      { "name": "Rome" },
-      { "name": "Venice" },
-      { "name": "Florence" },
-      { "name": "Milan" },
-      { "name": "Naples" },
-      { "name": "Verona" },
-      { "name": "Bologna" },
-      { "name": "Turin" },
-      { "name": "Genoa" },
-      { "name": "Siena" },
-      { "name": "Pisa" },
-      { "name": "Palermo" },
-      { "name": "Catania" },
-      { "name": "Amalfi" },
-      { "name": "Positano" },
-      { "name": "Rimini" },
-      { "name": "Cinque Terre" },
-      { "name": "Sorrento" },
-      { "name": "Taormina" },
-      { "name": "Lucca" },
-      { "name": "Parma" },
-      { "name": "Modena" },
-      { "name": "Bari" },
-      { "name": "Lecce" },
-      { "name": "Matera" },
-      { "name": "Trapani" },
-      { "name": "Trieste" },
-      { "name": "Bergamo" },
-      { "name": "Perugia" },
-      { "name": "Ravenna" }
+        {
+            "name": "🌆 Rome",
+            "geographical_location": "Central-western portion of the Italian Peninsula",
+            "climate": "Mediterranean climate with hot, dry summers and mild, wet winters",
+            "famous_cuisine": "Carbonara, Cacio e Pepe, Saltimbocca",
+            "popular_attractions": [
+                "Colosseum",
+                "Vatican Museums",
+                "Pantheon"
+            ]
+        },
+        {
+            "name": "🏝 Venice",
+            "geographical_location": "Northeastern Italy, on a group of 118 small islands",
+            "climate": "Humid subtropical climate with cool winters and very warm summers",
+            "famous_cuisine": "Risotto al nero di seppia, Sarde in saor, Cicchetti",
+            "popular_attractions": [
+                "St. Mark's Basilica",
+                "Grand Canal",
+                "Doge's Palace"
+            ]
+        },
+        {
+            "name": "🌆 Florence",
+            "geographical_location": "Central Italy, in the Tuscany region",
+            "climate": "Humid subtropical climate with hot summers and cool, damp winters",
+            "famous_cuisine": "Bistecca alla Fiorentina, Ribollita, Lampredotto",
+            "popular_attractions": [
+                "Uffizi Gallery",
+                "Florence Cathedral",
+                "Ponte Vecchio"
+            ]
+        },
+        {
+            "name": "🏰 Milan",
+            "geographical_location": "Northern Italy, in the Lombardy region",
+            "climate": "Humid subtropical climate with hot, humid summers and cold, foggy winters",
+            "famous_cuisine": "Risotto alla Milanese, Ossobuco, Panettone",
+            "popular_attractions": [
+                "Duomo di Milano",
+                "La Scala",
+                "Sforza Castle"
+            ]
+        },
+        {
+            "name": "🏝 Naples ",
+            "geographical_location": "Southern Italy, on the western coast",
+            "climate": "Mediterranean climate with mild, wet winters and hot, dry summers",
+            "famous_cuisine": "Pizza Margherita, Spaghetti alle vongole, Sfogliatella",
+            "popular_attractions": [
+                "Pompeii",
+                "Mount Vesuvius",
+                "Naples National Archaeological Museum"
+            ]
+        }
     ]
-  }
-  
+}

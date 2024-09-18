@@ -1,0 +1,40 @@
+{
+    "country": "Panama",
+    "describe": "Panama is a country on the isthmus linking Central and South America. It's known for the Panama Canal, a famous feat of human engineering. The country is rich in biodiversity, with rainforests, mountains, and beaches.",
+    "image_link": "https://example.com/panama-image.jpg",
+    "cities": [
+        {
+            "name": "🌆 Panama City",
+            "geographical_location": "Located at the Pacific entrance of the Panama Canal.",
+            "climate": "Tropical wet and dry climate with a long rainy season.",
+            "famous_cuisine": "Sancocho, Ceviche, and Ropa Vieja.",
+            "popular_attractions": [
+                "Panama Canal",
+                "Casco Viejo",
+                "Biomuseo"
+            ]
+        },
+        {
+            "name": "🏝 Bocas del Toro",
+            "geographical_location": "An archipelago in the Caribbean Sea, near the border with Costa Rica.",
+            "climate": "Tropical rainforest climate with high humidity and rainfall.",
+            "famous_cuisine": "Patacones, Coconut Rice, and Fresh Seafood.",
+            "popular_attractions": [
+                "Starfish Beach",
+                "Red Frog Beach",
+                "Isla Bastimentos National Marine Park"
+            ]
+        },
+        {
+            "name": "🌆 David",
+            "geographical_location": "Located in the western part of Panama, near the border with Costa Rica.",
+            "climate": "Tropical savanna climate with a distinct dry season.",
+            "famous_cuisine": "Tamales, Empanadas, and Chicheme.",
+            "popular_attractions": [
+                "Boquete",
+                "Volcán Barú",
+                "Los Pozos de Caldera"
+            ]
+        }
+    ]
+}

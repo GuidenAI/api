@@ -1,27 +1,62 @@
 {
-    "name": "Australia",
-    "image": "https://images.unsplash.com/photo-1505052214057-92ecb6b4f9c8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "Australia",
+    "describe": "Australia is a vast and diverse country, known for its stunning landscapes, unique wildlife, and vibrant cities. It is the world's sixth-largest country by total area and is famous for its natural wonders like the Great Barrier Reef and the Outback.",
+    "image_link": "https://example.com/australia.jpg",
     "cities": [
-      { "name": "Sydney" },
-      { "name": "Melbourne" },
-      { "name": "Brisbane" },
-      { "name": "Perth" },
-      { "name": "Adelaide" },
-      { "name": "Gold Coast" },
-      { "name": "Canberra" },
-      { "name": "Hobart" },
-      { "name": "Darwin" },
-      { "name": "Cairns" },
-      { "name": "Newcastle" },
-      { "name": "Wollongong" },
-      { "name": "Geelong" },
-      { "name": "Townsville" },
-      { "name": "Alice Springs" },
-      { "name": "Bendigo" },
-      { "name": "Launceston" },
-      { "name": "Ballarat" },
-      { "name": "Toowoomba" },
-      { "name": "Mackay" }
+        {
+            "name": "🏝 Sydney",
+            "geographical_location": "Located on the east coast of Australia, in the state of New South Wales.",
+            "climate": "Sydney has a temperate climate with warm summers and mild winters.",
+            "famous_cuisine": "Sydney is known for its seafood, particularly Sydney rock oysters and barramundi.",
+            "popular_attractions": [
+                "Sydney Opera House",
+                "Sydney Harbour Bridge",
+                "Bondi Beach"
+            ]
+        },
+        {
+            "name": "🌆 Melbourne",
+            "geographical_location": "Situated in the southeastern part of Australia, in the state of Victoria.",
+            "climate": "Melbourne experiences an oceanic climate with variable weather conditions.",
+            "famous_cuisine": "Melbourne is famous for its coffee culture and diverse food scene, including dishes like meat pies and dim sims.",
+            "popular_attractions": [
+                "Federation Square",
+                "Royal Botanic Gardens",
+                "Queen Victoria Market"
+            ]
+        },
+        {
+            "name": "🏝 Brisbane",
+            "geographical_location": "Located in the northeastern part of Australia, in the state of Queensland.",
+            "climate": "Brisbane has a subtropical climate with hot, humid summers and mild, dry winters.",
+            "famous_cuisine": "Brisbane is known for its Moreton Bay bugs and tropical fruits.",
+            "popular_attractions": [
+                "South Bank Parklands",
+                "Lone Pine Koala Sanctuary",
+                "Story Bridge"
+            ]
+        },
+        {
+            "name": "🏝 Perth",
+            "geographical_location": "Situated on the southwestern coast of Australia, in the state of Western Australia.",
+            "climate": "Perth has a Mediterranean climate with hot, dry summers and mild, wet winters.",
+            "famous_cuisine": "Perth is known for its fresh seafood, including Western Rock Lobster.",
+            "popular_attractions": [
+                "Kings Park and Botanic Garden",
+                "Cottesloe Beach",
+                "Fremantle Prison"
+            ]
+        },
+        {
+            "name": "🌳 Cairns",
+            "geographical_location": "Located in the tropical north of Queensland, Australia.",
+            "climate": "Cairns has a tropical climate with a wet season from November to May and a dry season from June to October.",
+            "famous_cuisine": "Cairns is known for its tropical fruits and seafood, including prawns and mud crabs.",
+            "popular_attractions": [
+                "Great Barrier Reef",
+                "Daintree Rainforest",
+                "Kuranda Scenic Railway"
+            ]
+        }
     ]
-  }
-  
+}

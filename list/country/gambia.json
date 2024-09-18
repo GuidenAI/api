@@ -1,0 +1,29 @@
+{
+    "country": "Gambia",
+    "describe": "Gambia, officially known as the Republic of The Gambia, is a small West African country bounded by Senegal, with a narrow Atlantic coastline. It's known for its diverse ecosystems around the central Gambia River. Abundant wildlife in its Kiang West National Park and Bao Bolong Wetland Reserve includes monkeys, leopards, hippos, hyenas, and rare birds.",
+    "image_link": "https://example.com/image-of-gambia.jpg",
+    "cities": [
+        {
+            "name": "🏝 Banjul",
+            "geographical_location": "Located on St. Mary's Island at the mouth of the Gambia River.",
+            "climate": "Banjul has a tropical wet and dry climate with a long dry season and a short rainy season.",
+            "famous_cuisine": "Domoda (peanut stew), Benachin (Jollof rice)",
+            "popular_attractions": [
+                "Arch 22",
+                "Albert Market",
+                "National Museum of Gambia"
+            ]
+        },
+        {
+            "name": "🏝 Serrekunda",
+            "geographical_location": "Located southwest of Banjul, near the Atlantic coast.",
+            "climate": "Serrekunda experiences a tropical climate with distinct wet and dry seasons.",
+            "famous_cuisine": "Yassa (marinated chicken or fish), Chere (millet couscous)",
+            "popular_attractions": [
+                "Kachikally Crocodile Pool",
+                "Craft Market",
+                "Bijilo Forest Park"
+            ]
+        }
+    ]
+}

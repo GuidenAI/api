@@ -1,0 +1,40 @@
+{
+    "country": "Iraq",
+    "describe": "Iraq, located in Western Asia, is known for its rich history as part of ancient Mesopotamia. It is bordered by Turkey, Iran, Kuwait, Saudi Arabia, Jordan, and Syria. The country has a diverse culture with influences from various civilizations over millennia.",
+    "image_link": "https://example.com/image_of_iraq.jpg",
+    "cities": [
+        {
+            "name": "🏜 Baghdad",
+            "geographical_location": "Located along the Tigris River in central Iraq.",
+            "climate": "Baghdad has a hot desert climate with extremely hot summers and mild, wet winters.",
+            "famous_cuisine": "Masgouf, a traditional grilled fish dish, and kebabs.",
+            "popular_attractions": [
+                "Al-Shaheed Monument",
+                "Baghdad Tower",
+                "Iraqi Museum"
+            ]
+        },
+        {
+            "name": "🏜 Basra",
+            "geographical_location": "Situated in the southern part of Iraq near the Persian Gulf.",
+            "climate": "Basra experiences a hot desert climate with very hot summers and mild winters.",
+            "famous_cuisine": "Samak Masgouf and various seafood dishes.",
+            "popular_attractions": [
+                "Shatt al-Arab",
+                "Basra International Hotel",
+                "Basra Museum"
+            ]
+        },
+        {
+            "name": "🌳 Erbil",
+            "geographical_location": "Located in the northern part of Iraq in the Kurdistan Region.",
+            "climate": "Erbil has a semi-arid climate with hot summers and cold, wet winters.",
+            "famous_cuisine": "Dolma and kebabs, with influences from Kurdish cuisine.",
+            "popular_attractions": [
+                "Erbil Citadel",
+                "Sami Abdulrahman Park",
+                "Jalil Khayat Mosque"
+            ]
+        }
+    ]
+}

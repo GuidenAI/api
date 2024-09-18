@@ -1,0 +1,31 @@
+{
+    "country": "Congo",
+    "describe": "The Republic of the Congo, also known as Congo-Brazzaville, is a country located in Central Africa. It is bordered by Gabon, Cameroon, the Central African Republic, the Democratic Republic of the Congo, and the Angolan exclave of Cabinda. The country is known for its diverse landscapes, including rainforests, savannas, and rivers.",
+    "image_link": "https://example.com/congo-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Brazzaville",
+            "geographical_location": "Located on the north side of the Congo River, directly across from Kinshasa, the capital of the Democratic Republic of the Congo.",
+            "climate": "Brazzaville has a tropical wet and dry climate with a distinct wet season from October to May and a dry season from June to September.",
+            "famous_cuisine": "Poulet Moambé, Saka-Saka, and Fufu.",
+            "popular_attractions": [
+                "Basilique Sainte-Anne",
+                "Pierre Savorgnan de Brazza Memorial",
+                "Les Rapides",
+                "National Museum of the Congo"
+            ]
+        },
+        {
+            "name": "🏝 Pointe-Noire",
+            "geographical_location": "Situated on the Atlantic coast in the southwestern part of the country.",
+            "climate": "Pointe-Noire has a tropical savanna climate with a short wet season and a long dry season.",
+            "famous_cuisine": "Grilled fish, seafood dishes, and local stews.",
+            "popular_attractions": [
+                "Côte Sauvage",
+                "Gorges of Diosso",
+                "Pointe-Noire Railway Station",
+                "Cathedral of Saint Pierre"
+            ]
+        }
+    ]
+}

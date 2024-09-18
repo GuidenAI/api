@@ -1,0 +1,40 @@
+{
+    "country": "Zimbabwe",
+    "describe": "Zimbabwe is a landlocked country located in Southern Africa, known for its diverse wildlife, dramatic landscapes, and rich cultural heritage. It is home to the famous Victoria Falls, one of the largest and most spectacular waterfalls in the world.",
+    "image_link": "https://example.com/zimbabwe-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Harare",
+            "geographical_location": "Located in the northeastern part of Zimbabwe, Harare is the capital and largest city.",
+            "climate": "Harare has a subtropical highland climate, with mild temperatures and a rainy season from November to March.",
+            "famous_cuisine": "Sadza, a staple dish made from cornmeal, often served with meat or vegetables.",
+            "popular_attractions": [
+                "National Gallery of Zimbabwe",
+                "Mukuvisi Woodlands",
+                "Harare Gardens"
+            ]
+        },
+        {
+            "name": "🏙 Bulawayo",
+            "geographical_location": "Situated in the southwestern part of Zimbabwe, Bulawayo is the second-largest city.",
+            "climate": "Bulawayo has a semi-arid climate, with hot summers and mild winters.",
+            "famous_cuisine": "Mapopo candy, a sweet treat made from papaya.",
+            "popular_attractions": [
+                "Matobo National Park",
+                "Bulawayo Railway Museum",
+                "Khami Ruins"
+            ]
+        },
+        {
+            "name": "🌳 Victoria Falls",
+            "geographical_location": "Located on the western border of Zimbabwe, adjacent to the Zambezi River.",
+            "climate": "Victoria Falls has a tropical climate, with a distinct wet and dry season.",
+            "famous_cuisine": "Bream fish, often grilled or fried, served with local sides.",
+            "popular_attractions": [
+                "Victoria Falls Waterfall",
+                "Zambezi National Park",
+                "Victoria Falls Bridge"
+            ]
+        }
+    ]
+}

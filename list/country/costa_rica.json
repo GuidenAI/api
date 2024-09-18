@@ -1,0 +1,40 @@
+{
+    "country": "Costa Rica",
+    "describe": "Costa Rica is a Central American country known for its lush rainforests, diverse wildlife, and stunning beaches. It is a leader in ecotourism and has a strong commitment to environmental conservation. The country is bordered by Nicaragua to the north, Panama to the southeast, the Pacific Ocean to the west, and the Caribbean Sea to the east.",
+    "image_link": "https://example.com/costa-rica-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 San José",
+            "geographical_location": "Located in the Central Valley region of Costa Rica.",
+            "climate": "San José has a tropical wet and dry climate, with a dry season from December to April and a wet season from May to November.",
+            "famous_cuisine": "Gallo Pinto, Casado, and Chifrijo.",
+            "popular_attractions": [
+                "National Theatre of Costa Rica",
+                "Pre-Columbian Gold Museum",
+                "La Sabana Metropolitan Park"
+            ]
+        },
+        {
+            "name": "🌳 Liberia",
+            "geographical_location": "Situated in the northwest part of Costa Rica, in the province of Guanacaste.",
+            "climate": "Liberia has a tropical savanna climate, with a pronounced dry season in the winter.",
+            "famous_cuisine": "Olla de Carne, Arroz de Maíz, and Rosquillas.",
+            "popular_attractions": [
+                "Rincón de la Vieja Volcano National Park",
+                "Africa Safari Adventure Park",
+                "Museo de Guanacaste"
+            ]
+        },
+        {
+            "name": "🏝 Puerto Limón",
+            "geographical_location": "Located on the Caribbean coast of Costa Rica.",
+            "climate": "Puerto Limón has a tropical rainforest climate, with high humidity and significant rainfall throughout the year.",
+            "famous_cuisine": "Rice and Beans, Rondón, and Patí.",
+            "popular_attractions": [
+                "Cahuita National Park",
+                "Tortuguero Canals",
+                "Playa Bonita"
+            ]
+        }
+    ]
+}

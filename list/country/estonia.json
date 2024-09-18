@@ -1,0 +1,40 @@
+{
+    "country": "Estonia",
+    "describe": "Estonia is a Northern European country bordered by the Baltic Sea and Gulf of Finland. Known for its medieval architecture, digital advancements, and beautiful natural landscapes, Estonia is a blend of history and modernity.",
+    "image_link": "https://example.com/estonia-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Tallinn",
+            "geographical_location": "Northern coast of Estonia, along the Gulf of Finland",
+            "climate": "Humid continental climate with mild summers and cold, snowy winters",
+            "famous_cuisine": "Kohuke, Kiluvõileib, and Mulgikapsad",
+            "popular_attractions": [
+                "Tallinn Old Town",
+                "Alexander Nevsky Cathedral",
+                "Kadriorg Palace"
+            ]
+        },
+        {
+            "name": "🌆 Tartu",
+            "geographical_location": "Southeastern Estonia, on the banks of the Emajõgi River",
+            "climate": "Humid continental climate with warm summers and cold winters",
+            "famous_cuisine": "Tartu-style sauerkraut and Tartu-style pork",
+            "popular_attractions": [
+                "University of Tartu",
+                "Tartu Toy Museum",
+                "AHHAA Science Centre"
+            ]
+        },
+        {
+            "name": "🏝 Pärnu",
+            "geographical_location": "Southwestern Estonia, on the coast of Pärnu Bay",
+            "climate": "Oceanic climate with mild summers and cool winters",
+            "famous_cuisine": "Pärnu-style fish dishes and local pastries",
+            "popular_attractions": [
+                "Pärnu Beach",
+                "Pärnu Museum",
+                "Tallinn Gate"
+            ]
+        }
+    ]
+}

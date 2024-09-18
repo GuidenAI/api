@@ -1,0 +1,20 @@
+{
+    "country": "Singapore",
+    "describe": "Singapore is a vibrant city-state located at the southern tip of the Malay Peninsula. Known for its multicultural population, efficient public transport, and as a global financial hub, Singapore offers a blend of modern skyscrapers and rich heritage.",
+    "image_link": "https://example.com/singapore-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Singapore City",
+            "geographical_location": "Located on the southern coast of Singapore Island, at the mouth of the Singapore River.",
+            "climate": "Tropical rainforest climate with no distinct seasons, characterized by high humidity and abundant rainfall.",
+            "famous_cuisine": "Hainanese Chicken Rice, Chili Crab, Laksa, Satay",
+            "popular_attractions": [
+                "Marina Bay Sands",
+                "Gardens by the Bay",
+                "Sentosa Island",
+                "Orchard Road",
+                "Singapore Zoo"
+            ]
+        }
+    ]
+}

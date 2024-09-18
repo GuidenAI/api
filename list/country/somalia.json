@@ -1,0 +1,40 @@
+{
+    "country": "Somalia",
+    "describe": "Somalia, located in the Horn of Africa, is known for its rich cultural heritage, diverse landscapes, and a long coastline along the Indian Ocean. The country has a history that dates back to ancient times, with influences from various civilizations, including Arab, Persian, and Ottoman. Despite facing challenges, Somalia is home to a resilient population and a unique blend of traditions.",
+    "image_link": "https://example.com/somalia-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Mogadishu",
+            "geographical_location": "Located on the coast of the Indian Ocean in southeastern Somalia.",
+            "climate": "Tropical wet and dry climate with a hot and humid atmosphere.",
+            "famous_cuisine": "Canjeero, a type of flatbread, and Suqaar, a spiced meat dish.",
+            "popular_attractions": [
+                "Liido Beach",
+                "Mogadishu Cathedral",
+                "National Museum of Somalia"
+            ]
+        },
+        {
+            "name": "🌆 Hargeisa",
+            "geographical_location": "Situated in the northwestern part of Somalia, in the region of Somaliland.",
+            "climate": "Semi-arid climate with warm temperatures and low rainfall.",
+            "famous_cuisine": "Laxoox, a type of pancake, and Maraq, a traditional soup.",
+            "popular_attractions": [
+                "Laas Geel cave paintings",
+                "Hargeisa War Memorial",
+                "Somaliland National Museum"
+            ]
+        },
+        {
+            "name": "🏝 Kismayo",
+            "geographical_location": "Located in the southern part of Somalia, near the mouth of the Jubba River.",
+            "climate": "Tropical savanna climate with distinct wet and dry seasons.",
+            "famous_cuisine": "Bariis iskukaris, a spiced rice dish, and Malawah, a sweet pancake.",
+            "popular_attractions": [
+                "Kismayo National Park",
+                "Jubba River",
+                "Kismayo Beach"
+            ]
+        }
+    ]
+}

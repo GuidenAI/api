@@ -1,0 +1,40 @@
+{
+    "country": "Democratic Republic of the Congo",
+    "describe": "The Democratic Republic of the Congo (DRC) is a vast country located in Central Africa. It is known for its rich natural resources, diverse ecosystems, and cultural heritage. The DRC is home to the Congo Rainforest, the second-largest rainforest in the world, and the Congo River, the second-longest river in Africa. Despite its natural wealth, the country faces challenges such as political instability and economic development.",
+    "image_link": "https://example.com/image_of_drc.jpg",
+    "cities": [
+        {
+            "name": "🏙 Kinshasa",
+            "geographical_location": "Located on the banks of the Congo River, opposite Brazzaville, the capital of the Republic of the Congo.",
+            "climate": "Tropical wet and dry climate with a long rainy season from October to May.",
+            "famous_cuisine": "Poulet à la Moambé, Liboke de Poisson",
+            "popular_attractions": [
+                "Lola ya Bonobo",
+                "Académie des Beaux-Arts",
+                "Marché Central"
+            ]
+        },
+        {
+            "name": "🌆 Lubumbashi",
+            "geographical_location": "Situated in the southeastern part of the country, near the border with Zambia.",
+            "climate": "Subtropical highland climate with a distinct wet and dry season.",
+            "famous_cuisine": "Fufu, Saka-Saka",
+            "popular_attractions": [
+                "Lubumbashi Zoo",
+                "National Museum of Lubumbashi",
+                "Cathedral of St. Peter and St. Paul"
+            ]
+        },
+        {
+            "name": "🌳 Goma ",
+            "geographical_location": "Located on the northern shore of Lake Kivu, near the border with Rwanda.",
+            "climate": "Tropical savanna climate with moderate temperatures due to its elevation.",
+            "famous_cuisine": "Sombe, Brochettes",
+            "popular_attractions": [
+                "Mount Nyiragongo",
+                "Virunga National Park",
+                "Lake Kivu"
+            ]
+        }
+    ]
+}

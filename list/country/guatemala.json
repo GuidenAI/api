@@ -1,0 +1,40 @@
+{
+    "country": "Guatemala",
+    "describe": "Guatemala is a country in Central America known for its rich Mayan heritage, stunning natural landscapes, and vibrant culture. It is bordered by Mexico to the north and west, Belize to the northeast, Honduras to the east, and El Salvador to the southeast. The Pacific Ocean lies to the southwest, and the Caribbean Sea to the east. Guatemala is famous for its ancient ruins, lush rainforests, and diverse ecosystems.",
+    "image_link": "https://example.com/guatemala-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Guatemala City",
+            "geographical_location": "Located in the south-central part of the country, it is the capital and largest city of Guatemala.",
+            "climate": "Guatemala City has a tropical savanna climate, with a dry season from November to April and a wet season from May to October.",
+            "famous_cuisine": "Pepian, Kak'ik, and Jocon are some of the famous local dishes.",
+            "popular_attractions": [
+                "National Palace of Culture",
+                "Metropolitan Cathedral",
+                "Museo Popol Vuh"
+            ]
+        },
+        {
+            "name": "🏔 Antigua Guatemala",
+            "geographical_location": "Situated in the central highlands of Guatemala, surrounded by volcanoes.",
+            "climate": "Antigua has a subtropical highland climate, with mild temperatures year-round and a distinct wet and dry season.",
+            "famous_cuisine": "Rellenitos, Tamales, and Atol de Elote are popular dishes.",
+            "popular_attractions": [
+                "Santa Catalina Arch",
+                "Antigua Guatemala Cathedral",
+                "Cerro de la Cruz"
+            ]
+        },
+        {
+            "name": "🏝 Flores",
+            "geographical_location": "Located on an island on Lake Petén Itzá in northern Guatemala.",
+            "climate": "Flores has a tropical rainforest climate, with high temperatures and humidity throughout the year.",
+            "famous_cuisine": "Tostadas, Empanadas, and Ceviche are well-known local foods.",
+            "popular_attractions": [
+                "Tikal National Park",
+                "Yaxhá",
+                "Petencito Zoo"
+            ]
+        }
+    ]
+}

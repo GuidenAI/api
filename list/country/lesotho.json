@@ -1,0 +1,29 @@
+{
+    "country": "Lesotho",
+    "describe": "Lesotho, officially the Kingdom of Lesotho, is a landlocked country enclaved by South Africa. Known for its mountainous terrain, it is the only independent state in the world that lies entirely above 1,000 meters in elevation. Lesotho is renowned for its rich culture, traditional music, and vibrant crafts.",
+    "image_link": "https://example.com/lesotho-image.jpg",
+    "cities": [
+        {
+            "name": "🌉 Maseru",
+            "geographical_location": "Located in the northwest of Lesotho, near the border with South Africa.",
+            "climate": "Maseru has a temperate climate with hot summers and cool winters.",
+            "famous_cuisine": "Dishes like 'Papa' (maize porridge) and 'Moroko' (spinach stew) are popular.",
+            "popular_attractions": [
+                "Thaba Bosiu Cultural Village",
+                "Maseru Bridge",
+                "Lesotho National Museum"
+            ]
+        },
+        {
+            "name": "🌆 Leribe",
+            "geographical_location": "Situated in the northern part of Lesotho, near the Caledon River.",
+            "climate": "Leribe experiences a subtropical highland climate with mild temperatures.",
+            "famous_cuisine": "Traditional dishes such as 'Motoho' (fermented sorghum porridge) are well-loved.",
+            "popular_attractions": [
+                "Liphofung Historical Site",
+                "Hlotse Market",
+                "Katse Dam"
+            ]
+        }
+    ]
+}

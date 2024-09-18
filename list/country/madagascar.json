@@ -1,0 +1,40 @@
+{
+    "country": "Madagascar",
+    "describe": "Madagascar, an island nation off the southeast coast of Africa, is known for its unique biodiversity, stunning landscapes, and rich cultural heritage. It is the fourth largest island in the world and home to many species found nowhere else on Earth.",
+    "image_link": "https://example.com/madagascar-image.jpg",
+    "cities": [
+        {
+            "name": "🏔 Antananarivo",
+            "geographical_location": "Central highlands of Madagascar",
+            "climate": "Subtropical highland climate with a wet season from November to April and a dry season from May to October.",
+            "famous_cuisine": "Romazava, a traditional meat stew with greens.",
+            "popular_attractions": [
+                "Rova of Antananarivo",
+                "Andafiavaratra Palace",
+                "Analakely Market"
+            ]
+        },
+        {
+            "name": "🏝 Toamasina",
+            "geographical_location": "East coast of Madagascar",
+            "climate": "Tropical rainforest climate with significant rainfall throughout the year.",
+            "famous_cuisine": "Mofo Gasy, a popular breakfast rice cake.",
+            "popular_attractions": [
+                "Ivoloina Park",
+                "Toamasina Beach",
+                "Bazary Be Market"
+            ]
+        },
+        {
+            "name": "🏝 Nosy Be",
+            "geographical_location": "Northwest coast of Madagascar",
+            "climate": "Tropical climate with a hot and humid wet season and a warm dry season.",
+            "famous_cuisine": "Seafood dishes, especially grilled fish and shrimp.",
+            "popular_attractions": [
+                "Lokobe National Park",
+                "Nosy Sakatia",
+                "Andilana Beach"
+            ]
+        }
+    ]
+}

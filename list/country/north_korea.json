@@ -1,0 +1,31 @@
+{
+    "country": "North Korea",
+    "describe": "North Korea, officially known as the Democratic People's Republic of Korea (DPRK), is a country in East Asia constituting the northern part of the Korean Peninsula. It is bordered by China and Russia to the north and South Korea to the south. Known for its isolated government and strict control over its people, North Korea has a unique culture and history.",
+    "image_link": "https://example.com/north_korea_image.jpg",
+    "cities": [
+        {
+            "name": "🏰 Pyongyang",
+            "geographical_location": "Located in the west-central part of North Korea, along the Taedong River.",
+            "climate": "Pyongyang experiences a humid continental climate with cold, dry winters and hot, humid summers.",
+            "famous_cuisine": "Pyongyang cold noodles (Naengmyeon), Kimchi, and Bulgogi.",
+            "popular_attractions": [
+                "Kumsusan Palace of the Sun",
+                "Juche Tower",
+                "Arch of Triumph",
+                "Kim Il-sung Square"
+            ]
+        },
+        {
+            "name": "🏝 Wonsan",
+            "geographical_location": "Located on the eastern coast of North Korea, along the Sea of Japan.",
+            "climate": "Wonsan has a humid subtropical climate with mild winters and warm, humid summers.",
+            "famous_cuisine": "Seafood dishes, particularly those featuring fresh fish and shellfish.",
+            "popular_attractions": [
+                "Songdowon International Children's Camp",
+                "Wonsan Beach",
+                "Ulim Waterfall",
+                "Masikryong Ski Resort"
+            ]
+        }
+    ]
+}

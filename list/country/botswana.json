@@ -1,0 +1,40 @@
+{
+    "country": "Botswana",
+    "describe": "Botswana is a landlocked country located in Southern Africa. Known for its diverse wildlife and expansive nature reserves, it is home to the famous Okavango Delta and the Kalahari Desert. Botswana is one of Africa's most stable countries, with a strong tradition of democratic governance.",
+    "image_link": "https://example.com/botswana-image.jpg",
+    "cities": [
+        {
+            "name": "🌆 Gaborone",
+            "geographical_location": "Located in the southeastern part of Botswana, near the border with South Africa.",
+            "climate": "Gaborone has a semi-arid climate with hot summers and mild winters.",
+            "famous_cuisine": "Seswaa (pounded meat), Bogobe (sorghum porridge)",
+            "popular_attractions": [
+                "Gaborone Game Reserve",
+                "The Three Dikgosi Monument",
+                "Mokolodi Nature Reserve"
+            ]
+        },
+        {
+            "name": "🌳 Maun",
+            "geographical_location": "Situated in the northwestern part of Botswana, serving as the gateway to the Okavango Delta.",
+            "climate": "Maun has a semi-arid climate with hot, wet summers and cool, dry winters.",
+            "famous_cuisine": "Vetkoek (fried dough bread), Morogo (wild spinach)",
+            "popular_attractions": [
+                "Okavango Delta",
+                "Nhabe Museum",
+                "Maun Wildlife Educational Park"
+            ]
+        },
+        {
+            "name": "🌆 Francistown",
+            "geographical_location": "Located in eastern Botswana, near the border with Zimbabwe.",
+            "climate": "Francistown experiences a semi-arid climate with hot summers and mild winters.",
+            "famous_cuisine": "Dikgobe (beans and maize dish), Seswaa (pounded meat)",
+            "popular_attractions": [
+                "Domboshaba Ruins",
+                "Tachila Nature Reserve",
+                "Supang Memorial"
+            ]
+        }
+    ]
+}

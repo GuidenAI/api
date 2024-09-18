@@ -1,22 +1,41 @@
 {
-    "name": "Azerbaijan",
-    "image": "https://images.unsplash.com/photo-1544198365-65ab6ba083e0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "Azerbaijan",
+    "describe": "Azerbaijan, located at the crossroads of Eastern Europe and Western Asia, is known for its rich cultural heritage, diverse landscapes, and historical significance. The country is bordered by the Caspian Sea to the east, offering beautiful coastal views, and is home to the Caucasus Mountains, providing stunning natural scenery. Azerbaijan's capital, Baku, is renowned for its modern architecture juxtaposed with ancient sites.",
+    "image_link": "https://example.com/azerbaijan_image.jpg",
     "cities": [
-      { "name": "Baku" },
-      { "name": "Ganja" },
-      { "name": "Sumqayit" },
-      { "name": "Sheki" },
-      { "name": "Lankaran" },
-      { "name": "Gabala" },
-      { "name": "Shamakhi" },
-      { "name": "Nakhchivan" },
-      { "name": "Mingachevir" },
-      { "name": "Guba" },
-      { "name": "Khachmaz" },
-      { "name": "Shirvan" },
-      { "name": "Zaqatala" },
-      { "name": "Qusar" },
-      { "name": "Agdash" }
+        {
+            "name": "🏝 Baku",
+            "geographical_location": "Located on the western coast of the Caspian Sea.",
+            "climate": "Baku has a semi-arid climate with hot summers and mild winters.",
+            "famous_cuisine": "Plov (rice pilaf), Dolma (stuffed grape leaves), and Lavangi (stuffed chicken or fish).",
+            "popular_attractions": [
+                "Maiden Tower",
+                "Flame Towers",
+                "Baku Boulevard",
+                "Heydar Aliyev Center"
+            ]
+        },
+        {
+            "name": "🌋 Ganja",
+            "geographical_location": "Situated in the western part of Azerbaijan.",
+            "climate": "Ganja experiences a humid subtropical climate with warm summers and cool winters.",
+            "famous_cuisine": "Ganja Pakhlava, Ganja Kebab, and Ganja-style Dolma.",
+            "popular_attractions": [
+                "Nizami Mausoleum",
+                "Imamzadeh Complex",
+                "Ganja State Philharmonic Hall"
+            ]
+        },
+        {
+            "name": "🏔 Sheki",
+            "geographical_location": "Nestled in the foothills of the Greater Caucasus Mountains.",
+            "climate": "Sheki has a humid subtropical climate with significant rainfall throughout the year.",
+            "famous_cuisine": "Sheki Piti (lamb stew), Sheki Halva, and Sheki-style Dolma.",
+            "popular_attractions": [
+                "Sheki Khan's Palace",
+                "Sheki Caravanserai",
+                "Church of Kish"
+            ]
+        }
     ]
-  }
-  
+}

@@ -1,22 +1,43 @@
 {
-    "name": "Austria",
-    "image": "https://images.unsplash.com/photo-1545048489-cc9e7f2bc303?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "Austria",
+    "describe": "Austria is a landlocked country in Central Europe known for its rich cultural heritage, stunning alpine landscapes, and historical cities. It is famous for its classical music, with composers like Mozart and Strauss, and its vibrant arts scene.",
+    "image_link": "https://example.com/austria_image.jpg",
     "cities": [
-      { "name": "Vienna" },
-      { "name": "Salzburg" },
-      { "name": "Innsbruck" },
-      { "name": "Graz" },
-      { "name": "Linz" },
-      { "name": "Hallstatt" },
-      { "name": "Klagenfurt" },
-      { "name": "Bregenz" },
-      { "name": "Zell am See" },
-      { "name": "Villach" },
-      { "name": "St. Pölten" },
-      { "name": "Eisenstadt" },
-      { "name": "Kitzbühel" },
-      { "name": "Wels" },
-      { "name": "Schladming" }
+        {
+            "name": "🏰 Vienna",
+            "geographical_location": "Located in the northeastern part of Austria, along the Danube River.",
+            "climate": "Vienna has a temperate, continental climate with warm summers and cold, snowy winters.",
+            "famous_cuisine": "Wiener Schnitzel, Sachertorte, Apfelstrudel",
+            "popular_attractions": [
+                "Schönbrunn Palace",
+                "St. Stephen's Cathedral",
+                "Belvedere Palace",
+                "Vienna State Opera"
+            ]
+        },
+        {
+            "name": "🏰 Salzburg",
+            "geographical_location": "Situated in western Austria, near the German border.",
+            "climate": "Salzburg experiences a humid continental climate with cold winters and mild, wet summers.",
+            "famous_cuisine": "Salzburger Nockerl, Mozartkugel",
+            "popular_attractions": [
+                "Hohensalzburg Fortress",
+                "Mirabell Palace and Gardens",
+                "Mozart's Birthplace",
+                "Salzburg Cathedral"
+            ]
+        },
+        {
+            "name": "🏔 Innsbruck",
+            "geographical_location": "Located in the western part of Austria, in the Inn Valley, surrounded by the Alps.",
+            "climate": "Innsbruck has a humid continental climate with cold, snowy winters and warm summers.",
+            "famous_cuisine": "Tiroler Gröstl, Kaiserschmarrn",
+            "popular_attractions": [
+                "Innsbruck Old Town",
+                "Golden Roof",
+                "Ambras Castle",
+                "Nordkette Cable Car"
+            ]
+        }
     ]
-  }
-  
+}

@@ -1,0 +1,43 @@
+{
+    "country": "Serbia",
+    "describe": "Serbia is a landlocked country situated in Southeast Europe, in the central and western part of the Balkan Peninsula. Known for its rich history, vibrant culture, and diverse landscapes, Serbia offers a blend of medieval architecture, lively cities, and beautiful natural scenery.",
+    "image_link": "https://example.com/serbia-image.jpg",
+    "cities": [
+        {
+            "name": "🏰 Belgrade",
+            "geographical_location": "Located at the confluence of the River Sava and Danube, in the north-central part of Serbia.",
+            "climate": "Belgrade has a humid subtropical climate with four distinct seasons, featuring hot summers and cold winters.",
+            "famous_cuisine": "Ćevapi, Pljeskavica, and Sarma",
+            "popular_attractions": [
+                "Kalemegdan Fortress",
+                "St. Sava Temple",
+                "Skadarlija Street",
+                "Ada Ciganlija"
+            ]
+        },
+        {
+            "name": "🏝 Novi Sad",
+            "geographical_location": "Situated on the banks of the Danube River, in the northern part of Serbia.",
+            "climate": "Novi Sad experiences a continental climate with hot summers and cold, snowy winters.",
+            "famous_cuisine": "Fish Paprikash, Kulen, and Gibanica",
+            "popular_attractions": [
+                "Petrovaradin Fortress",
+                "Danube Park",
+                "Museum of Vojvodina",
+                "Strand Beach"
+            ]
+        },
+        {
+            "name": "🏔 Niš",
+            "geographical_location": "Located in the southern part of Serbia, near the Nišava River.",
+            "climate": "Niš has a humid subtropical climate with hot summers and mild to cold winters.",
+            "famous_cuisine": "Nišava Grilled Meat, Burek, and Ajvar",
+            "popular_attractions": [
+                "Niš Fortress",
+                "Skull Tower",
+                "Mediana Archaeological Site",
+                "Čegar Hill"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "country": "Brunei",
+    "describe": "Brunei, officially known as the Nation of Brunei, the Abode of Peace, is a small, wealthy country located on the island of Borneo in Southeast Asia. It is known for its rich history, Islamic culture, and vast reserves of oil and gas. The country is ruled by a Sultan and is famous for its pristine rainforests and vibrant biodiversity.",
+    "image_link": "https://example.com/brunei-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Bandar Seri Begawan",
+            "geographical_location": "Located on the northern coast of the island of Borneo, along the Brunei River.",
+            "climate": "Tropical rainforest climate with high humidity and heavy rainfall throughout the year.",
+            "famous_cuisine": "Ambuyat, Nasi Katok, and Satay.",
+            "popular_attractions": [
+                "Sultan Omar Ali Saifuddien Mosque",
+                "Kampong Ayer (Water Village)",
+                "Royal Regalia Museum"
+            ]
+        },
+        {
+            "name": "🏝 Kuala Belait",
+            "geographical_location": "Situated in the western part of Brunei, near the border with Malaysia.",
+            "climate": "Equatorial climate with consistent temperatures and significant rainfall year-round.",
+            "famous_cuisine": "Belait-style grilled fish, Rojak, and local seafood.",
+            "popular_attractions": [
+                "Silver Jubilee Park",
+                "Kuala Belait Beach",
+                "Oil and Gas Discovery Centre"
+            ]
+        }
+    ]
+}

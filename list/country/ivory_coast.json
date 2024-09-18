@@ -1,0 +1,40 @@
+{
+    "country": "Ivory Coast",
+    "describe": "Ivory Coast, also known as Côte d'Ivoire, is a West African country known for its diverse cultures, vibrant cities, and lush landscapes. It is a leading producer of cocoa beans and has a rich history reflected in its colonial architecture and traditional villages.",
+    "image_link": "https://example.com/ivory_coast_image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Abidjan",
+            "geographical_location": "Located on the southern Atlantic coast of Ivory Coast.",
+            "climate": "Tropical wet and dry climate with a long rainy season from May to July.",
+            "famous_cuisine": "Attiéké (cassava couscous), Alloco (fried plantains), and Garba (tuna and cassava dish).",
+            "popular_attractions": [
+                "St. Paul's Cathedral",
+                "Banco National Park",
+                "The Plateau district"
+            ]
+        },
+        {
+            "name": "🏝 Yamoussoukro",
+            "geographical_location": "Situated in the central part of Ivory Coast.",
+            "climate": "Tropical wet and dry climate with a distinct dry season.",
+            "famous_cuisine": "Kedjenou (slow-cooked chicken stew) and Fufu (starchy side dish).",
+            "popular_attractions": [
+                "Basilica of Our Lady of Peace",
+                "Presidential Palace",
+                "Crocodile Lake"
+            ]
+        },
+        {
+            "name": "🏝 San Pedro",
+            "geographical_location": "Located on the southwestern coast of Ivory Coast.",
+            "climate": "Tropical monsoon climate with heavy rainfall from May to October.",
+            "famous_cuisine": "Seafood dishes, including grilled fish and shrimp.",
+            "popular_attractions": [
+                "Taï National Park",
+                "San Pedro Port",
+                "Beaches of San Pedro"
+            ]
+        }
+    ]
+}

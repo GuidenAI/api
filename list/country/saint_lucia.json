@@ -1,0 +1,29 @@
+{
+    "country": "Saint Lucia",
+    "describe": "Saint Lucia is a beautiful island nation in the Caribbean known for its stunning landscapes, including the iconic Pitons, lush rainforests, and pristine beaches. It offers a rich cultural heritage with influences from African, French, and British traditions.",
+    "image_link": "https://example.com/saint-lucia.jpg",
+    "cities": [
+        {
+            "name": "🏝 Castries",
+            "geographical_location": "Located on the northwest coast of Saint Lucia, Castries is the capital and largest city of the island.",
+            "climate": "Castries has a tropical rainforest climate with a wet season from June to November and a dry season from December to May.",
+            "famous_cuisine": "Green fig and saltfish, bouyon, and callaloo soup.",
+            "popular_attractions": [
+                "Derek Walcott Square",
+                "Castries Market",
+                "Morne Fortune"
+            ]
+        },
+        {
+            "name": "🏝 Soufrière",
+            "geographical_location": "Situated on the southwest coast of Saint Lucia, Soufrière is known for its proximity to the Pitons.",
+            "climate": "Soufrière enjoys a tropical climate with warm temperatures year-round and a distinct rainy season.",
+            "famous_cuisine": "Bouillabaisse, grilled fish, and coconut-based dishes.",
+            "popular_attractions": [
+                "The Pitons",
+                "Sulphur Springs",
+                "Diamond Falls Botanical Gardens"
+            ]
+        }
+    ]
+}

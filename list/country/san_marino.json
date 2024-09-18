@@ -1,0 +1,19 @@
+{
+    "country": "San Marino",
+    "describe": "San Marino is a small, landlocked country surrounded by Italy. It is known for its historic architecture, medieval walled old town, and narrow cobblestone streets. As one of the world's oldest republics, it boasts a rich history and cultural heritage.",
+    "image_link": "https://example.com/san_marino_image.jpg",
+    "cities": [
+        {
+            "name": "🏙 San Marino City",
+            "geographical_location": "Located on the slopes of Monte Titano, in the central part of the country.",
+            "climate": "San Marino City experiences a Mediterranean climate with warm summers and mild winters.",
+            "famous_cuisine": "Torta Tre Monti, a layered wafer cake, and Faggioli con le Cotiche, a traditional bean and pork rind soup.",
+            "popular_attractions": [
+                "Guaita Tower",
+                "Cesta Tower",
+                "Basilica di San Marino",
+                "Piazza della Libertà"
+            ]
+        }
+    ]
+}

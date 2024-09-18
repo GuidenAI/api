@@ -1,0 +1,29 @@
+{
+    "country": "Samoa",
+    "describe": "Samoa is a Polynesian island country consisting of two main islands, Upolu and Savai'i, and several smaller islands. Known for its rich cultural heritage, stunning natural landscapes, and vibrant traditions, Samoa offers a unique blend of tropical beauty and warm hospitality.",
+    "image_link": "https://example.com/samoa-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Apia",
+            "geographical_location": "Located on the central north coast of Upolu Island.",
+            "climate": "Tropical rainforest climate with consistent temperatures and high humidity year-round.",
+            "famous_cuisine": "Oka (raw fish in coconut cream), Palusami (taro leaves with coconut cream), and Fa'apapa (sweet coconut bread).",
+            "popular_attractions": [
+                "Robert Louis Stevenson Museum",
+                "Palolo Deep Marine Reserve",
+                "Immaculate Conception of Mary Cathedral"
+            ]
+        },
+        {
+            "name": "🏝 Salelologa",
+            "geographical_location": "Situated on the southeastern coast of Savai'i Island.",
+            "climate": "Tropical climate with a wet season from November to April and a dry season from May to October.",
+            "famous_cuisine": "Luau (taro leaves with coconut cream and meat), Pisua (Samoan pudding), and Taro dishes.",
+            "popular_attractions": [
+                "Saleaula Lava Fields",
+                "Afu Aau Waterfall",
+                "Salelologa Market"
+            ]
+        }
+    ]
+}

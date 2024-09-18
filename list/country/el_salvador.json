@@ -1,0 +1,40 @@
+{
+    "country": "El Salvador",
+    "describe": "El Salvador, the smallest and most densely populated country in Central America, is known for its Pacific Ocean beaches, mountainous landscape, and vibrant culture. It has a rich history influenced by indigenous heritage and Spanish colonialism.",
+    "image_link": "https://example.com/el_salvador_image.jpg",
+    "cities": [
+        {
+            "name": "🏙 San Salvador",
+            "geographical_location": "Located in the central part of the country, San Salvador is the capital and largest city of El Salvador.",
+            "climate": "San Salvador has a tropical wet and dry climate, with a distinct wet season from May to October and a dry season from November to April.",
+            "famous_cuisine": "Pupusas, a traditional Salvadoran dish made of thick corn tortillas stuffed with cheese, beans, or meat.",
+            "popular_attractions": [
+                "Metropolitan Cathedral of San Salvador",
+                "National Palace",
+                "El Boquerón National Park"
+            ]
+        },
+        {
+            "name": "🏙 Santa Ana",
+            "geographical_location": "Situated in the western part of El Salvador, Santa Ana is the second-largest city in the country.",
+            "climate": "Santa Ana experiences a tropical climate with a wet and dry season, similar to San Salvador.",
+            "famous_cuisine": "Yuca frita, fried cassava served with curtido and chicharrón.",
+            "popular_attractions": [
+                "Santa Ana Volcano",
+                "Santa Ana Cathedral",
+                "Tazumal Mayan Ruins"
+            ]
+        },
+        {
+            "name": "🏝 La Libertad",
+            "geographical_location": "Located on the Pacific coast, La Libertad is known for its beautiful beaches and surf spots.",
+            "climate": "La Libertad has a tropical savanna climate, with a wet season from May to October and a dry season from November to April.",
+            "famous_cuisine": "Ceviche, a seafood dish typically made from fresh raw fish cured in citrus juices.",
+            "popular_attractions": [
+                "El Tunco Beach",
+                "Puerto de La Libertad",
+                "Walter Thilo Deininger National Park"
+            ]
+        }
+    ]
+}

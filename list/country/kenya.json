@@ -1,0 +1,40 @@
+{
+    "country": "Kenya",
+    "describe": "Kenya is a country in East Africa with a coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley, and mountain highlands. It's also home to wildlife like lions, elephants, and rhinos. From Nairobi, the capital, safaris visit the Maasai Mara Reserve, known for its annual wildebeest migrations, and Amboseli National Park, offering views of Tanzania's 5,895m Mt. Kilimanjaro.",
+    "image_link": "https://example.com/kenya-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Nairobi",
+            "geographical_location": "Located in the south-central part of Kenya, Nairobi is the capital and largest city.",
+            "climate": "Nairobi has a subtropical highland climate, with mild temperatures year-round.",
+            "famous_cuisine": "Nyama Choma, Ugali, and Sukuma Wiki.",
+            "popular_attractions": [
+                "Nairobi National Park",
+                "David Sheldrick Wildlife Trust",
+                "Giraffe Centre"
+            ]
+        },
+        {
+            "name": "🏝 Mombasa",
+            "geographical_location": "Situated on the southeastern coast of Kenya along the Indian Ocean.",
+            "climate": "Mombasa has a tropical wet and dry climate, with high temperatures and humidity.",
+            "famous_cuisine": "Seafood, Biryani, and Swahili dishes.",
+            "popular_attractions": [
+                "Fort Jesus",
+                "Haller Park",
+                "Mombasa Marine National Park"
+            ]
+        },
+        {
+            "name": "🏔 Kisumu",
+            "geographical_location": "Located in western Kenya on the shores of Lake Victoria.",
+            "climate": "Kisumu has a tropical rainforest climate, with heavy rainfall and warm temperatures.",
+            "famous_cuisine": "Tilapia, Ugali, and traditional Luo dishes.",
+            "popular_attractions": [
+                "Kisumu Impala Sanctuary",
+                "Dunga Hill Camp",
+                "Kisumu Museum"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "country": "Turkmenistan",
+    "describe": "Turkmenistan is a Central Asian country bordered by the Caspian Sea and largely covered by the Karakum Desert. It's known for its archaeological ruins, including those at Nisa and Merv, which were important stops along the ancient Silk Road.",
+    "image_link": "https://example.com/turkmenistan-image.jpg",
+    "cities": [
+        {
+            "name": "🏜 Ashgabat",
+            "geographical_location": "Located in the south-central part of the country, near the border with Iran.",
+            "climate": "Ashgabat has a desert climate with hot summers and mild winters.",
+            "famous_cuisine": "Plov (a rice dish with meat and vegetables), Shashlik (grilled skewered meat).",
+            "popular_attractions": [
+                "Turkmenistan Independence Monument",
+                "Ashgabat National Museum of History",
+                "The Arch of Neutrality"
+            ]
+        },
+        {
+            "name": "🏝 Turkmenbashi",
+            "geographical_location": "Situated on the eastern coast of the Caspian Sea.",
+            "climate": "Turkmenbashi experiences a semi-arid climate with hot summers and cool winters.",
+            "famous_cuisine": "Fish dishes, due to its proximity to the Caspian Sea.",
+            "popular_attractions": [
+                "Avaza National Tourist Zone",
+                "Yangykala Canyon",
+                "Kenar Bazaar"
+            ]
+        },
+        {
+            "name": "🏙 Mary",
+            "geographical_location": "Located in the southeastern part of Turkmenistan, near the Murghab River.",
+            "climate": "Mary has a desert climate with very hot summers and mild winters.",
+            "famous_cuisine": "Gowurdak (fried meat), Chegdermeh (a rice and meat dish).",
+            "popular_attractions": [
+                "Ancient City of Merv",
+                "Mary Museum",
+                "Gyz Gala"
+            ]
+        }
+    ]
+}

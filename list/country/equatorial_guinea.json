@@ -1,0 +1,29 @@
+{
+    "country": "Equatorial Guinea",
+    "describe": "Equatorial Guinea is a small country located on the west coast of Central Africa. It consists of a mainland region, Río Muni, and several islands, including Bioko, where the capital Malabo is situated. The country is known for its rich biodiversity, tropical climate, and oil reserves.",
+    "image_link": "https://example.com/equatorial-guinea-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Malabo",
+            "geographical_location": "Located on the northern coast of Bioko Island.",
+            "climate": "Tropical monsoon climate with a wet season from April to October.",
+            "famous_cuisine": "Pepper soup, grilled fish, and cassava.",
+            "popular_attractions": [
+                "Malabo Cathedral",
+                "Pico Basilé",
+                "The Presidential Palace"
+            ]
+        },
+        {
+            "name": "🌳 Bata",
+            "geographical_location": "Situated on the mainland region of Río Muni.",
+            "climate": "Tropical rainforest climate with high humidity and rainfall throughout the year.",
+            "famous_cuisine": "Succulent seafood dishes and plantains.",
+            "popular_attractions": [
+                "Bata Cathedral",
+                "Monte Alén National Park",
+                "Bata Market"
+            ]
+        }
+    ]
+}

@@ -1,38 +1,55 @@
 {
-    "name": "France",
-    "image": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "France",
+    "describe": "France, located in Western Europe, is renowned for its rich history, art, fashion, and gastronomy. It is home to iconic landmarks such as the Eiffel Tower and the Louvre Museum. The country boasts diverse landscapes, from the Mediterranean beaches to the Alpine mountains.",
+    "image_link": "https://example.com/france-image.jpg",
     "cities": [
-      { "name": "Paris" },
-      { "name": "Marseille" },
-      { "name": "Lyon" },
-      { "name": "Toulouse" },
-      { "name": "Nice" },
-      { "name": "Nantes" },
-      { "name": "Strasbourg" },
-      { "name": "Montpellier" },
-      { "name": "Bordeaux" },
-      { "name": "Lille" },
-      { "name": "Rennes" },
-      { "name": "Le Havre" },
-      { "name": "Reims" },
-      { "name": "Cannes" },
-      { "name": "Saint-Tropez" },
-      { "name": "Avignon" },
-      { "name": "Annecy" },
-      { "name": "Grenoble" },
-      { "name": "Dijon" },
-      { "name": "Aix-en-Provence" },
-      { "name": "Rouen" },
-      { "name": "Tours" },
-      { "name": "La Rochelle" },
-      { "name": "Biarritz" },
-      { "name": "Carcassonne" },
-      { "name": "Chamonix" },
-      { "name": "Colmar" },
-      { "name": "Amiens" },
-      { "name": "Metz" },
-      { "name": "Bayonne" },
-      { "name": "Versailles" }
+        {
+            "name": "🌆 Paris",
+            "geographical_location": "Located in the north-central part of France, along the Seine River.",
+            "climate": "Paris has a temperate oceanic climate, with mild summers and cool winters.",
+            "famous_cuisine": "Baguette, Croissant, Coq au Vin, Ratatouille.",
+            "popular_attractions": [
+                "Eiffel Tower",
+                "Louvre Museum",
+                "Notre-Dame Cathedral",
+                "Champs-Élysées"
+            ]
+        },
+        {
+            "name": "🏝 Nice",
+            "geographical_location": "Situated on the French Riviera, on the southeast coast of France.",
+            "climate": "Nice enjoys a Mediterranean climate, with hot, dry summers and mild, wet winters.",
+            "famous_cuisine": "Salade Niçoise, Ratatouille, Socca.",
+            "popular_attractions": [
+                "Promenade des Anglais",
+                "Castle Hill",
+                "Matisse Museum",
+                "Old Town (Vieux Nice)"
+            ]
+        },
+        {
+            "name": "🌆 Lyon",
+            "geographical_location": "Located in east-central France, at the confluence of the Rhône and Saône rivers.",
+            "climate": "Lyon has a humid subtropical climate, with warm summers and cold winters.",
+            "famous_cuisine": "Quenelles, Lyonnaise Potatoes, Rosette Lyonnaise.",
+            "popular_attractions": [
+                "Basilica of Notre-Dame de Fourvière",
+                "Parc de la Tête d'Or",
+                "Vieux Lyon",
+                "Lyon Cathedral"
+            ]
+        },
+        {
+            "name": "🏝 Marseille",
+            "geographical_location": "Located on the southern coast of France, along the Mediterranean Sea.",
+            "climate": "Marseille has a Mediterranean climate, with hot, dry summers and mild, wet winters.",
+            "famous_cuisine": "Bouillabaisse, Aioli, Panisse.",
+            "popular_attractions": [
+                "Old Port of Marseille",
+                "Basilica of Notre-Dame de la Garde",
+                "Calanques National Park",
+                "Le Panier"
+            ]
+        }
     ]
-  }
-  
+}

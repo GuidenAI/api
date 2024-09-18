@@ -1,0 +1,40 @@
+{
+    "country": "Cabo Verde",
+    "describe": "Cabo Verde, also known as Cape Verde, is an island country located in the central Atlantic Ocean. It consists of 10 volcanic islands and is known for its Creole Portuguese-African culture, picturesque landscapes, and vibrant music scene.",
+    "image_link": "https://example.com/cabo-verde.jpg",
+    "cities": [
+        {
+            "name": "🏝 Praia",
+            "geographical_location": "Located on the southern coast of Santiago Island.",
+            "climate": "Praia has a tropical dry climate with a short wet season and a long dry season.",
+            "famous_cuisine": "Cachupa, a traditional stew made with corn, beans, and fish or meat.",
+            "popular_attractions": [
+                "Praia de Gamboa",
+                "Museu Etnográfico da Praia",
+                "Mercado de Sucupira"
+            ]
+        },
+        {
+            "name": "🏝 Mindelo",
+            "geographical_location": "Situated on the northern coast of São Vicente Island.",
+            "climate": "Mindelo experiences a mild desert climate with minimal rainfall.",
+            "famous_cuisine": "Lagostada, a lobster dish often served with rice and vegetables.",
+            "popular_attractions": [
+                "Monte Verde",
+                "Mindelo Cultural Center",
+                "Laginha Beach"
+            ]
+        },
+        {
+            "name": "🏝 Santa Maria",
+            "geographical_location": "Located on the southern tip of Sal Island.",
+            "climate": "Santa Maria has a desert climate with warm temperatures year-round.",
+            "famous_cuisine": "Grilled fish with cachupa rica, a richer version of the traditional stew.",
+            "popular_attractions": [
+                "Santa Maria Beach",
+                "Kite Beach",
+                "Pedra de Lume Salt Crater"
+            ]
+        }
+    ]
+}

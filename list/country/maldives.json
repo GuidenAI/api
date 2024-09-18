@@ -1,0 +1,40 @@
+{
+    "country": "Maldives",
+    "describe": "The Maldives is a tropical paradise in the Indian Ocean, known for its stunning white-sand beaches, crystal-clear waters, and vibrant marine life. It consists of 26 atolls and over 1,000 coral islands, making it a popular destination for honeymooners, divers, and beach lovers.",
+    "image_link": "https://example.com/maldives.jpg",
+    "cities": [
+        {
+            "name": "🌳 Malé",
+            "geographical_location": "Located on the southern edge of North Malé Atoll.",
+            "climate": "Tropical monsoon climate with warm temperatures year-round and a wet season from May to November.",
+            "famous_cuisine": "Mas Huni (tuna salad), Garudhiya (fish soup), and Fihunu Mas (grilled fish).",
+            "popular_attractions": [
+                "Malé Friday Mosque",
+                "Maldives Islamic Centre",
+                "Sultan Park"
+            ]
+        },
+        {
+            "name": "🏝 Maafushi",
+            "geographical_location": "Situated in the Kaafu Atoll, south of Malé.",
+            "climate": "Tropical climate with a dry season from December to April and a wet season from May to November.",
+            "famous_cuisine": "Boshi Mashuni (banana flower salad), and Hedhikaa (local snacks).",
+            "popular_attractions": [
+                "Bikini Beach",
+                "Maafushi Prison",
+                "Water sports and diving centers"
+            ]
+        },
+        {
+            "name": "🏝 Hulhumalé",
+            "geographical_location": "An artificial island located northeast of Malé.",
+            "climate": "Warm and humid tropical climate with a distinct rainy season.",
+            "famous_cuisine": "Roshi (flatbread) and Maldivian curry.",
+            "popular_attractions": [
+                "Hulhumalé Beach",
+                "Central Park",
+                "Hulhumalé Mosque"
+            ]
+        }
+    ]
+}

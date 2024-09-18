@@ -1,27 +1,43 @@
 {
-    "name": "Albania",
-    "image": "https://images.unsplash.com/photo-1556646460-8900c0585b9e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "Albania",
+    "describe": "Albania is a small country located in Southeast Europe on the Balkan Peninsula. It is known for its rich history, stunning landscapes, and vibrant culture. The country features a diverse range of natural beauty, from its pristine beaches along the Adriatic and Ionian Seas to its rugged mountains and ancient ruins.",
+    "image_link": "https://example.com/albania-image.jpg",
     "cities": [
-      { "name": "Tirana" },
-      { "name": "Durres" },
-      { "name": "Shkoder" },
-      { "name": "Vlore" },
-      { "name": "Sarande" },
-      { "name": "Berat" },
-      { "name": "Gjirokaster" },
-      { "name": "Kruje" },
-      { "name": "Pogradec" },
-      { "name": "Fier" },
-      { "name": "Elbasan" },
-      { "name": "Korça" },
-      { "name": "Lezhe" },
-      { "name": "Himare" },
-      { "name": "Ksamil" },
-      { "name": "Permet" },
-      { "name": "Lushnje" },
-      { "name": "Kukes" },
-      { "name": "Tepelene" },
-      { "name": "Peshkopi" }
+        {
+            "name": "🏙 Tirana",
+            "geographical_location": "Located in the central part of Albania, Tirana is the capital and largest city of the country.",
+            "climate": "Tirana experiences a Mediterranean climate with hot, dry summers and mild, wet winters.",
+            "famous_cuisine": "Fërgesë, Tavë Kosi, and Byrek are popular dishes in Tirana.",
+            "popular_attractions": [
+                "Skanderbeg Square",
+                "Et'hem Bey Mosque",
+                "Bunk'Art Museum",
+                "Mount Dajti National Park"
+            ]
+        },
+        {
+            "name": "🏝 Saranda",
+            "geographical_location": "Situated on the Albanian Riviera in the southern part of the country, Sarandë is a coastal city.",
+            "climate": "Sarandë has a Mediterranean climate with warm, dry summers and mild, wet winters.",
+            "famous_cuisine": "Seafood dishes, such as grilled fish and shrimp, are popular in Sarandë.",
+            "popular_attractions": [
+                "Butrint National Park",
+                "Lekuresi Castle",
+                "Blue Eye Spring",
+                "Ksamil Islands"
+            ]
+        },
+        {
+            "name": "🏰 Shkoda",
+            "geographical_location": "Located in the northwestern part of Albania, Shkodër is near the border with Montenegro.",
+            "climate": "Shkodër has a humid subtropical climate with hot summers and cool, wet winters.",
+            "famous_cuisine": "Tavë Krapi (carp dish) and Shkodër-style Byrek are local specialties.",
+            "popular_attractions": [
+                "Rozafa Castle",
+                "Lake Shkodër",
+                "Marubi National Museum of Photography",
+                "Shkodër Cathedral"
+            ]
+        }
     ]
-  }
-  
+}

@@ -1,0 +1,51 @@
+{
+    "country": "Lebanon",
+    "describe": "Lebanon is a country in the Middle East, known for its rich history, diverse culture, and beautiful landscapes ranging from Mediterranean beaches to snow-capped mountains. It has a vibrant cultural scene and is famous for its cuisine, hospitality, and historical sites.",
+    "image_link": "https://example.com/lebanon-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Beirut",
+            "geographical_location": "Located on the Mediterranean coast, Beirut is the capital and largest city of Lebanon.",
+            "climate": "Beirut has a Mediterranean climate with hot, dry summers and mild, wet winters.",
+            "famous_cuisine": "Kibbeh, Tabbouleh, and Manakish",
+            "popular_attractions": [
+                "National Museum of Beirut",
+                "Pigeon Rocks",
+                "Beirut Souks"
+            ]
+        },
+        {
+            "name": "🏝 Byblos",
+            "geographical_location": "Byblos is situated on the coast, north of Beirut, and is one of the oldest continuously inhabited cities in the world.",
+            "climate": "Byblos experiences a Mediterranean climate with warm, dry summers and mild, wet winters.",
+            "famous_cuisine": "Seafood dishes, especially grilled fish and octopus",
+            "popular_attractions": [
+                "Byblos Castle",
+                "Old Souk",
+                "Byblos Port"
+            ]
+        },
+        {
+            "name": "🕌 Baalbek",
+            "geographical_location": "Located in the Beqaa Valley, Baalbek is known for its well-preserved Roman ruins.",
+            "climate": "Baalbek has a semi-arid climate with hot summers and cool, wet winters.",
+            "famous_cuisine": "Lamb dishes and Mezze",
+            "popular_attractions": [
+                "Baalbek Roman Ruins",
+                "Temple of Bacchus",
+                "Temple of Jupiter"
+            ]
+        },
+        {
+            "name": "🏝 Tripoli",
+            "geographical_location": "Tripoli is located in northern Lebanon, along the Mediterranean coast.",
+            "climate": "Tripoli has a Mediterranean climate with hot, humid summers and mild, rainy winters.",
+            "famous_cuisine": "Sweets like Baklava and Maamoul",
+            "popular_attractions": [
+                "Citadel of Raymond de Saint-Gilles",
+                "Al-Mina",
+                "Tripoli Souks"
+            ]
+        }
+    ]
+}

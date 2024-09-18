@@ -1,0 +1,40 @@
+{
+    "country": "Haiti",
+    "describe": "Haiti is a Caribbean country that shares the island of Hispaniola with the Dominican Republic to its east. Known for its rich history, vibrant culture, and beautiful landscapes, Haiti is the first independent nation of Latin America and the Caribbean, and the first post-colonial independent black-led nation in the world.",
+    "image_link": "https://example.com/haiti-image.jpg",
+    "cities": [
+        {
+            "name": "🏰 Port-au-Prince",
+            "geographical_location": "Located on the Gulf of Gonâve, in the central part of the country.",
+            "climate": "Tropical wet and dry climate with a wet season from April to November.",
+            "famous_cuisine": "Griot (fried pork), Tassot (fried beef), and Joumou soup.",
+            "popular_attractions": [
+                "The National Palace",
+                "Iron Market",
+                "Musée du Panthéon National Haïtien"
+            ]
+        },
+        {
+            "name": "🏝 Cap-Haitien",
+            "geographical_location": "Situated on the north coast of Haiti, near the Atlantic Ocean.",
+            "climate": "Tropical climate with a distinct wet and dry season.",
+            "famous_cuisine": "Lambi (conch), and Bouillon (a hearty soup).",
+            "popular_attractions": [
+                "Citadelle Laferrière",
+                "Sans-Souci Palace",
+                "Labadee Beach"
+            ]
+        },
+        {
+            "name": "🏝 Jacmel",
+            "geographical_location": "Located on the southern coast of Haiti, facing the Caribbean Sea.",
+            "climate": "Tropical climate with a wet season from May to October.",
+            "famous_cuisine": "Pikliz (spicy pickled vegetable relish), and Pain Patate (sweet potato bread).",
+            "popular_attractions": [
+                "Bassin Bleu",
+                "Jacmel Arts and Crafts",
+                "Carnival of Jacmel"
+            ]
+        }
+    ]
+}

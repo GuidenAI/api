@@ -1,0 +1,55 @@
+{
+    "country": "Bangladesh",
+    "describe": "Bangladesh is a South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna, and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.",
+    "image_link": "https://example.com/bangladesh-image.jpg",
+    "cities": [
+        {
+            "name": "🏰 Dhaka",
+            "geographical_location": "Located in central Bangladesh on the eastern banks of the Buriganga River.",
+            "climate": "Tropical savanna climate with a distinct monsoon season.",
+            "famous_cuisine": "Biriyani, Kacchi Biriyani, and Bhuna Khichuri.",
+            "popular_attractions": [
+                "Lalbagh Fort",
+                "Ahsan Manzil",
+                "National Museum",
+                "Jatiyo Sangsad Bhaban"
+            ]
+        },
+        {
+            "name": "🏝 Chittagong",
+            "geographical_location": "Situated in southeastern Bangladesh along the Bay of Bengal.",
+            "climate": "Tropical monsoon climate with heavy rainfall during the monsoon season.",
+            "famous_cuisine": "Mezban, Chittagong-style beef curry, and Shutki (dried fish).",
+            "popular_attractions": [
+                "Patenga Beach",
+                "Foy's Lake",
+                "Karnaphuli River",
+                "Ethnological Museum"
+            ]
+        },
+        {
+            "name": "🌳 Sylhet",
+            "geographical_location": "Located in northeastern Bangladesh, near the border with India.",
+            "climate": "Subtropical climate with heavy rainfall, especially during the monsoon.",
+            "famous_cuisine": "Panta Bhat, Shatkora Bhuna, and various fish curries.",
+            "popular_attractions": [
+                "Ratargul Swamp Forest",
+                "Jaflong",
+                "Shahjalal University of Science and Technology",
+                "Hazrat Shah Jalal Mazar Sharif"
+            ]
+        },
+        {
+            "name": "🏝 Cox's Bazar",
+            "geographical_location": "Located in southeastern Bangladesh, along the Bay of Bengal.",
+            "climate": "Tropical marine climate with a long rainy season.",
+            "famous_cuisine": "Seafood, particularly prawns and fish curries.",
+            "popular_attractions": [
+                "Cox's Bazar Beach",
+                "Himchari National Park",
+                "Inani Beach",
+                "Ramu Buddhist Temple"
+            ]
+        }
+    ]
+}

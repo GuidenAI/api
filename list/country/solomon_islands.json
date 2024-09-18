@@ -1,0 +1,29 @@
+{
+    "country": "Solomon Islands",
+    "describe": "The Solomon Islands is a sovereign country consisting of six major islands and over 900 smaller islands in Oceania, lying to the east of Papua New Guinea and northwest of Vanuatu. Known for its rich cultural heritage, diverse marine life, and significant World War II history, the Solomon Islands offer a unique blend of natural beauty and historical intrigue.",
+    "image_link": "https://example.com/solomon_islands_image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Honiara",
+            "geographical_location": "Located on the northwestern coast of Guadalcanal Island.",
+            "climate": "Tropical rainforest climate with high humidity and significant rainfall throughout the year.",
+            "famous_cuisine": "Poi (fermented taro root), coconut crab, and fresh seafood.",
+            "popular_attractions": [
+                "National Museum of Solomon Islands",
+                "American War Memorial",
+                "Honiara Central Market"
+            ]
+        },
+        {
+            "name": "🏝 Gizo",
+            "geographical_location": "Situated on Ghizo Island in the Western Province.",
+            "climate": "Tropical climate with a wet season from November to April and a dry season from May to October.",
+            "famous_cuisine": "Grilled fish, cassava pudding, and tropical fruits.",
+            "popular_attractions": [
+                "Gizo Market",
+                "Kennedy Island",
+                "Dive sites around Gizo"
+            ]
+        }
+    ]
+}

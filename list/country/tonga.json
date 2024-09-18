@@ -1,0 +1,29 @@
+{
+    "country": "Tonga",
+    "describe": "Tonga is a Polynesian kingdom of more than 170 South Pacific islands, many uninhabited, most lined in white beaches and coral reefs and covered with tropical rainforest. The main island, Tongatapu, is protected by lagoons and limestone cliffs.",
+    "image_link": "https://example.com/tonga-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Nuku'alofa",
+            "geographical_location": "Located on the north coast of Tongatapu Island.",
+            "climate": "Tropical climate with a wet season from November to April.",
+            "famous_cuisine": "Ota ika (raw fish marinated in coconut milk), Lu pulu (corned beef and taro leaves in coconut milk).",
+            "popular_attractions": [
+                "Royal Palace of Tonga",
+                "Talamahu Market",
+                "Ha'amonga 'a Maui Trilithon"
+            ]
+        },
+        {
+            "name": "🏝 Neiafu",
+            "geographical_location": "Situated on the island of Vava'u.",
+            "climate": "Tropical climate with a warm and humid atmosphere.",
+            "famous_cuisine": "Lupulu (taro leaves with coconut cream), Faikakai (sweet coconut dumplings).",
+            "popular_attractions": [
+                "Port of Refuge",
+                "Mount Talau National Park",
+                "Vava'u Island Group"
+            ]
+        }
+    ]
+}

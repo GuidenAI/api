@@ -1,0 +1,40 @@
+{
+    "country": "Malaysia",
+    "describe": "Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, rainforests, and mix of Malay, Chinese, Indian, and European cultural influences. The capital, Kuala Lumpur, is home to colonial buildings, busy shopping districts, and skyscrapers such as the iconic Petronas Twin Towers.",
+    "image_link": "https://example.com/malaysia.jpg",
+    "cities": [
+        {
+            "name": "🌳 Kuala Lumpur",
+            "geographical_location": "Located in the west-central part of Peninsular Malaysia.",
+            "climate": "Equatorial climate with abundant rainfall and high humidity.",
+            "famous_cuisine": "Nasi Lemak, Satay, Char Kway Teow",
+            "popular_attractions": [
+                "Petronas Twin Towers",
+                "Batu Caves",
+                "Kuala Lumpur Bird Park"
+            ]
+        },
+        {
+            "name": "🏝 George Town",
+            "geographical_location": "Situated on the northeast corner of Penang Island.",
+            "climate": "Tropical rainforest climate with no distinct dry season.",
+            "famous_cuisine": "Penang Laksa, Hokkien Mee, Char Koay Teow",
+            "popular_attractions": [
+                "Penang Hill",
+                "Kek Lok Si Temple",
+                "Cheong Fatt Tze Mansion"
+            ]
+        },
+        {
+            "name": "🏝 Kota Kinabalu",
+            "geographical_location": "Located on the northwest coast of Borneo facing the South China Sea.",
+            "climate": "Tropical rainforest climate with high humidity and rainfall.",
+            "famous_cuisine": "Seafood, Hinava, Tuaran Mee",
+            "popular_attractions": [
+                "Mount Kinabalu",
+                "Tunku Abdul Rahman Park",
+                "Kota Kinabalu City Mosque"
+            ]
+        }
+    ]
+}

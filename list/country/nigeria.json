@@ -1,0 +1,51 @@
+{
+    "country": "Nigeria",
+    "describe": "Nigeria, located in West Africa, is the most populous country on the continent. Known for its diverse culture, vibrant music scene, and rich history, Nigeria is a powerhouse of economic and cultural influence in Africa. The country is home to a variety of ethnic groups, languages, and traditions, making it a fascinating destination for travelers.",
+    "image_link": "https://example.com/nigeria-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Lagos",
+            "geographical_location": "Located on the southwestern coast of Nigeria, along the Atlantic Ocean.",
+            "climate": "Tropical wet and dry climate with a rainy season from April to October and a dry season from November to March.",
+            "famous_cuisine": "Jollof rice, Suya, Akara",
+            "popular_attractions": [
+                "Lekki Conservation Centre",
+                "Nike Art Gallery",
+                "Tarkwa Bay Beach"
+            ]
+        },
+        {
+            "name": "🏙 Abuja",
+            "geographical_location": "Situated in the center of Nigeria, serving as the capital city.",
+            "climate": "Tropical wet and dry climate with a distinct rainy season and dry season.",
+            "famous_cuisine": "Egusi soup, Pounded yam, Fufu",
+            "popular_attractions": [
+                "Aso Rock",
+                "Zuma Rock",
+                "Millennium Park"
+            ]
+        },
+        {
+            "name": "🏙 Kano",
+            "geographical_location": "Located in the northern part of Nigeria.",
+            "climate": "Semi-arid climate with a short rainy season and a long dry season.",
+            "famous_cuisine": "Kilishi, Tuwo Shinkafa, Miyan Kuka",
+            "popular_attractions": [
+                "Kano City Walls",
+                "Gidan Makama Museum",
+                "Dala Hill"
+            ]
+        },
+        {
+            "name": "🏝 Port Harcourt",
+            "geographical_location": "Located in the Niger Delta region of southern Nigeria.",
+            "climate": "Tropical monsoon climate with heavy rainfall throughout the year.",
+            "famous_cuisine": "Bole, Fisherman soup, Afang soup",
+            "popular_attractions": [
+                "Port Harcourt Tourist Beach",
+                "Isaac Boro Park",
+                "Rivers State Museum"
+            ]
+        }
+    ]
+}

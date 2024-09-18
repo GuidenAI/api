@@ -1,0 +1,40 @@
+{
+    "country": "Colombia",
+    "describe": "Colombia is a vibrant country located in the northwest of South America, known for its rich cultural heritage, diverse landscapes ranging from the Amazon rainforest to the Andes mountains, and a lively mix of modern cities and colonial towns.",
+    "image_link": "https://example.com/colombia.jpg",
+    "cities": [
+        {
+            "name": "🏔 Bogotang",
+            "geographical_location": "Located in the center of Colombia, high in the Andes mountains.",
+            "climate": "Bogotá has a subtropical highland climate, characterized by mild temperatures and frequent rainfall.",
+            "famous_cuisine": "Ajiaco, a traditional chicken and potato soup.",
+            "popular_attractions": [
+                "Gold Museum",
+                "Monserrate Mountain",
+                "La Candelaria"
+            ]
+        },
+        {
+            "name": "🏝 Cartagena",
+            "geographical_location": "Situated on the northern coast of Colombia, facing the Caribbean Sea.",
+            "climate": "Cartagena has a tropical wet and dry climate, with a hot and humid atmosphere year-round.",
+            "famous_cuisine": "Arepas de huevo, a fried corn cake filled with egg.",
+            "popular_attractions": [
+                "Walled City of Cartagena",
+                "Castillo San Felipe de Barajas",
+                "Rosario Islands"
+            ]
+        },
+        {
+            "name": "🏙 MedellÃ­n",
+            "geographical_location": "Located in the Aburrá Valley, in the central region of the Andes Mountains.",
+            "climate": "Medellín enjoys a temperate climate, often referred to as the 'City of Eternal Spring' due to its mild weather.",
+            "famous_cuisine": "Bandeja Paisa, a hearty platter with beans, rice, meat, and more.",
+            "popular_attractions": [
+                "Plaza Botero",
+                "Parque Arví",
+                "Comuna 13"
+            ]
+        }
+    ]
+}

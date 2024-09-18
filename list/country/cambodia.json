@@ -1,0 +1,40 @@
+{
+    "country": "Cambodia",
+    "describe": "Cambodia, located in Southeast Asia, is known for its rich history, vibrant culture, and stunning landscapes. It is home to the magnificent Angkor Wat, a UNESCO World Heritage site, and offers a blend of ancient temples, bustling cities, and serene countryside.",
+    "image_link": "https://example.com/cambodia-image.jpg",
+    "cities": [
+        {
+            "name": "🏰 Phnom Penh",
+            "geographical_location": "Located at the confluence of the Mekong and Tonle Sap rivers in the south-central region of Cambodia.",
+            "climate": "Tropical wet and dry climate with a distinct monsoon season.",
+            "famous_cuisine": "Amok trey (fish amok), Kuy teav (noodle soup), and Bai sach chrouk (pork and rice).",
+            "popular_attractions": [
+                "Royal Palace",
+                "Tuol Sleng Genocide Museum",
+                "Wat Phnom"
+            ]
+        },
+        {
+            "name": "🌆 Siem Reap",
+            "geographical_location": "Located in northwestern Cambodia, close to the Angkor archaeological site.",
+            "climate": "Tropical wet and dry climate with a pronounced dry season.",
+            "famous_cuisine": "Lok lak (stir-fried beef), Nom banh chok (Khmer noodles), and Prahok ktis (fermented fish dip).",
+            "popular_attractions": [
+                "Angkor Wat",
+                "Angkor Thom",
+                "Pub Street"
+            ]
+        },
+        {
+            "name": "🏝 Sihanoukville",
+            "geographical_location": "Located on the Gulf of Thailand in the southwest of Cambodia.",
+            "climate": "Tropical monsoon climate with heavy rainfall during the wet season.",
+            "famous_cuisine": "Grilled seafood, Samlor machu (sour soup), and Mee katang (stir-fried noodles).",
+            "popular_attractions": [
+                "Otres Beach",
+                "Koh Rong Island",
+                "Ream National Park"
+            ]
+        }
+    ]
+}

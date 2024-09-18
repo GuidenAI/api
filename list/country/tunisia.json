@@ -1,0 +1,40 @@
+{
+    "country": "Tunisia",
+    "describe": "Tunisia is a North African country bordering the Mediterranean Sea and Sahara Desert. Known for its rich history, Tunisia is home to ancient ruins, vibrant markets, and stunning beaches.",
+    "image_link": "https://example.com/tunisia-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Tunis",
+            "geographical_location": "Located in the northern part of Tunisia, near the Mediterranean coast.",
+            "climate": "Mediterranean climate with hot, dry summers and mild, wet winters.",
+            "famous_cuisine": "Couscous, Brik, Harissa",
+            "popular_attractions": [
+                "Medina of Tunis",
+                "Bardo National Museum",
+                "Carthage Ruins"
+            ]
+        },
+        {
+            "name": "🏝 Sousse",
+            "geographical_location": "Situated on the eastern coast of Tunisia, along the Gulf of Hammamet.",
+            "climate": "Mediterranean climate with warm, dry summers and mild, wet winters.",
+            "famous_cuisine": "Mechouia salad, Makroud",
+            "popular_attractions": [
+                "Ribat of Sousse",
+                "Sousse Archaeological Museum",
+                "Port El Kantaoui"
+            ]
+        },
+        {
+            "name": "🏝 Djerba",
+            "geographical_location": "An island located off the southern coast of Tunisia in the Gulf of Gabes.",
+            "climate": "Semi-arid climate with hot summers and mild winters.",
+            "famous_cuisine": "Djerba-style couscous, Ojja",
+            "popular_attractions": [
+                "Houmt Souk",
+                "El Ghriba Synagogue",
+                "Djerba Explore Park"
+            ]
+        }
+    ]
+}

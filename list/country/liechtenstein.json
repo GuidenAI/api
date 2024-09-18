@@ -1,0 +1,29 @@
+{
+    "country": "Liechtenstein",
+    "describe": "Liechtenstein is a small, doubly landlocked alpine country in Central Europe, bordered by Switzerland to the west and south and Austria to the east and north. It is known for its medieval castles, alpine landscapes, and villages linked by a network of trails.",
+    "image_link": "https://example.com/liechtenstein_image.jpg",
+    "cities": [
+        {
+            "name": "🏰 Vaduz",
+            "geographical_location": "Located along the Rhine River in the western part of the country.",
+            "climate": "Vaduz has a temperate, continental climate with cold winters and mild summers.",
+            "famous_cuisine": "Käsknöpfle (cheese noodles), Ribel (cornmeal dish)",
+            "popular_attractions": [
+                "Vaduz Castle",
+                "Liechtenstein National Museum",
+                "Kunstmuseum Liechtenstein"
+            ]
+        },
+        {
+            "name": "🌳 Schaan",
+            "geographical_location": "Situated just north of Vaduz, near the Rhine River.",
+            "climate": "Schaan experiences a temperate climate with distinct seasons, including cold winters and warm summers.",
+            "famous_cuisine": "Torkarebl (traditional pastry), Hafalaab (soup with dumplings)",
+            "popular_attractions": [
+                "DoMuS - Documentation Center and Museum",
+                "Parish Church of St. Laurentius",
+                "Millwood Park"
+            ]
+        }
+    ]
+}

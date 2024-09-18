@@ -1,0 +1,40 @@
+{
+    "country": "Eswatini",
+    "describe": "Eswatini, formerly known as Swaziland, is a small, landlocked monarchy in Southern Africa. It is known for its rich cultural heritage, stunning landscapes, and vibrant traditions. The country is bordered by South Africa and Mozambique and is renowned for its wildlife reserves and traditional Swazi culture.",
+    "image_link": "https://example.com/eswatini-image.jpg",
+    "cities": [
+        {
+            "name": "🏔 Mbabane",
+            "geographical_location": "Located in the western part of Eswatini, in the Mdzimba Mountains.",
+            "climate": "Mbabane has a temperate climate with mild summers and cool winters.",
+            "famous_cuisine": "Sishwala (thick porridge), Emasi (sour milk), and Umncweba (dried meat).",
+            "popular_attractions": [
+                "Sibebe Rock",
+                "Mbabane Market",
+                "Mlilwane Wildlife Sanctuary"
+            ]
+        },
+        {
+            "name": "🌳 Manzini",
+            "geographical_location": "Situated in the central part of Eswatini, it is the country's largest urban center.",
+            "climate": "Manzini experiences a subtropical highland climate with warm, wet summers and cool, dry winters.",
+            "famous_cuisine": "Inyama Yenkukhu (chicken stew), and Umkhunsu (traditional beer).",
+            "popular_attractions": [
+                "Manzini Market",
+                "Swazi Cultural Village",
+                "Hlane Royal National Park"
+            ]
+        },
+        {
+            "name": "🌳 Lobamba",
+            "geographical_location": "Located in the Ezulwini Valley, near Mbabane.",
+            "climate": "Lobamba has a mild climate with moderate rainfall throughout the year.",
+            "famous_cuisine": "Sidvudvu (pumpkin porridge) and Emasi (fermented milk).",
+            "popular_attractions": [
+                "King Sobhuza II Memorial Park",
+                "National Museum of Eswatini",
+                "Ludzidzini Royal Village"
+            ]
+        }
+    ]
+}

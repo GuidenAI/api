@@ -1,0 +1,29 @@
+{
+    "country": "Vanuatu",
+    "describe": "Vanuatu is an island nation located in the South Pacific Ocean. It is known for its stunning natural beauty, vibrant culture, and diverse marine life. The country consists of approximately 83 islands, offering a mix of tropical rainforests, volcanic landscapes, and pristine beaches.",
+    "image_link": "https://example.com/vanuatu-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Port Vila",
+            "geographical_location": "Located on the island of Efate, Port Vila is the capital city of Vanuatu.",
+            "climate": "Port Vila has a tropical climate with a wet season from November to April and a dry season from May to October.",
+            "famous_cuisine": "Lap lap, Tuluk, and fresh seafood.",
+            "popular_attractions": [
+                "Mele Cascades",
+                "Vanuatu Cultural Centre",
+                "Iririki Island"
+            ]
+        },
+        {
+            "name": "🏝 Luganville",
+            "geographical_location": "Situated on the island of Espiritu Santo, Luganville is the second-largest city in Vanuatu.",
+            "climate": "Luganville experiences a tropical climate with high humidity and significant rainfall throughout the year.",
+            "famous_cuisine": "Coconut crab, Santo beef, and local fruits.",
+            "popular_attractions": [
+                "SS President Coolidge",
+                "Million Dollar Point",
+                "Champagne Beach"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "country": "Cuba",
+    "describe": "Cuba is a Caribbean island nation known for its vibrant culture, rich history, and stunning landscapes. It is famous for its music, dance, and cigars, as well as its colonial architecture and beautiful beaches.",
+    "image_link": "https://example.com/cuba-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Havana",
+            "geographical_location": "Located on the north coast of Cuba, facing the Gulf of Mexico.",
+            "climate": "Tropical climate with a wet season from May to October and a dry season from November to April.",
+            "famous_cuisine": "Ropa Vieja, Moros y Cristianos, and Cuban Sandwich.",
+            "popular_attractions": [
+                "Old Havana",
+                "Malecón",
+                "El Capitolio"
+            ]
+        },
+        {
+            "name": "🏝 Varadero",
+            "geographical_location": "Situated on the Hicacos Peninsula, along the northern coast of Cuba.",
+            "climate": "Tropical climate with warm temperatures year-round, ideal for beach activities.",
+            "famous_cuisine": "Seafood dishes, especially lobster and shrimp.",
+            "popular_attractions": [
+                "Varadero Beach",
+                "Josone Park",
+                "Cueva de Saturno"
+            ]
+        },
+        {
+            "name": "🏝 Santiago de Cuba",
+            "geographical_location": "Located in the southeastern part of the island, near the Sierra Maestra mountains.",
+            "climate": "Tropical climate with high humidity and a pronounced rainy season.",
+            "famous_cuisine": "Arroz con Pollo, Tostones, and Bacán.",
+            "popular_attractions": [
+                "Castillo del Morro",
+                "Céspedes Park",
+                "Baconao Park"
+            ]
+        }
+    ]
+}

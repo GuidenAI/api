@@ -1,0 +1,51 @@
+{
+    "country": "Peru",
+    "describe": "Peru is a country in South America that's home to a section of Amazon rainforest and Machu Picchu, an ancient Incan city high in the Andes mountains. The region around Machu Picchu, including the Sacred Valley, the Inca Trail, and the colonial city of Cusco, is rich in archaeological sites. On Peru’s arid Pacific coast is Lima, the capital, with a preserved colonial center and important collections of pre-Columbian art.",
+    "image_link": "https://example.com/peru-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Lima",
+            "geographical_location": "Located on the central western coast of Peru, overlooking the Pacific Ocean.",
+            "climate": "Lima has a mild desert climate with a long, warm season and a short, cool season.",
+            "famous_cuisine": "Ceviche, Lomo Saltado, Anticuchos",
+            "popular_attractions": [
+                "Plaza Mayor",
+                "Larco Museum",
+                "Miraflores District"
+            ]
+        },
+        {
+            "name": "🏔 Cusco",
+            "geographical_location": "Situated in the southeastern part of Peru, near the Urubamba Valley of the Andes mountain range.",
+            "climate": "Cusco has a subtropical highland climate with dry winters and wet summers.",
+            "famous_cuisine": "Cuy (guinea pig), Alpaca meat, Chicha Morada",
+            "popular_attractions": [
+                "Sacsayhuamán",
+                "Qorikancha",
+                "San Pedro Market"
+            ]
+        },
+        {
+            "name": "🌋 Arequipa",
+            "geographical_location": "Located in the southern part of Peru, surrounded by three volcanoes.",
+            "climate": "Arequipa has a semi-arid climate with sunny weather most of the year.",
+            "famous_cuisine": "Rocoto Relleno, Adobo, Queso Helado",
+            "popular_attractions": [
+                "Santa Catalina Monastery",
+                "Colca Canyon",
+                "Plaza de Armas"
+            ]
+        },
+        {
+            "name": "🌳 Iquitos",
+            "geographical_location": "Situated in the northeastern part of Peru, deep in the Amazon rainforest.",
+            "climate": "Iquitos has a tropical rainforest climate with high humidity and rainfall year-round.",
+            "famous_cuisine": "Tacacho con Cecina, Juane, Paiche",
+            "popular_attractions": [
+                "Amazon River",
+                "Belén Market",
+                "Pilpintuwasi Butterfly Farm"
+            ]
+        }
+    ]
+}

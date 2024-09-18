@@ -1,0 +1,18 @@
+{
+    "country": "Tuvalu",
+    "describe": "Tuvalu is a small island nation located in the Pacific Ocean, midway between Hawaii and Australia. It is known for its stunning coral atolls, vibrant marine life, and unique Polynesian culture. As one of the world's smallest and least populous countries, Tuvalu faces challenges such as rising sea levels due to climate change.",
+    "image_link": "https://example.com/tuvalu-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Funafuti",
+            "geographical_location": "Located on the Funafuti Atoll, which is the capital of Tuvalu.",
+            "climate": "Tropical rainforest climate with high humidity and consistent temperatures year-round.",
+            "famous_cuisine": "Pulaka, coconut crab, and fresh seafood dishes.",
+            "popular_attractions": [
+                "Funafuti Marine Conservation Area",
+                "Teone Church",
+                "Tuvalu Philatelic Bureau"
+            ]
+        }
+    ]
+}

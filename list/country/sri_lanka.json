@@ -1,0 +1,51 @@
+{
+    "country": "Sri Lanka",
+    "describe": "Sri Lanka, an island nation in South Asia, is known for its rich cultural heritage, stunning landscapes, and diverse wildlife. It boasts ancient ruins, lush rainforests, and pristine beaches, making it a popular tourist destination.",
+    "image_link": "https://example.com/sri-lanka.jpg",
+    "cities": [
+        {
+            "name": "🏝 Colombo",
+            "geographical_location": "Located on the western coast of the island.",
+            "climate": "Tropical monsoon climate with distinct wet and dry seasons.",
+            "famous_cuisine": "Kottu Roti, Hoppers, and Lamprais.",
+            "popular_attractions": [
+                "Gangaramaya Temple",
+                "Galle Face Green",
+                "National Museum of Colombo"
+            ]
+        },
+        {
+            "name": "🏔 Kandy",
+            "geographical_location": "Situated in the central highlands of Sri Lanka.",
+            "climate": "Tropical rainforest climate with cooler temperatures due to elevation.",
+            "famous_cuisine": "Kandyan Dhal Curry, Gotu Kola Sambol.",
+            "popular_attractions": [
+                "Temple of the Tooth",
+                "Royal Botanical Gardens",
+                "Kandy Lake"
+            ]
+        },
+        {
+            "name": "🏝 Galle",
+            "geographical_location": "Located on the southwestern tip of the island.",
+            "climate": "Tropical rainforest climate with high humidity.",
+            "famous_cuisine": "Seafood Curry, Galle Crab Curry.",
+            "popular_attractions": [
+                "Galle Fort",
+                "Unawatuna Beach",
+                "Jungle Beach"
+            ]
+        },
+        {
+            "name": "🏔 Nuwara Eliya",
+            "geographical_location": "Nestled in the central mountains of Sri Lanka.",
+            "climate": "Temperate climate with cool temperatures year-round.",
+            "famous_cuisine": "Nuwara Eliya Tea, Vegetable Roti.",
+            "popular_attractions": [
+                "Horton Plains National Park",
+                "Gregory Lake",
+                "Victoria Park"
+            ]
+        }
+    ]
+}

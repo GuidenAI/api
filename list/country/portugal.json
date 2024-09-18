@@ -1,0 +1,43 @@
+{
+    "country": "Portugal",
+    "describe": "Portugal is a southern European country on the Iberian Peninsula, bordering Spain. Its location on the Atlantic Ocean has influenced many aspects of its culture: salt cod and grilled sardines are national dishes, the Algarve's beaches are a major destination, and much of the nation's architecture dates to the 1500s–1800s, when Portugal had a powerful maritime empire.",
+    "image_link": "https://example.com/portugal-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Lisbon",
+            "geographical_location": "Located on the western coast of Portugal, along the Atlantic Ocean.",
+            "climate": "Lisbon has a Mediterranean climate with mild, rainy winters and warm, dry summers.",
+            "famous_cuisine": "Bacalhau à Brás, Pastéis de Belém",
+            "popular_attractions": [
+                "Belém Tower",
+                "Jerónimos Monastery",
+                "São Jorge Castle",
+                "Alfama District"
+            ]
+        },
+        {
+            "name": "🌉 Porto",
+            "geographical_location": "Situated along the Douro River estuary in northern Portugal.",
+            "climate": "Porto experiences a warm-summer Mediterranean climate, with mild, rainy winters and warm, dry summers.",
+            "famous_cuisine": "Francesinha, Tripas à Moda do Porto",
+            "popular_attractions": [
+                "Ribeira District",
+                "Dom Luís I Bridge",
+                "Livraria Lello",
+                "Port Wine Cellars"
+            ]
+        },
+        {
+            "name": "🏝 Funchal",
+            "geographical_location": "Located on the southern coast of Madeira Island, in the Atlantic Ocean.",
+            "climate": "Funchal has a subtropical Mediterranean climate, with mild, wet winters and warm, dry summers.",
+            "famous_cuisine": "Espetada, Bolo do Caco",
+            "popular_attractions": [
+                "Monte Palace Madeira",
+                "Madeira Botanical Garden",
+                "Funchal Cathedral",
+                "Cabo Girão Skywalk"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "country": "Burundi",
+    "describe": "Burundi is a landlocked country in East Africa, bordered by Rwanda to the north, Tanzania to the east and south, and the Democratic Republic of the Congo to the west. It is known for its rich cultural heritage, beautiful landscapes, and vibrant traditions.",
+    "image_link": "https://example.com/burundi-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Bujumbura",
+            "geographical_location": "Located on the northeastern shore of Lake Tanganyika.",
+            "climate": "Tropical savanna climate with wet and dry seasons.",
+            "famous_cuisine": "Mukeke (grilled fish), Isombe (cassava leaves).",
+            "popular_attractions": [
+                "Rusizi National Park",
+                "Livingstone-Stanley Monument",
+                "Lake Tanganyika beaches"
+            ]
+        },
+        {
+            "name": "🌆 Gitega",
+            "geographical_location": "Situated in the central part of Burundi.",
+            "climate": "Moderate climate with a mix of tropical and temperate influences.",
+            "famous_cuisine": "Boko Boko Harees (meat and wheat dish).",
+            "popular_attractions": [
+                "Gishora Drum Sanctuary",
+                "National Museum of Gitega",
+                "Chutes de la Kagera"
+            ]
+        }
+    ]
+}

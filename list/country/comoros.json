@@ -1,0 +1,40 @@
+{
+    "country": "Comoros",
+    "describe": "Comoros is an archipelago located in the Indian Ocean off the eastern coast of Africa. It is known for its diverse culture, beautiful beaches, and volcanic landscapes. The country consists of three major islands: Grande Comore, Mohéli, and Anjouan. Comoros is one of the world's least populous countries and has a rich history influenced by African, Arab, and French cultures.",
+    "image_link": "https://example.com/comoros-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Moroni",
+            "geographical_location": "Located on the western coast of Grande Comore island.",
+            "climate": "Tropical climate with a hot and humid season from November to April and a cooler, dry season from May to October.",
+            "famous_cuisine": "Langouste à la vanille (lobster with vanilla), Mkatra foutra (fried bread), and Pilaou (spiced rice with meat).",
+            "popular_attractions": [
+                "Old Friday Mosque",
+                "Mount Karthala",
+                "Volo Volo Market"
+            ]
+        },
+        {
+            "name": "🏝 Mutsamudu",
+            "geographical_location": "Located on the northern coast of Anjouan island.",
+            "climate": "Tropical climate with distinct wet and dry seasons, similar to Moroni.",
+            "famous_cuisine": "Grilled fish with coconut sauce, and local fruit salads.",
+            "popular_attractions": [
+                "Mutsamudu Citadel",
+                "Old Town of Mutsamudu",
+                "Chomoni Beach"
+            ]
+        },
+        {
+            "name": "🏝 Fomboni",
+            "geographical_location": "Located on the northern coast of Mohéli island.",
+            "climate": "Tropical climate with a warm, humid atmosphere year-round.",
+            "famous_cuisine": "Cassava leaves with coconut milk, and seafood dishes.",
+            "popular_attractions": [
+                "Mohéli Marine Park",
+                "Itsamia Beach",
+                "Kave Hoani"
+            ]
+        }
+    ]
+}

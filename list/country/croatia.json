@@ -1,0 +1,40 @@
+{
+    "country": "Croatia",
+    "describe": "Croatia is a beautiful country located in Southeast Europe, known for its stunning coastline along the Adriatic Sea, rich history, and vibrant culture. It is a popular tourist destination with a diverse landscape that includes beaches, islands, and mountains.",
+    "image_link": "https://example.com/croatia-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Dubrovnik",
+            "geographical_location": "Southern Croatia on the Adriatic Sea",
+            "climate": "Mediterranean climate with hot, dry summers and mild, wet winters",
+            "famous_cuisine": "Black risotto, Dubrovnik's rozata, and seafood dishes",
+            "popular_attractions": [
+                "Old Town and City Walls",
+                "Lokrum Island",
+                "Dubrovnik Cable Car"
+            ]
+        },
+        {
+            "name": "🕌 Zagreb",
+            "geographical_location": "Northwest Croatia, along the Sava River",
+            "climate": "Continental climate with hot summers and cold winters",
+            "famous_cuisine": "Strukli, Zagrebački odrezak, and štrukli",
+            "popular_attractions": [
+                "Zagreb Cathedral",
+                "Museum of Broken Relationships",
+                "St. Mark's Church"
+            ]
+        },
+        {
+            "name": "🏔 Split",
+            "geographical_location": "Central Dalmatia, on the eastern shore of the Adriatic Sea",
+            "climate": "Mediterranean climate with hot, dry summers and mild, wet winters",
+            "famous_cuisine": "Pasticada, soparnik, and fresh seafood",
+            "popular_attractions": [
+                "Diocletian's Palace",
+                "Marjan Hill",
+                "Riva Promenade"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "country": "Papua New Guinea",
+    "describe": "Papua New Guinea is a diverse and culturally rich country located in the southwestern Pacific Ocean. It occupies the eastern half of the island of New Guinea and numerous offshore islands. Known for its stunning landscapes, vibrant tribal cultures, and rich biodiversity, Papua New Guinea is a unique destination for travelers seeking adventure and cultural experiences.",
+    "image_link": "https://example.com/image-of-papua-new-guinea.jpg",
+    "cities": [
+        {
+            "name": "🏝 Port Moresby",
+            "geographical_location": "Located on the southeastern coast of the island of New Guinea.",
+            "climate": "Tropical savanna climate with a distinct wet and dry season.",
+            "famous_cuisine": "Kaukau (sweet potato), Mumu (traditional earth oven dish), and Kokoda (raw fish salad).",
+            "popular_attractions": [
+                "Port Moresby Nature Park",
+                "National Museum and Art Gallery",
+                "Ela Beach"
+            ]
+        },
+        {
+            "name": "🌳 Lae",
+            "geographical_location": "Situated on the Huon Gulf, near the mouth of the Markham River.",
+            "climate": "Tropical rainforest climate with high humidity and rainfall throughout the year.",
+            "famous_cuisine": "Sago, taro, and fresh seafood.",
+            "popular_attractions": [
+                "Rainforest Habitat",
+                "Lae War Cemetery",
+                "Botanical Gardens"
+            ]
+        },
+        {
+            "name": "🏝 Madang",
+            "geographical_location": "Located on the north coast of Papua New Guinea.",
+            "climate": "Tropical rainforest climate with consistent rainfall and warm temperatures.",
+            "famous_cuisine": "Coconut-based dishes and fresh tropical fruits.",
+            "popular_attractions": [
+                "Madang Resort",
+                "Balek Wildlife Sanctuary",
+                "Madang Lighthouse"
+            ]
+        }
+    ]
+}

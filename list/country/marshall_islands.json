@@ -1,0 +1,29 @@
+{
+    "country": "Marshall Islands",
+    "describe": "The Marshall Islands is a sprawling chain of volcanic islands and coral atolls in the central Pacific Ocean, between Hawaii and the Philippines. Known for its rich marine biodiversity, it offers pristine beaches, crystal-clear waters, and a unique cultural heritage.",
+    "image_link": "https://example.com/marshall_islands_image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Majuro",
+            "geographical_location": "Located on the eastern side of the Marshall Islands, Majuro is the capital and largest city.",
+            "climate": "Tropical rainforest climate with consistent temperatures and high humidity year-round.",
+            "famous_cuisine": "Barramundi cod, coconut crab, and breadfruit dishes.",
+            "popular_attractions": [
+                "Laura Beach",
+                "Alele Museum",
+                "Majuro Bridge"
+            ]
+        },
+        {
+            "name": "🏝 Ebeye",
+            "geographical_location": "Situated on the Kwajalein Atoll, Ebeye is one of the most densely populated islands in the Pacific.",
+            "climate": "Tropical climate with a wet season from May to November.",
+            "famous_cuisine": "Fresh seafood, pandanus fruit, and taro.",
+            "popular_attractions": [
+                "Ebeye Community Center",
+                "Kwajalein Atoll",
+                "Local markets"
+            ]
+        }
+    ]
+}

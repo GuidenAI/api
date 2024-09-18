@@ -1,0 +1,43 @@
+{
+    "country": "Oman",
+    "describe": "Oman, officially the Sultanate of Oman, is a country on the southeastern coast of the Arabian Peninsula in Western Asia. Known for its rich history, diverse landscapes ranging from deserts to lush green mountains, and a long coastline along the Arabian Sea, Oman offers a unique blend of traditional culture and modern development.",
+    "image_link": "https://example.com/oman-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Muscat",
+            "geographical_location": "Located on the northeastern coast of Oman, along the Gulf of Oman.",
+            "climate": "Muscat has a hot desert climate with very high temperatures in the summer and mild winters.",
+            "famous_cuisine": "Shuwa, Majboos, and Mashuai.",
+            "popular_attractions": [
+                "Sultan Qaboos Grand Mosque",
+                "Royal Opera House Muscat",
+                "Mutrah Souq",
+                "Al Jalali and Al Mirani forts"
+            ]
+        },
+        {
+            "name": "🏝 Salalah",
+            "geographical_location": "Situated in the southern part of Oman, in the Dhofar region.",
+            "climate": "Salalah experiences a tropical desert climate, with a unique monsoon season known as Khareef, bringing cooler temperatures and lush greenery.",
+            "famous_cuisine": "Mishkak, Harees, and Luban (frankincense) flavored dishes.",
+            "popular_attractions": [
+                "Al Mughsail Beach",
+                "Wadi Darbat",
+                "Sultan's Palace",
+                "Frankincense Land Museum"
+            ]
+        },
+        {
+            "name": "🏔 Nizwa",
+            "geographical_location": "Located in the Ad Dakhiliyah region, surrounded by the Hajar Mountains.",
+            "climate": "Nizwa has a hot desert climate, with cooler temperatures in the surrounding mountains.",
+            "famous_cuisine": "Halwa, Omani bread, and Qabuli rice.",
+            "popular_attractions": [
+                "Nizwa Fort",
+                "Nizwa Souq",
+                "Jebel Akhdar",
+                "Falaj Daris"
+            ]
+        }
+    ]
+}

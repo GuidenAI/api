@@ -1,0 +1,40 @@
+{
+    "country": "Bosnia and Herzegovina",
+    "describe": "Bosnia and Herzegovina is a country located in Southeastern Europe on the Balkan Peninsula. It is known for its rich cultural heritage, diverse landscapes, and historical significance. The country has a complex history and is home to a mix of ethnic groups, including Bosniaks, Serbs, and Croats.",
+    "image_link": "https://example.com/image-of-bosnia-and-herzegovina.jpg",
+    "cities": [
+        {
+            "name": "🏔 Sarajevo",
+            "geographical_location": "Located in the central part of the country, surrounded by the Dinaric Alps.",
+            "climate": "Sarajevo has a continental climate with cold winters and warm summers.",
+            "famous_cuisine": "Ćevapi, Burek, and Begova Čorba.",
+            "popular_attractions": [
+                "Baščaršija",
+                "Sarajevo Tunnel Museum",
+                "Gazi Husrev-beg Mosque"
+            ]
+        },
+        {
+            "name": "🌉 Mostar",
+            "geographical_location": "Situated in the southern part of Bosnia and Herzegovina, along the Neretva River.",
+            "climate": "Mostar has a Mediterranean climate with hot summers and mild, wet winters.",
+            "famous_cuisine": "Sogan-dolma, Japrak, and Pita.",
+            "popular_attractions": [
+                "Stari Most (Old Bridge)",
+                "Kravice Waterfalls",
+                "Blagaj Tekke"
+            ]
+        },
+        {
+            "name": "🏰 Banja Luka",
+            "geographical_location": "Located in the northwestern part of the country, on the Vrbas River.",
+            "climate": "Banja Luka experiences a moderate continental climate with warm summers and cold winters.",
+            "famous_cuisine": "Banja Luka-style Ćevapi, Grah, and Kvrguša.",
+            "popular_attractions": [
+                "Kastel Fortress",
+                "Ferhadija Mosque",
+                "Vrbas River Rafting"
+            ]
+        }
+    ]
+}

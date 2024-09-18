@@ -1,0 +1,40 @@
+{
+    "country": "Mauritania",
+    "describe": "Mauritania is a country in Northwest Africa, bordered by the Atlantic Ocean to the west, Western Sahara to the north, Algeria to the northeast, Mali to the east and southeast, and Senegal to the southwest. It is known for its vast deserts, rich cultural heritage, and diverse ethnic groups.",
+    "image_link": "https://example.com/mauritania-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Nouakchott",
+            "geographical_location": "Located on the Atlantic coast in the western part of Mauritania.",
+            "climate": "Nouakchott has a hot desert climate with mild winters and very hot summers.",
+            "famous_cuisine": "Thieboudienne (a fish and rice dish), Mechoui (roasted lamb).",
+            "popular_attractions": [
+                "Port de Pêche",
+                "Nouakchott Beach",
+                "National Museum of Mauritania"
+            ]
+        },
+        {
+            "name": "🏜 Chinguetti",
+            "geographical_location": "Situated in the Adrar Region in central Mauritania.",
+            "climate": "Chinguetti has a hot desert climate with extremely hot summers and mild winters.",
+            "famous_cuisine": "Couscous, Camel meat dishes.",
+            "popular_attractions": [
+                "Ancient Libraries of Chinguetti",
+                "Chinguetti Mosque",
+                "Sahara Desert"
+            ]
+        },
+        {
+            "name": "🏜 Atar",
+            "geographical_location": "Located in the Adrar Region, north-central Mauritania.",
+            "climate": "Atar has a hot desert climate with scorching summers and mild winters.",
+            "famous_cuisine": "Dates, Lamb stew.",
+            "popular_attractions": [
+                "Amogjar Pass",
+                "Richat Structure",
+                "Oasis of Terjit"
+            ]
+        }
+    ]
+}

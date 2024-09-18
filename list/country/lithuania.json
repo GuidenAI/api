@@ -1,0 +1,40 @@
+{
+    "country": "Lithuania",
+    "describe": "Lithuania is a country in the Baltic region of Europe, known for its rich history, vibrant culture, and beautiful landscapes. It is one of the three Baltic states and has a diverse heritage influenced by various cultures over the centuries.",
+    "image_link": "https://example.com/lithuania-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Vilnius",
+            "geographical_location": "Located in the southeastern part of Lithuania, Vilnius is the capital and largest city.",
+            "climate": "Vilnius has a humid continental climate with cold winters and warm summers.",
+            "famous_cuisine": "Cepelinai (potato dumplings), Šaltibarščiai (cold beet soup), and Kibinai (meat pastries).",
+            "popular_attractions": [
+                "Vilnius Old Town",
+                "Gediminas' Tower",
+                "Vilnius Cathedral"
+            ]
+        },
+        {
+            "name": "🏙 Kaunas",
+            "geographical_location": "Situated in the south-central part of Lithuania, Kaunas is the second-largest city.",
+            "climate": "Kaunas experiences a humid continental climate with distinct seasons.",
+            "famous_cuisine": "Žemaičių blynai (potato pancakes), and Skilandis (smoked sausage).",
+            "popular_attractions": [
+                "Kaunas Castle",
+                "Ninth Fort",
+                "Laisvės Alėja (Liberty Avenue)"
+            ]
+        },
+        {
+            "name": "🏝 Klaipėda",
+            "geographical_location": "Located on the western coast of Lithuania, Klaipėda is a port city by the Baltic Sea.",
+            "climate": "Klaipėda has an oceanic climate with mild, wet winters and cool summers.",
+            "famous_cuisine": "Fish dishes, especially smoked fish, and Juoda Duona (black bread).",
+            "popular_attractions": [
+                "Klaipėda Old Town",
+                "Curonian Spit",
+                "Lithuanian Sea Museum"
+            ]
+        }
+    ]
+}

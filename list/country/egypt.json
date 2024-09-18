@@ -1,0 +1,55 @@
+{
+    "country": "Egypt",
+    "describe": "Egypt, a transcontinental country spanning the northeast corner of Africa and southwest corner of Asia, is known for its rich history, ancient civilization, and iconic monuments such as the Pyramids of Giza and the Great Sphinx. The Nile River, which runs through the country, has been the lifeline of its civilization for millennia.",
+    "image_link": "https://example.com/egypt-image.jpg",
+    "cities": [
+        {
+            "name": "🏜 Cairo",
+            "geographical_location": "Located in the northern part of Egypt, near the Nile Delta.",
+            "climate": "Cairo has a hot desert climate with mild winters and very hot summers.",
+            "famous_cuisine": "Koshari, Ful Medames, and Ta'ameya.",
+            "popular_attractions": [
+                "The Egyptian Museum",
+                "The Pyramids of Giza",
+                "The Great Sphinx",
+                "Khan El Khalili Bazaar"
+            ]
+        },
+        {
+            "name": "🏝 Alexandria",
+            "geographical_location": "Situated on the Mediterranean coast in the north of Egypt.",
+            "climate": "Alexandria has a Mediterranean climate with mild, rainy winters and hot, dry summers.",
+            "famous_cuisine": "Seafood dishes, Fattah, and Alexandrian liver.",
+            "popular_attractions": [
+                "Bibliotheca Alexandrina",
+                "Qaitbay Citadel",
+                "Montaza Palace",
+                "Pompey's Pillar"
+            ]
+        },
+        {
+            "name": "🏜 Luxor",
+            "geographical_location": "Located in southern Egypt, on the east bank of the Nile River.",
+            "climate": "Luxor has a hot desert climate with extremely hot summers and warm winters.",
+            "famous_cuisine": "Kebabs, Kofta, and Mahshi.",
+            "popular_attractions": [
+                "Karnak Temple",
+                "Valley of the Kings",
+                "Luxor Temple",
+                "Hatshepsut's Mortuary Temple"
+            ]
+        },
+        {
+            "name": "🏝 Aswan",
+            "geographical_location": "Situated in the southern part of Egypt, along the Nile River.",
+            "climate": "Aswan has a hot desert climate with very hot summers and mild winters.",
+            "famous_cuisine": "Feseekh, Dukkah, and Aswan's famous hibiscus tea.",
+            "popular_attractions": [
+                "Philae Temple",
+                "Aswan High Dam",
+                "Nubian Museum",
+                "Elephantine Island"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "country": "Morocco",
+    "describe": "Morocco, located in North Africa, is known for its rich cultural heritage, diverse landscapes ranging from the Sahara Desert to the Atlas Mountains, and vibrant cities. It is a country where ancient traditions blend with modern influences.",
+    "image_link": "https://example.com/morocco.jpg",
+    "cities": [
+        {
+            "name": "🏔 Marrakech",
+            "geographical_location": "Located in the western part of Morocco, near the foothills of the Atlas Mountains.",
+            "climate": "Marrakech has a semi-arid climate with hot summers and mild winters.",
+            "famous_cuisine": "Tagine, couscous, and pastilla.",
+            "popular_attractions": [
+                "Jemaa el-Fnaa",
+                "Koutoubia Mosque",
+                "Majorelle Garden",
+                "Saadian Tombs"
+            ]
+        },
+        {
+            "name": "🏝 Casablanca",
+            "geographical_location": "Situated on the Atlantic coast in the central-western part of Morocco.",
+            "climate": "Casablanca has a Mediterranean climate with warm, dry summers and mild, wet winters.",
+            "famous_cuisine": "Harira soup, seafood dishes, and briouats.",
+            "popular_attractions": [
+                "Hassan II Mosque",
+                "Ain Diab Corniche",
+                "Old Medina",
+                "Royal Palace of Casablanca"
+            ]
+        },
+        {
+            "name": "🌆 Fes",
+            "geographical_location": "Located in the northeastern part of Morocco.",
+            "climate": "Fes experiences a Mediterranean climate with hot, dry summers and cool, wet winters.",
+            "famous_cuisine": "B'stilla, zaalouk, and khlii.",
+            "popular_attractions": [
+                "Fes el Bali (Old Medina)",
+                "Al Quaraouiyine University",
+                "Bou Inania Madrasa",
+                "Dar Batha Museum"
+            ]
+        },
+        {
+            "name": "🏔 Chefchaouen",
+            "geographical_location": "Nestled in the Rif Mountains in the northwest of Morocco.",
+            "climate": "Chefchaouen has a Mediterranean climate with mild, wet winters and warm, dry summers.",
+            "famous_cuisine": "Goat cheese, tajine, and bissara.",
+            "popular_attractions": [
+                "Blue-painted streets",
+                "Ras El Maa Waterfall",
+                "Kasbah Museum",
+                "Spanish Mosque"
+            ]
+        }
+    ]
+}

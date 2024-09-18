@@ -1,0 +1,40 @@
+{
+    "country": "Mauritius",
+    "describe": "Mauritius is an island nation in the Indian Ocean known for its stunning beaches, diverse culture, and vibrant marine life. It is a melting pot of cultures, with influences from Africa, India, Europe, and China, reflected in its rich traditions and cuisine.",
+    "image_link": "https://example.com/mauritius.jpg",
+    "cities": [
+        {
+            "name": "🏝 Port Louis",
+            "geographical_location": "Located on the northwest coast of the island.",
+            "climate": "Tropical climate with a warm and humid summer and a cooler, dry winter.",
+            "famous_cuisine": "Dholl Puri, a type of flatbread filled with ground split peas.",
+            "popular_attractions": [
+                "Caudan Waterfront",
+                "Central Market",
+                "Aapravasi Ghat"
+            ]
+        },
+        {
+            "name": "🏝 Grand Baie",
+            "geographical_location": "Situated in the northern part of Mauritius.",
+            "climate": "Tropical climate with warm temperatures year-round.",
+            "famous_cuisine": "Seafood curry, often featuring fresh fish and shellfish.",
+            "popular_attractions": [
+                "Grand Baie Beach",
+                "La Cuvette Beach",
+                "Grand Baie Bazaar"
+            ]
+        },
+        {
+            "name": "🏝 Curepipe",
+            "geographical_location": "Located in the central plateau of the island.",
+            "climate": "Mild and cooler climate due to its higher elevation.",
+            "famous_cuisine": "Boulettes, a type of dumpling served in broth.",
+            "popular_attractions": [
+                "Trou aux Cerfs",
+                "Botanical Garden",
+                "Curepipe Market"
+            ]
+        }
+    ]
+}

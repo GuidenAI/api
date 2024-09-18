@@ -1,0 +1,40 @@
+{
+    "country": "Cameroon",
+    "describe": "Cameroon is a Central African country known for its diverse culture, languages, and landscapes. It features a variety of geographical regions, from beaches to mountains, rainforests, and savannas. The country is often referred to as 'Africa in miniature' due to its geological and cultural diversity.",
+    "image_link": "https://example.com/cameroon-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Douala",
+            "geographical_location": "Located on the Wouri River, near the Gulf of Guinea coast.",
+            "climate": "Tropical monsoon climate with a long wet season.",
+            "famous_cuisine": "Ndolé, a dish made with bitter leaves, peanuts, and fish or beef.",
+            "popular_attractions": [
+                "Douala Maritime Museum",
+                "La Nouvelle Liberté",
+                "Doual'Art"
+            ]
+        },
+        {
+            "name": "🏔 Yaoundan",
+            "geographical_location": "Situated in the central part of the country on a hilly terrain.",
+            "climate": "Tropical wet and dry climate with a lengthy rainy season.",
+            "famous_cuisine": "Poulet DG, a chicken and plantain dish.",
+            "popular_attractions": [
+                "National Museum of Yaoundé",
+                "Mefou National Park",
+                "Basilique Marie-Reine-des-Apôtres"
+            ]
+        },
+        {
+            "name": "🏝 Limbe",
+            "geographical_location": "Located on the southwest coast, near Mount Cameroon.",
+            "climate": "Tropical rainforest climate with heavy rainfall.",
+            "famous_cuisine": "Jollof rice, often served with grilled fish.",
+            "popular_attractions": [
+                "Limbe Botanic Garden",
+                "Limbe Wildlife Centre",
+                "Down Beach"
+            ]
+        }
+    ]
+}

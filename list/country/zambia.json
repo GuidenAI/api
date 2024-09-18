@@ -1,0 +1,40 @@
+{
+    "country": "Zambia",
+    "describe": "Zambia is a landlocked country in Southern Africa, known for its rugged terrain and diverse wildlife, with many parks and safari areas. On its border with Zimbabwe is famed Victoria Falls, indigenously called Mosi-oa-Tunya or 'The Smoke That Thunders', plunging a misty 108m into narrow Batoka Gorge. The capital, Lusaka, is a rapidly growing city with modern amenities and a vibrant culture.",
+    "image_link": "https://example.com/zambia-image.jpg",
+    "cities": [
+        {
+            "name": "🏙 Lusaka",
+            "geographical_location": "Located in the south-central part of Zambia, Lusaka is the capital and largest city.",
+            "climate": "Lusaka has a humid subtropical climate with hot summers and mild winters.",
+            "famous_cuisine": "Nshima, a staple food made from maize flour, often served with relish.",
+            "popular_attractions": [
+                "Lusaka National Museum",
+                "Munda Wanga Environmental Park",
+                "Kabwata Cultural Village"
+            ]
+        },
+        {
+            "name": "🌳 Livingstone",
+            "geographical_location": "Situated near the Zambezi River, close to the border with Zimbabwe.",
+            "climate": "Livingstone has a tropical savanna climate with distinct wet and dry seasons.",
+            "famous_cuisine": "Chikanda, also known as African polony, made from wild orchids.",
+            "popular_attractions": [
+                "Victoria Falls",
+                "Mosi-oa-Tunya National Park",
+                "Livingstone Museum"
+            ]
+        },
+        {
+            "name": "🌆 Ndola",
+            "geographical_location": "Located in the Copperbelt Province, Ndola is one of Zambia's commercial hubs.",
+            "climate": "Ndola experiences a humid subtropical climate with a distinct rainy season.",
+            "famous_cuisine": "Ifisashi, a dish made with peanuts and vegetables.",
+            "popular_attractions": [
+                "Dag Hammarskjöld Memorial",
+                "Copperbelt Museum",
+                "Lake Chilengwa"
+            ]
+        }
+    ]
+}

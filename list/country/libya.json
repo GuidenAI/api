@@ -1,0 +1,40 @@
+{
+    "country": "Libya",
+    "describe": "Libya is a country located in North Africa, bordered by the Mediterranean Sea to the north, Egypt to the east, Sudan to the southeast, Chad and Niger to the south, and Algeria and Tunisia to the west. It is known for its rich history, diverse culture, and vast desert landscapes.",
+    "image_link": "https://example.com/libya-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Tripoli",
+            "geographical_location": "Located in the northwest of Libya along the Mediterranean coast.",
+            "climate": "Tripoli has a hot semi-arid climate with mild, wet winters and hot, dry summers.",
+            "famous_cuisine": "Bazeen, couscous, and shakshouka.",
+            "popular_attractions": [
+                "Red Castle Museum",
+                "Martyrs' Square",
+                "Tripoli Medina"
+            ]
+        },
+        {
+            "name": "🏝 Benghazi",
+            "geographical_location": "Situated in the northeast of Libya along the Mediterranean coast.",
+            "climate": "Benghazi experiences a Mediterranean climate with mild, wet winters and hot, dry summers.",
+            "famous_cuisine": "Asida, couscous, and seafood dishes.",
+            "popular_attractions": [
+                "Benghazi Cathedral",
+                "Jebel Akhdar",
+                "Cyrene archaeological site"
+            ]
+        },
+        {
+            "name": "🏜 Ghadames",
+            "geographical_location": "Located in the northwest of Libya, near the borders with Algeria and Tunisia.",
+            "climate": "Ghadames has a hot desert climate with extremely hot summers and mild winters.",
+            "famous_cuisine": "Date-based dishes and traditional Libyan bread.",
+            "popular_attractions": [
+                "Old Town of Ghadames",
+                "Ghadames Museum",
+                "Desert excursions"
+            ]
+        }
+    ]
+}

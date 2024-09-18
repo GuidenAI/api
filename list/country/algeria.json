@@ -1,27 +1,40 @@
 {
-    "name": "Algeria",
-    "image": "https://images.unsplash.com/photo-1542482378-5c15de73943b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "Algeria",
+    "describe": "Algeria, located in North Africa, is the largest country on the continent. It is known for its diverse landscapes, which include the Sahara Desert, the Atlas Mountains, and a Mediterranean coastline. The country has a rich history influenced by various cultures, including Berber, Arab, Ottoman, and French.",
+    "image_link": "https://example.com/algeria-image.jpg",
     "cities": [
-      { "name": "Algiers" },
-      { "name": "Oran" },
-      { "name": "Constantine" },
-      { "name": "Annaba" },
-      { "name": "Tlemcen" },
-      { "name": "Ghardaia" },
-      { "name": "Béjaïa" },
-      { "name": "Tamanrasset" },
-      { "name": "Setif" },
-      { "name": "Blida" },
-      { "name": "Batna" },
-      { "name": "Tipaza" },
-      { "name": "Djelfa" },
-      { "name": "Touggourt" },
-      { "name": "Biskra" },
-      { "name": "Skikda" },
-      { "name": "Bou Saada" },
-      { "name": "Medea" },
-      { "name": "Laghouat" },
-      { "name": "Ouargla" }
+        {
+            "name": "🏝 Algiers",
+            "geographical_location": "Located on the Mediterranean coast in the north-central part of Algeria.",
+            "climate": "Mediterranean climate with mild, wet winters and hot, dry summers.",
+            "famous_cuisine": "Couscous, Chorba, and Mechoui.",
+            "popular_attractions": [
+                "Casbah of Algiers",
+                "Notre Dame d'Afrique",
+                "Martyrs' Memorial"
+            ]
+        },
+        {
+            "name": "🏰 Oran",
+            "geographical_location": "Situated in the northwest of Algeria along the Mediterranean Sea.",
+            "climate": "Semi-arid climate with mild, wet winters and hot, dry summers.",
+            "famous_cuisine": "Rechta, Mhadjeb, and Bourek.",
+            "popular_attractions": [
+                "Fort Santa Cruz",
+                "Place du 1er Novembre",
+                "Ahmed Zabana National Museum"
+            ]
+        },
+        {
+            "name": "🌉 Constantine",
+            "geographical_location": "Located in the northeast of Algeria, known for its dramatic cliffs and bridges.",
+            "climate": "Mediterranean climate with hot, dry summers and mild, wet winters.",
+            "famous_cuisine": "Chakhchoukha, Merguez, and Baghrir.",
+            "popular_attractions": [
+                "Emir Abdelkader Mosque",
+                "Monument aux Morts",
+                "Palace of Ahmed Bey"
+            ]
+        }
     ]
-  }
-  
+}

@@ -1,28 +1,55 @@
 {
-    "name": "Argentina",
-    "image": "https://images.unsplash.com/photo-1508780709619-79562169bc64?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "country": "Argentina",
+    "describe": "Argentina is a large South American country known for its diverse landscapes, rich cultural heritage, and vibrant cities. From the bustling streets of Buenos Aires to the breathtaking Andes mountains and the vast Pampas grasslands, Argentina offers a wide range of experiences for travelers.",
+    "image_link": "https://example.com/argentina-image.jpg",
     "cities": [
-      { "name": "Buenos Aires" },
-      { "name": "Córdoba" },
-      { "name": "Mendoza" },
-      { "name": "Rosario" },
-      { "name": "Bariloche" },
-      { "name": "Salta" },
-      { "name": "Ushuaia" },
-      { "name": "Mar del Plata" },
-      { "name": "Tucumán" },
-      { "name": "La Plata" },
-      { "name": "Santa Fe" },
-      { "name": "Neuquén" },
-      { "name": "San Juan" },
-      { "name": "San Luis" },
-      { "name": "Puerto Madryn" },
-      { "name": "Paraná" },
-      { "name": "Resistencia" },
-      { "name": "Posadas" },
-      { "name": "Formosa" },
-      { "name": "San Salvador de Jujuy" },
-      { "name": "San Carlos de Bariloche" }
+        {
+            "name": "🏝 Buenos Aires",
+            "geographical_location": "Located on the southeastern coast of South America, along the Río de la Plata.",
+            "climate": "Buenos Aires has a humid subtropical climate with hot, humid summers and mild winters.",
+            "famous_cuisine": "Asado (Argentinian barbecue), Empanadas, and Dulce de Leche.",
+            "popular_attractions": [
+                "Teatro Colón",
+                "La Boca neighborhood",
+                "Recoleta Cemetery",
+                "Plaza de Mayo"
+            ]
+        },
+        {
+            "name": "🏔 Mendoza",
+            "geographical_location": "Situated in the eastern foothills of the Andes, in the Cuyo region.",
+            "climate": "Mendoza has a semi-arid climate with hot summers and cool winters.",
+            "famous_cuisine": "Malbec wine, Parrillada, and Locro.",
+            "popular_attractions": [
+                "Aconcagua Mountain",
+                "Mendoza Wine Tours",
+                "Parque General San Martín",
+                "Plaza Independencia"
+            ]
+        },
+        {
+            "name": "🏔 Bariloche",
+            "geographical_location": "Located in the foothills of the Andes, in the Patagonia region.",
+            "climate": "Bariloche has a cool oceanic climate with cold, snowy winters and mild summers.",
+            "famous_cuisine": "Chocolate, Trout dishes, and Patagonian lamb.",
+            "popular_attractions": [
+                "Nahuel Huapi National Park",
+                "Cerro Catedral",
+                "Circuito Chico",
+                "Llao Llao Hotel"
+            ]
+        },
+        {
+            "name": "🏝 Ushuaia",
+            "geographical_location": "Located on the southern coast of Isla Grande de Tierra del Fuego, near the southernmost tip of South America.",
+            "climate": "Ushuaia has a subpolar oceanic climate with cool summers and cold, snowy winters.",
+            "famous_cuisine": "King Crab, Patagonian toothfish, and Lamb stew.",
+            "popular_attractions": [
+                "Tierra del Fuego National Park",
+                "Beagle Channel",
+                "End of the World Museum",
+                "Martial Glacier"
+            ]
+        }
     ]
-  }
-  
+}

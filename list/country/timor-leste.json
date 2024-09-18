@@ -1,0 +1,29 @@
+{
+    "country": "Timor-Leste",
+    "describe": "Timor-Leste, also known as East Timor, is a Southeast Asian nation occupying half the island of Timor. It is known for its rich cultural heritage, beautiful landscapes, and a history of resilience. The country gained independence in 2002 and has since been developing its economy and infrastructure. Timor-Leste is characterized by its mountainous terrain, tropical climate, and diverse ecosystems.",
+    "image_link": "https://example.com/image-of-timor-leste.jpg",
+    "cities": [
+        {
+            "name": "🏝 Dili",
+            "geographical_location": "Located on the northern coast of Timor island, Dili is the capital and largest city of Timor-Leste.",
+            "climate": "Dili has a tropical savanna climate with a distinct wet and dry season.",
+            "famous_cuisine": "Ikan Pepes, Batar Da'an, and Tapai",
+            "popular_attractions": [
+                "Cristo Rei of Dili",
+                "Tais Market",
+                "Resistance Museum"
+            ]
+        },
+        {
+            "name": "🏝 Baucau",
+            "geographical_location": "Situated on the northern coast, east of Dili, Baucau is the second-largest city in Timor-Leste.",
+            "climate": "Baucau experiences a tropical climate with a wet and dry season, similar to Dili.",
+            "famous_cuisine": "Batar Da'an and Feijoada",
+            "popular_attractions": [
+                "Venilale Caves",
+                "Baucau Beach",
+                "Old Town Baucau"
+            ]
+        }
+    ]
+}

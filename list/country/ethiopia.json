@@ -1,0 +1,40 @@
+{
+    "country": "Ethiopia",
+    "describe": "Ethiopia, located in the Horn of Africa, is a country rich in history and culture. It is known for its archaeological finds, including the famous early hominid Lucy, and its diverse landscapes ranging from vast highlands to arid deserts. Ethiopia is unique for its ancient Christian heritage and is home to the rock-hewn churches of Lalibela, a UNESCO World Heritage site.",
+    "image_link": "https://example.com/ethiopia.jpg",
+    "cities": [
+        {
+            "name": "🏔 Addis Ababa",
+            "geographical_location": "Located in the central part of the country, at the foot of the Entoto Mountains.",
+            "climate": "Addis Ababa has a subtropical highland climate with mild temperatures year-round.",
+            "famous_cuisine": "Injera with Doro Wat, Tibs, and Kitfo.",
+            "popular_attractions": [
+                "National Museum of Ethiopia",
+                "Holy Trinity Cathedral",
+                "Merkato Market"
+            ]
+        },
+        {
+            "name": "🕌 Lalibela",
+            "geographical_location": "Situated in the northern part of Ethiopia, in the Amhara region.",
+            "climate": "Lalibela has a mild climate with a distinct wet and dry season.",
+            "famous_cuisine": "Injera with Shiro, and Beyaynetu.",
+            "popular_attractions": [
+                "Rock-Hewn Churches",
+                "Asheton Maryam Monastery",
+                "Yemrehana Krestos Church"
+            ]
+        },
+        {
+            "name": "🕌 Gondar",
+            "geographical_location": "Located in the northwestern part of Ethiopia, in the Amhara region.",
+            "climate": "Gondar experiences a subtropical highland climate with a rainy season from June to September.",
+            "famous_cuisine": "Fossolia, and Dulet.",
+            "popular_attractions": [
+                "Fasil Ghebbi",
+                "Debre Berhan Selassie Church",
+                "Kuskuam Complex"
+            ]
+        }
+    ]
+}

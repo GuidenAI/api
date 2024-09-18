@@ -1,0 +1,18 @@
+{
+    "country": "Nauru",
+    "describe": "Nauru is a small island country in Micronesia, located in the Central Pacific. Known for its phosphate mining, Nauru is the third smallest country by area in the world. The island is surrounded by coral reefs and has a tropical climate, making it a unique and picturesque destination.",
+    "image_link": "https://example.com/nauru-image.jpg",
+    "cities": [
+        {
+            "name": "🏝 Yaren",
+            "geographical_location": "Southern coast of Nauru",
+            "climate": "Tropical climate with a wet season from November to February",
+            "famous_cuisine": "Coconut fish, Nauruan coconut cake",
+            "popular_attractions": [
+                "Command Ridge",
+                "Anibare Bay",
+                "Moqua Well"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "country": "Romania",
+    "describe": "Romania is a country located at the crossroads of Central, Eastern, and Southeastern Europe. It is known for its rich history, stunning landscapes, and vibrant culture. The Carpathian Mountains and the Black Sea coastline are among its natural highlights.",
+    "image_link": "https://example.com/image_of_romania.jpg",
+    "cities": [
+        {
+            "name": "🏙 Bucharest",
+            "geographical_location": "Located in the southeast of Romania, Bucharest is the capital and largest city.",
+            "climate": "Bucharest has a humid continental climate, with hot summers and cold, snowy winters.",
+            "famous_cuisine": "Sarmale (cabbage rolls), Mici (grilled sausages), and Ciorbă de burtă (tripe soup).",
+            "popular_attractions": [
+                "Palace of the Parliament",
+                "Old Town",
+                "Romanian Athenaeum"
+            ]
+        },
+        {
+            "name": "🏙 Cluj-Napoca",
+            "geographical_location": "Situated in the northwestern part of Romania, Cluj-Napoca is the unofficial capital of the historical region of Transylvania.",
+            "climate": "Cluj-Napoca experiences a continental climate, with warm summers and cold winters.",
+            "famous_cuisine": "Varză a la Cluj (Cluj-style cabbage), Papanași (fried or boiled pastry with sour cream and jam).",
+            "popular_attractions": [
+                "St. Michael's Church",
+                "Central Park",
+                "Botanical Garden"
+            ]
+        },
+        {
+            "name": "🏝 Constanța",
+            "geographical_location": "Located on the Black Sea coast, Constanța is Romania's largest port city.",
+            "climate": "Constanța has a humid subtropical climate, with mild winters and warm, humid summers.",
+            "famous_cuisine": "Fish dishes, such as Plachie de crap (carp stew) and Midii (mussels).",
+            "popular_attractions": [
+                "Constanța Casino",
+                "Mamaia Beach",
+                "Roman Mosaic Edifice"
+            ]
+        },
+        {
+            "name": "🏔 Brașov",
+            "geographical_location": "Nestled in the central part of Romania, surrounded by the Carpathian Mountains.",
+            "climate": "Brașov has a temperate-continental climate, with cold winters and mild summers.",
+            "famous_cuisine": "Bulz (polenta with cheese and sour cream), Tochitură (pork stew).",
+            "popular_attractions": [
+                "Bran Castle",
+                "Black Church",
+                "Tampa Mountain"
+            ]
+        }
+    ]
+}
