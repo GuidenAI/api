@@ -1,10 +1,10 @@
 [
-    { "name": "English", "code": "en", "icons": "🇬🇧" },
+    { "name": "English", "code": "en", "icons": "🇺🇸" },
     { "name": "Español", "code": "es", "icons": "🇪🇸" },
     { "name": "Tiếng Việt", "code": "vi", "icons": "🇻🇳" },
     { "name": "Русский", "code": "ru", "icons": "🇷🇺" },
     { "name": "中文", "code": "zh", "icons": "🇨🇳" },
-    { "name": "粵語", "code": "tw", "icons": "🇭🇰" },
+    { "name": "粵語", "code": "tw", "icons": "🇨🇳" },
     { "name": "한국어", "code": "kr", "icons": "🇰🇷" },
     { "name": "ไทย", "code": "th", "icons": "🇹🇭" },
     { "name": "Français", "code": "fr", "icons": "🇫🇷" },
