@@ -4,7 +4,7 @@
     "image_link": "https://example.com/vietnam.jpg",
     "cities": [
         {
-            "name": "🏙 Hanoi ð",
+            "name": "🏙 Hanoi",
             "geographical_location": "Located in the northern part of Vietnam, Hanoi is the capital city.",
             "climate": "Hanoi has a humid subtropical climate with hot, humid summers and mild winters.",
             "famous_cuisine": "Pho, Bun Cha, Banh Mi",
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "name": "🏙 Ho Chi Minh City ð",
+            "name": "🏙 Ho Chi Minh City",
             "geographical_location": "Situated in the southern part of Vietnam, it is the largest city in the country.",
             "climate": "Ho Chi Minh City has a tropical climate with a wet and dry season.",
             "famous_cuisine": "Banh Xeo, Com Tam, Goi Cuon",
@@ -26,7 +26,7 @@
             ]
         },
         {
-            "name": "🏝 Da Nang ð",
+            "name": "🏝 Da Nang",
             "geographical_location": "Located on the central coast of Vietnam, Da Nang is known for its sandy beaches.",
             "climate": "Da Nang has a tropical monsoon climate with a dry season and a rainy season.",
             "famous_cuisine": "Mi Quang, Bun Thit Nuong, Banh Xeo",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "name": "🏝 Hoi An ð",
+            "name": "🏝 Hoi An",
             "geographical_location": "A coastal city in central Vietnam, known for its well-preserved Ancient Town.",
             "climate": "Hoi An has a tropical climate with a distinct rainy season.",
             "famous_cuisine": "Cao Lau, White Rose Dumplings, Banh Bao Vac",
