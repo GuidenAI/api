@@ -184,7 +184,7 @@
     { "name": "Ukraine", "code": "UA", "icons": "🇺🇦" },
     { "name": "United Arab Emirates", "code": "AE", "icons": "🇦🇪" },
     { "name": "United Kingdom", "code": "GB", "icons": "🇬🇧" },
-    { "name": "United States of America", "code": "US", "icons": "🇺🇸" },
+    { "name": "United States", "code": "US", "icons": "🇺🇸" },
     { "name": "Uruguay", "code": "UY", "icons": "🇺🇾" },
     { "name": "Uzbekistan", "code": "UZ", "icons": "🇺🇿" },
     { "name": "Vanuatu", "code": "VU", "icons": "🇻🇺" },
