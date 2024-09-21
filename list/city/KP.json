@@ -1,0 +1,20 @@
+{
+  "iso2": "KP",
+  "iso3": "PRK",
+  "country": "North Korea",
+  "cities": [
+    "Chagang",
+    "North Hamgyong",
+    "South Hamgyong",
+    "North Hwanghae",
+    "South Hwanghae",
+    "Kangwon",
+    "North P'yongan",
+    "South P'yongan",
+    "Yanggang",
+    "Kaesong",
+    "Najin",
+    "Namp'o",
+    "Pyongyang"
+  ]
+}

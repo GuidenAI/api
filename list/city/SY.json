@@ -1,0 +1,21 @@
+{
+  "iso2": "SY",
+  "iso3": "SYR",
+  "country": "Syria",
+  "cities": [
+    "Al Hasakah",
+    "Al Ladhiqiyah",
+    "Al Qunaytirah",
+    "Ar Raqqah",
+    "As Suwayda'",
+    "Dar'a",
+    "Dayr az Zawr",
+    "Dimashq",
+    "Halab",
+    "Hamah",
+    "Hims",
+    "Idlib",
+    "Rif Dimashq",
+    "Tartus"
+  ]
+}

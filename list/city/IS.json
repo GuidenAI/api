@@ -1,0 +1,25 @@
+{
+  "iso2": "IS",
+  "iso3": "ISL",
+  "country": "Iceland",
+  "cities": [
+    "Akranes",
+    "Akureyri",
+    "Borgarnes",
+    "Dalvik",
+    "Grindavik",
+    "Hella",
+    "Holmavik",
+    "Husavik",
+    "Hvammstangi",
+    "Hveragerdi",
+    "Hvolsvollur",
+    "Kopavogur",
+    "Reykjavik",
+    "Selfoss",
+    "Skagastrond",
+    "Stokkseyri",
+    "Vestmannaeyjar",
+    "Vogar"
+  ]
+}
