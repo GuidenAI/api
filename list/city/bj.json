@@ -1,0 +1,19 @@
+{
+  "iso2": "BJ",
+  "iso3": "BEN",
+  "country": "Benin",
+  "cities": [
+    "Alibori",
+    "Atakora",
+    "Atlantique",
+    "Borgou",
+    "Collines",
+    "Donga",
+    "Kouffo",
+    "Littoral",
+    "Mono",
+    "Oueme",
+    "Plateau",
+    "Zou"
+  ]
+}
