@@ -15,7 +15,7 @@
     "name": "Algeria",
     "code": "DZ",
     "url": "https://data.guidenai.com/list/country/algeria.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_algeria.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_algeria.jprg"
   },
   {
     "name": "Andorra",
@@ -231,7 +231,7 @@
     "name": "Costa Rica",
     "code": "CR",
     "url": "https://data.guidenai.com/list/country/costa_rica.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_costa_rica.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_costa_rica.jpeg"
   },
   {
     "name": "Croatia",
@@ -285,13 +285,13 @@
     "name": "Dominican Republic",
     "code": "DO",
     "url": "https://data.guidenai.com/list/country/dominican_republic.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_dominican_republic.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_dominican_republic.jpeg"
   },
   {
     "name": "Ecuador",
     "code": "EC",
     "url": "https://data.guidenai.com/list/country/ecuador.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_ecuador.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_ecuador.jpeg"
   },
   {
     "name": "Egypt",
@@ -351,7 +351,7 @@
     "name": "France",
     "code": "FR",
     "url": "https://data.guidenai.com/list/country/france.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_france.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_france.jpeg"
   },
   {
     "name": "Gabon",
@@ -363,7 +363,7 @@
     "name": "Gambia",
     "code": "GM",
     "url": "https://data.guidenai.com/list/country/gambia.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_gambia.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_gambia.jpeg"
   },
   {
     "name": "Georgia",
@@ -441,7 +441,7 @@
     "name": "Iceland",
     "code": "IS",
     "url": "https://data.guidenai.com/list/country/iceland.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_iceland.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_iceland.jpeg"
   },
   {
     "name": "India",
@@ -897,7 +897,7 @@
     "name": "Senegal",
     "code": "SN",
     "url": "https://data.guidenai.com/list/country/senegal.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_senegal.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_senegal.jpeg"
   },
   {
     "name": "Serbia",
@@ -1143,7 +1143,7 @@
     "name": "Vietnam",
     "code": "VN",
     "url": "https://data.guidenai.com/list/country/vietnam.json",
-    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_vietnam.jpg"
+    "image": "https://data.guidenai.com/assets/country/assets/country/img_background_vietnam.jfif"
   },
   {
     "name": "Yemen",
