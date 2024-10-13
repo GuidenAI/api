@@ -1,11 +1,52 @@
 [
-    { "name": "Entertaiment", "code": "style_entertaiment", "icons": "️🎉" },
-    { "name": "Adventures", "code": "style_adventures", "icons": "🏞" },
-    { "name": "Business", "code": "style_business", "icons": "💼" },
-    { "name": "Camping", "code": "style_camping", "icons": "🏕" },
-    { "name": "Luxury", "code": "style_luxury", "icons": "💎" },
-    { "name": "Monument", "code": "style_monument", "icons": "🗽" },
-    { "name": "Natural_Landscape", "code": "style_landscape", "icons": "🌄" },
-    { "name": "Relaxing", "code": "style_relax", "icons": "😌" },
-    { "name": "Treatment", "code": "style_treatment", "icons": "💆" }
-]
+    {
+      "name": "lbl_onboarding_emoji_adventure",
+      "code": "style_adventure",
+      "icons": "🏞️"
+    },
+    {
+      "name": "lbl_onboarding_emoji_relax",
+      "code": "style_relax",
+      "icons": "🏖️"
+    },
+    {
+      "name": "lbl_onboarding_emoji_culture",
+      "code": "style_culture",
+      "icons": "🏛️"
+    },
+    {
+      "name": "lbl_onboarding_emoji_party",
+      "code": "style_party",
+      "icons": "🎉"
+    },
+    {
+      "name": "lbl_onboarding_emoji_eco",
+      "code": "style_eco",
+      "icons": "🌿"
+    },
+    {
+      "name": "lbl_onboarding_emoji_luxury",
+      "code": "style_luxury",
+      "icons": "💎"
+    },
+    {
+      "name": "lbl_onboarding_emoji_backpacking",
+      "code": "style_backpacking",
+      "icons": "🎒"
+    },
+    {
+      "name": "lbl_onboarding_emoji_romantic",
+      "code": "style_romantic",
+      "icons": "💑"
+    },
+    {
+      "name": "lbl_onboarding_emoji_foodie",
+      "code": "style_foodie",
+      "icons": "🍽️"
+    },
+    {
+      "name": "lbl_onboarding_emoji_wellness",
+      "code": "style_wellness",
+      "icons": "🧘"
+    }
+  ]

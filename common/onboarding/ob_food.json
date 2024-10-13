@@ -1,71 +1,77 @@
 [
-    { "name": "Pizza", "code": "food_pizza", "icons": "🍕" },
-    { "name": "Sushi", "code": "food_sushi", "icons": "🍣" },
-    { "name": "Tacos", "code": "food_tacos", "icons": "🌮" },
-    { "name": "Pasta", "code": "food_pasta", "icons": "🍝" },
-    { "name": "Burger", "code": "food_burger", "icons": "🍔" },
-    { "name": "Salad", "code": "food_salad", "icons": "🥗" },
-    { "name": "Steak", "code": "food_steak", "icons": "🥩" },
-    { "name": "Ice Cream", "code": "food_ice_cream", "icons": "🍨" },
-    { "name": "Paella", "code": "food_paella", "icons": "🥘" },
-    { "name": "Dumplings", "code": "food_dumplings", "icons": "🥟" },
-    { "name": "Falafel", "code": "food_falafel", "icons": "🧆" },
-    { "name": "Ramen", "code": "food_ramen", "icons": "🍜" },
-    { "name": "Curry", "code": "food_curry", "icons": "🍛" },
-    { "name": "Hot Dog", "code": "food_hot_dog", "icons": "🌭" },
-    { "name": "Burrito", "code": "food_burrito", "icons": "🌯" },
-    { "name": "Pho", "code": "food_pho", "icons": "🍲" },
-    { "name": "Croissant", "code": "food_croissant", "icons": "🥐" },
-    { "name": "Cheese", "code": "food_cheese", "icons": "🧀" },
-    { "name": "Sandwich", "code": "food_sandwich", "icons": "🥪" },
-    { "name": "Fries", "code": "food_fries", "icons": "🍟" },
-    { "name": "Noodles", "code": "food_noodles", "icons": "🍜" },
-    { "name": "Pancakes", "code": "food_pancakes", "icons": "🥞" },
-    { "name": "Waffles", "code": "food_waffles", "icons": "🧇" },
-    { "name": "Bread", "code": "food_bread", "icons": "🍞" },
-    { "name": "Cake", "code": "food_cake", "icons": "🍰" },
-    { "name": "Pie", "code": "food_pie", "icons": "🥧" },
-    { "name": "Donut", "code": "food_donut", "icons": "🍩" },
-    { "name": "Chocolate", "code": "food_chocolate", "icons": "🍫" },
-    { "name": "Popcorn", "code": "food_popcorn", "icons": "🍿" },
-    { "name": "Oysters", "code": "food_oysters", "icons": "🦪" },
-    { "name": "Shrimp", "code": "food_shrimp", "icons": "🍤" },
-    { "name": "Lobster", "code": "food_lobster", "icons": "🦞" },
-    { "name": "Crab", "code": "food_crab", "icons": "🦀" },
-    { "name": "Salmon", "code": "food_salmon", "icons": "🍣" },
-    { "name": "Avocado", "code": "food_avocado", "icons": "🥑" },
-    { "name": "Chicken", "code": "food_chicken", "icons": "🍗" },
-    { "name": "Turkey", "code": "food_turkey", "icons": "🦃" },
-    { "name": "Bacon", "code": "food_bacon", "icons": "🥓" },
-    { "name": "Meatballs", "code": "food_meatballs", "icons": "🍝" },
-    { "name": "Sausage", "code": "food_sausage", "icons": "🌭" },
-    { "name": "Egg", "code": "food_egg", "icons": "🍳" },
-    { "name": "Muffin", "code": "food_muffin", "icons": "🧁" },
-    { "name": "Tiramisu", "code": "food_tiramisu", "icons": "🍰" },
-    { "name": "Lasagna", "code": "food_lasagna", "icons": "🍝" },
-    { "name": "Risotto", "code": "food_risotto", "icons": "🍲" },
-    { "name": "Gnocchi", "code": "food_gnocchi", "icons": "🍝" },
-    { "name": "Fajitas", "code": "food_fajitas", "icons": "🌯" },
-    { "name": "Churros", "code": "food_churros", "icons": "🍩" },
-    { "name": "Bruschetta", "code": "food_bruschetta", "icons": "🍞" },
-    { "name": "Poutine", "code": "food_poutine", "icons": "🍟" },
-    { "name": "Macaron", "code": "food_macaron", "icons": "🍬" },
-    { "name": "Gumbo", "code": "food_gumbo", "icons": "🍲" },
-    { "name": "Jambalaya", "code": "food_jambalaya", "icons": "🥘" },
-    { "name": "Empanadas", "code": "food_empanadas", "icons": "🥟" },
-    { "name": "Tostadas", "code": "food_tostadas", "icons": "🌮" },
-    { "name": "Pavlova", "code": "food_pavlova", "icons": "🍰" },
-    { "name": "Baklava", "code": "food_baklava", "icons": "🍮" },
-    { "name": "Biryani", "code": "food_biryani", "icons": "🍛" },
-    { "name": "Shawarma", "code": "food_shawarma", "icons": "🥙" },
-    { "name": "Tagine", "code": "food_tagine", "icons": "🍲" },
-    { "name": "Borscht", "code": "food_borscht", "icons": "🥣" },
-    { "name": "Ceviche", "code": "food_ceviche", "icons": "🍲" },
-    { "name": "Dim Sum", "code": "food_dim_sum", "icons": "🥟" },
-    { "name": "Kimchi", "code": "food_kimchi", "icons": "🥬" },
-    { "name": "Moussaka", "code": "food_moussaka", "icons": "🥘" },
-    { "name": "Pad Thai", "code": "food_pad_thai", "icons": "🍜" },
-    { "name": "Satay", "code": "food_satay", "icons": "🍢" },
-    { "name": "Tapas", "code": "food_tapas", "icons": "🍢" }
-  ]
-  
+  {
+    "name": "lbl_onboarding_emoji_pizza",
+    "code": "food_pizza",
+    "icons": "🍕"
+  },
+  {
+    "name": "lbl_onboarding_emoji_sushi",
+    "code": "food_sushi",
+    "icons": "🍣"
+  },
+  {
+    "name": "lbl_onboarding_emoji_taco",
+    "code": "food_taco",
+    "icons": "🌮"
+  },
+  {
+    "name": "lbl_onboarding_emoji_curry",
+    "code": "food_curry",
+    "icons": "🍛"
+  },
+  {
+    "name": "lbl_onboarding_emoji_burger",
+    "code": "food_burger",
+    "icons": "🍔"
+  },
+  {
+    "name": "lbl_onboarding_emoji_pasta",
+    "code": "food_pasta",
+    "icons": "🍝"
+  },
+  {
+    "name": "lbl_onboarding_emoji_steak",
+    "code": "food_steak",
+    "icons": "🥩"
+  },
+  {
+    "name": "lbl_onboarding_emoji_ramen",
+    "code": "food_ramen",
+    "icons": "🍜"
+  },
+  {
+    "name": "lbl_onboarding_emoji_paella",
+    "code": "food_paella",
+    "icons": "🥘"
+  },
+  {
+    "name": "lbl_onboarding_emoji_sausage",
+    "code": "food_sausage",
+    "icons": "🌭"
+  },
+  {
+    "name": "lbl_onboarding_emoji_croissant",
+    "code": "food_croissant",
+    "icons": "🥐"
+  },
+  {
+    "name": "lbl_onboarding_emoji_dumplings",
+    "code": "food_dumplings",
+    "icons": "🥟"
+  },
+  {
+    "name": "lbl_onboarding_emoji_kebab",
+    "code": "food_kebab",
+    "icons": "🥙"
+  },
+  {
+    "name": "lbl_onboarding_emoji_pho",
+    "code": "food_pho",
+    "icons": "🍲"
+  },
+  {
+    "name": "lbl_onboarding_emoji_sushi_roll",
+    "code": "food_sushi_roll",
+    "icons": "🍱"
+  }
+]

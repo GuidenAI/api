@@ -1,7 +1,22 @@
 [
-    { "name": "Spring", "code": "time_spring", "icons": "🍃" },
-    { "name": "Summer", "code": "time_summer", "icons": "🏊" },
-    { "name": "Autumn", "code": "time_autumn", "icons": "🍂" },
-    { "name": "Winter", "code": "time_winter", "icons": "☃️" },
-    { "name": "All time", "code": "time_all", "icons": "🗓" }
-]
+    {
+      "name": "lbl_onboarding_emoji_spring",
+      "code": "time_spring",
+      "icons": "🌸"
+    },
+    {
+      "name": "lbl_onboarding_emoji_summer",
+      "code": "time_summer",
+      "icons": "☀️"
+    },
+    {
+      "name": "lbl_onboarding_emoji_autumn",
+      "code": "time_autumn",
+      "icons": "🍂"
+    },
+    {
+      "name": "lbl_onboarding_emoji_winter",
+      "code": "time_winter",
+      "icons": "❄️"
+    }
+  ]

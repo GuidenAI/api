@@ -1,15 +1,62 @@
 [
-    { "name": "Hotel", "code": "accommodation_hotel", "icons": "🏨" },
-    { "name": "Resort", "code": "accommodation_resort", "icons": "🏝️" },
-    { "name": "Apartment", "code": "accommodation_apartment", "icons": "🏢" },
-    { "name": "Villa", "code": "accommodation_villa", "icons": "🏡" },
-    { "name": "Guesthouse", "code": "accommodation_guesthouse", "icons": "🏘️" },
-    { "name": "Cabin", "code": "accommodation_cabin", "icons": "🏕️" },
-    { "name": "Camping", "code": "accommodation_camping", "icons": "🏕️" },
-    { "name": "Cottage", "code": "accommodation_cottage", "icons": "🏡" },
-    { "name": "Lodge", "code": "accommodation_lodge", "icons": "🏕️" },
-    { "name": "Houseboat", "code": "accommodation_houseboat", "icons": "🚤" },
-    { "name": "Farmstay", "code": "accommodation_farmstay", "icons": "🏡" },
-    { "name": "Ryokan", "code": "accommodation_ryokan", "icons": "🏯" }
-  ]
-  
+  {
+    "name": "lbl_onboarding_emoji_hotel",
+    "code": "accommodation_hotel",
+    "icons": "🏨"
+  },
+  {
+    "name": "lbl_onboarding_emoji_resort",
+    "code": "accommodation_resort",
+    "icons": "🌴"
+  },
+  {
+    "name": "lbl_onboarding_emoji_homestay",
+    "code": "accommodation_homestay",
+    "icons": "🏡"
+  },
+  {
+    "name": "lbl_onboarding_emoji_camping",
+    "code": "accommodation_camping",
+    "icons": "⛺"
+  },
+  {
+    "name": "lbl_onboarding_emoji_hostel",
+    "code": "accommodation_hostel",
+    "icons": "🛏️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_villa",
+    "code": "accommodation_villa",
+    "icons": "🏘️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_apartment",
+    "code": "accommodation_apartment",
+    "icons": "🏢"
+  },
+  {
+    "name": "lbl_onboarding_emoji_treehouse",
+    "code": "accommodation_treehouse",
+    "icons": "🌳"
+  },
+  {
+    "name": "lbl_onboarding_emoji_boat",
+    "code": "accommodation_boat",
+    "icons": "⛵"
+  },
+  {
+    "name": "lbl_onboarding_emoji_glamping",
+    "code": "accommodation_glamping",
+    "icons": "🏕️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_igloo",
+    "code": "accommodation_igloo",
+    "icons": "🧊"
+  },
+  {
+    "name": "lbl_onboarding_emoji_cabin",
+    "code": "accommodation_cabin",
+    "icons": "🥾"
+  }
+]

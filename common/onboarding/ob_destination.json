@@ -1,18 +1,77 @@
 [
-    { "name": "Mountain", "code": "destination_mountain", "icons": "⛰️" },
-    { "name": "River", "code": "destination_river", "icons": "🏞️" },
-    { "name": "Sea", "code": "destination_sea", "icons": "🌊" },
-    { "name": "Beach", "code": "destination_beach", "icons": "🏖️" },
-    { "name": "Desert", "code": "destination_desert", "icons": "🏜️" },
-    { "name": "Forest", "code": "destination_forest", "icons": "🌲" },
-    { "name": "Island", "code": "destination_island", "icons": "🏝️" },
-    { "name": "Lake", "code": "destination_lake", "icons": "🏞️" },
-    { "name": "City", "code": "destination_city", "icons": "🏙️" },
-    { "name": "Village", "code": "destination_village", "icons": "🏡" },
-    { "name": "Countryside", "code": "destination_countryside", "icons": "🌾" },
-    { "name": "Cave", "code": "destination_cave", "icons": "🕳️" },
-    { "name": "Waterfall", "code": "destination_waterfall", "icons": "💦" },
-    { "name": "Canyon", "code": "destination_canyon", "icons": "🗻" },
-    { "name": "Plain", "code": "destination_plain", "icons": "🌄" },
-    { "name": "Valley", "code": "destination_valley", "icons": "🏞️" }
-  ]
+  {
+    "name": "lbl_onboarding_emoji_beach",
+    "code": "destination_beach",
+    "icons": "🏖️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_mountain",
+    "code": "destination_mountain",
+    "icons": "🏔️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_city",
+    "code": "destination_city",
+    "icons": "🏙️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_countryside",
+    "code": "destination_countryside",
+    "icons": "🏞️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_island",
+    "code": "destination_island",
+    "icons": "🏝️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_desert",
+    "code": "destination_desert",
+    "icons": "🏜️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_forest",
+    "code": "destination_forest",
+    "icons": "🌳"
+  },
+  {
+    "name": "lbl_onboarding_emoji_lake",
+    "code": "destination_lake",
+    "icons": "🌊"
+  },
+  {
+    "name": "lbl_onboarding_emoji_historical_site",
+    "code": "destination_historical_site",
+    "icons": "🏛️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_national_park",
+    "code": "destination_national_park",
+    "icons": "🏞️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_tropical",
+    "code": "destination_tropical",
+    "icons": "🌴"
+  },
+  {
+    "name": "lbl_onboarding_emoji_arctic",
+    "code": "destination_arctic",
+    "icons": "❄️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_volcano",
+    "code": "destination_volcano",
+    "icons": "🌋"
+  },
+  {
+    "name": "lbl_onboarding_emoji_river",
+    "code": "destination_river",
+    "icons": "🏞️"
+  },
+  {
+    "name": "lbl_onboarding_emoji_canyon",
+    "code": "destination_canyon",
+    "icons": "🏜️"
+  }
+]

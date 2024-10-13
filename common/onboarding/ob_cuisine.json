@@ -1,12 +1,77 @@
 [
-    { "name": "Italian", "code": "cuisine_italian", "icons": "🍝" },
-    { "name": "Japanese", "code": "cuisine_japanese", "icons": "🍣" },
-    { "name": "Mexican", "code": "cuisine_mexican", "icons": "🌮" },
-    { "name": "Chinese", "code": "cuisine_chinese", "icons": "🥡" },
-    { "name": "Indian", "code": "cuisine_indian", "icons": "🍛" },
-    { "name": "French", "code": "cuisine_french", "icons": "🥖" },
-    { "name": "Thai", "code": "cuisine_thai", "icons": "🍜" },
-    { "name": "Greek", "code": "cuisine_greek", "icons": "🥙" },
-    { "name": "Spanish", "code": "cuisine_spanish", "icons": "🥘" },
-    { "name": "Korean", "code": "cuisine_korean", "icons": "🍲" }
-]
+    {
+      "name": "lbl_onboarding_emoji_italian",
+      "code": "cuisine_italian",
+      "icons": "🍝"
+    },
+    {
+      "name": "lbl_onboarding_emoji_japanese",
+      "code": "cuisine_japanese",
+      "icons": "🍣"
+    },
+    {
+      "name": "lbl_onboarding_emoji_mexican",
+      "code": "cuisine_mexican",
+      "icons": "🌮"
+    },
+    {
+      "name": "lbl_onboarding_emoji_indian",
+      "code": "cuisine_indian",
+      "icons": "🍛"
+    },
+    {
+      "name": "lbl_onboarding_emoji_chinese",
+      "code": "cuisine_chinese",
+      "icons": "🥡"
+    },
+    {
+      "name": "lbl_onboarding_emoji_french",
+      "code": "cuisine_french",
+      "icons": "🥐"
+    },
+    {
+      "name": "lbl_onboarding_emoji_thai",
+      "code": "cuisine_thai",
+      "icons": "🍜"
+    },
+    {
+      "name": "lbl_onboarding_emoji_greek",
+      "code": "cuisine_greek",
+      "icons": "🥙"
+    },
+    {
+      "name": "lbl_onboarding_emoji_spanish",
+      "code": "cuisine_spanish",
+      "icons": "🥘"
+    },
+    {
+      "name": "lbl_onboarding_emoji_vietnamese",
+      "code": "cuisine_vietnamese",
+      "icons": "🍲"
+    },
+    {
+      "name": "lbl_onboarding_emoji_korean",
+      "code": "cuisine_korean",
+      "icons": "🍱"
+    },
+    {
+      "name": "lbl_onboarding_emoji_middle_eastern",
+      "code": "cuisine_middle_eastern",
+      "icons": "🧆"
+    },
+    {
+      "name": "lbl_onboarding_emoji_brazilian",
+      "code": "cuisine_brazilian",
+      "icons": "🍖"
+    },
+    {
+      "name": "lbl_onboarding_emoji_caribbean",
+      "code": "cuisine_caribbean",
+      "icons": "🍹"
+    },
+    {
+      "name": "lbl_onboarding_emoji_moroccan",
+      "code": "cuisine_moroccan",
+      "icons": "🍯"
+    }
+  ]
