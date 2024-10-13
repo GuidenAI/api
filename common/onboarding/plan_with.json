@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Alone",
+      "code": "with_alone",
+      "icons": "👤"
+    },
+    {
+      "name": "Couple",
+      "code": "with_couple",
+      "icons": "👥"
+    },
+    {
+      "name": "Family",
+      "code": "with_family",
+      "icons": "👪"
+    },
+    {
+      "name": "Friend",
+      "code": "with_friend",
+      "icons": "🤡"
+    }
+  ]

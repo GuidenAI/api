@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Adventure",
+      "code": "style_adventure",
+      "icons": "🏞️"
+    },
+    {
+      "name": "Relax",
+      "code": "style_relax",
+      "icons": "🏖️"
+    },
+    {
+      "name": "Culture",
+      "code": "style_culture",
+      "icons": "🏛️"
+    },
+    {
+      "name": "Party",
+      "code": "style_party",
+      "icons": "🎉"
+    },
+    {
+      "name": "Eco",
+      "code": "style_eco",
+      "icons": "🌿"
+    },
+    {
+      "name": "Luxury",
+      "code": "style_luxury",
+      "icons": "💎"
+    },
+    {
+      "name": "Backpacking",
+      "code": "style_backpacking",
+      "icons": "🎒"
+    },
+    {
+      "name": "Romantic",
+      "code": "style_romantic",
+      "icons": "💑"
+    },
+    {
+      "name": "Foodie",
+      "code": "style_foodie",
+      "icons": "🍽️"
+    },
+    {
+      "name": "Wellness",
+      "code": "style_wellness",
+      "icons": "🧘"
+    }
+  ]
