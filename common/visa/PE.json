@@ -1,0 +1,798 @@
+{
+  "AL": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "DZ": {
+    "type": "visa required",
+    "duration": null
+  },
+  "AD": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "AO": {
+    "type": "visa required",
+    "duration": null
+  },
+  "AG": {
+    "type": "visa free",
+    "duration": 180
+  },
+  "AR": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "AM": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "AU": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "AT": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "AZ": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "BS": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "BH": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "BD": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "BB": {
+    "type": "visa free",
+    "duration": 28
+  },
+  "BY": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "BE": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "BZ": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "BJ": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "BT": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "BO": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "BA": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "BW": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "BR": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "BN": {
+    "type": "visa free",
+    "duration": 14
+  },
+  "BG": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "BF": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "BI": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "KH": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "CM": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "CA": {
+    "type": "visa required",
+    "duration": null
+  },
+  "CV": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "CF": {
+    "type": "visa required",
+    "duration": null
+  },
+  "TD": {
+    "type": "visa required",
+    "duration": null
+  },
+  "CL": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "CN": {
+    "type": "visa required",
+    "duration": null
+  },
+  "CO": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "KM": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "CG": {
+    "type": "visa required",
+    "duration": null
+  },
+  "CD": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "CR": {
+    "type": "visa free",
+    "duration": 180
+  },
+  "CI": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "HR": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "CU": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "CY": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "CZ": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "DK": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "DJ": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "DM": {
+    "type": "visa free",
+    "duration": 21
+  },
+  "DO": {
+    "type": "visa free",
+    "duration": null
+  },
+  "EC": {
+    "type": "visa free",
+    "duration": 180
+  },
+  "EG": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "SV": {
+    "type": "visa free",
+    "duration": 180
+  },
+  "GQ": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "ER": {
+    "type": "visa required",
+    "duration": null
+  },
+  "EE": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "SZ": {
+    "type": "visa required",
+    "duration": null
+  },
+  "ET": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "FJ": {
+    "type": "visa free",
+    "duration": 120
+  },
+  "FI": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "FR": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "GA": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "GM": {
+    "type": "visa required",
+    "duration": null
+  },
+  "GE": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "DE": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "GH": {
+    "type": "visa required",
+    "duration": null
+  },
+  "GR": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "GD": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "GT": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "GN": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "GW": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "GY": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "HT": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "HN": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "HK": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "HU": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "IS": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "IN": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "ID": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "IR": {
+    "type": "visa free",
+    "duration": 15
+  },
+  "IQ": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "IE": {
+    "type": "visa required",
+    "duration": null
+  },
+  "IL": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "IT": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "JM": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "JP": {
+    "type": "visa required",
+    "duration": null
+  },
+  "JO": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "KZ": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "KE": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "KI": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "XK": {
+    "type": "visa required",
+    "duration": null
+  },
+  "KW": {
+    "type": "visa required",
+    "duration": null
+  },
+  "KG": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "LA": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "LV": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "LB": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "LS": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "LR": {
+    "type": "visa required",
+    "duration": null
+  },
+  "LY": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "LI": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "LT": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "LU": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "MO": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "MG": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "MW": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "MY": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "MV": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "ML": {
+    "type": "visa required",
+    "duration": null
+  },
+  "MT": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "MH": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "MR": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "MU": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "MX": {
+    "type": "visa required",
+    "duration": null
+  },
+  "FM": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "MD": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "MC": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "MN": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "ME": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "MA": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "MZ": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "MM": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "NA": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "NR": {
+    "type": "visa required",
+    "duration": null
+  },
+  "NP": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "NL": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "NZ": {
+    "type": "visa required",
+    "duration": null
+  },
+  "NI": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "NE": {
+    "type": "visa required",
+    "duration": null
+  },
+  "NG": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "KP": {
+    "type": "visa required",
+    "duration": null
+  },
+  "MK": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "NO": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "OM": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "PK": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "PW": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "PS": {
+    "type": "visa free",
+    "duration": null
+  },
+  "PA": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "PG": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "PY": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "PE": {
+    "type": "domestic",
+    "duration": -1
+  },
+  "PH": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "PL": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "PT": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "QA": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "RO": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "RU": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "RW": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "KN": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "LC": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "WS": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "SM": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "ST": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "SA": {
+    "type": "visa required",
+    "duration": null
+  },
+  "SN": {
+    "type": "visa required",
+    "duration": null
+  },
+  "RS": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "SC": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "SL": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "SG": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "SK": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "SI": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "SB": {
+    "type": "visa required",
+    "duration": null
+  },
+  "SO": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "ZA": {
+    "type": "visa free",
+    "duration": 30
+  },
+  "KR": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "SS": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "ES": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "LK": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "VC": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "SD": {
+    "type": "visa required",
+    "duration": null
+  },
+  "SR": {
+    "type": "visa required",
+    "duration": null
+  },
+  "SE": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "CH": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "SY": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "TW": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "TJ": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "TZ": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "TH": {
+    "type": "visa free",
+    "duration": 60
+  },
+  "TL": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "TG": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "TO": {
+    "type": "visa required",
+    "duration": null
+  },
+  "TT": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "TN": {
+    "type": "visa required",
+    "duration": null
+  },
+  "TM": {
+    "type": "visa required",
+    "duration": null
+  },
+  "TV": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "TR": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "UG": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "UA": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "AE": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "GB": {
+    "type": "visa free",
+    "duration": 180
+  },
+  "US": {
+    "type": "visa required",
+    "duration": null
+  },
+  "UY": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "UZ": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "VU": {
+    "type": "visa free",
+    "duration": 120
+  },
+  "VA": {
+    "type": "visa free",
+    "duration": 90
+  },
+  "VE": {
+    "type": "visa required",
+    "duration": null
+  },
+  "VN": {
+    "type": "e-visa",
+    "duration": null
+  },
+  "YE": {
+    "type": "visa required",
+    "duration": null
+  },
+  "ZM": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "ZW": {
+    "type": "visa on arrival",
+    "duration": null
+  },
+  "AF": {
+    "type": "visa required",
+    "duration": null
+  }
+}
