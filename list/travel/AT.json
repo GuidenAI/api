@@ -1,0 +1,15 @@
+{
+  "iso2": "AT",
+  "iso3": "AUT",
+  "country": "Austria",
+  "cities": [
+    "Vienna",
+    "Salzburg",
+    "Innsbruck",
+    "Graz",
+    "Linz",
+    "Hallstatt",
+    "Klagenfurt",
+    "Bregenz"
+  ]
+}

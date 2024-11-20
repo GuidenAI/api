@@ -1,0 +1,15 @@
+{
+  "iso2": "CY",
+  "iso3": "CYP",
+  "country": "Cyprus",
+  "cities": [
+    "Nicosia",
+    "Limassol",
+    "Larnaca",
+    "Paphos",
+    "Ayia Napa",
+    "Protaras",
+    "Famagusta",
+    "Kyrenia"
+  ]
+}

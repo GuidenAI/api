@@ -1,0 +1,15 @@
+{
+  "iso2": "BO",
+  "iso3": "BOL",
+  "country": "Bolivia",
+  "cities": [
+    "La Paz",
+    "Sucre",
+    "Santa Cruz de la Sierra",
+    "Cochabamba",
+    "Potosí",
+    "Oruro",
+    "Uyuni",
+    "Tarija"
+  ]
+}

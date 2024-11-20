@@ -1,0 +1,15 @@
+{
+  "iso2": "AQ",
+  "iso3": "ATA",
+  "country": "Antarctica",
+  "cities": [
+    "Murdo Station",
+    "Amundsen-Scott South Pole Station",
+    "Palmer Station",
+    "Rothera Research Station",
+    "Casey Station",
+    "Mawson Station",
+    "Davis Station",
+    "Vernadsky Research Base"
+  ]
+}

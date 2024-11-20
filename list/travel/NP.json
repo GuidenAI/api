@@ -1,0 +1,15 @@
+{
+  "iso2": "NP",
+  "iso3": "NPL",
+  "country": "Nepal",
+  "cities": [
+    "Kathmandu",
+    "Pokhara",
+    "Lalitpur",
+    "Bhaktapur",
+    "Chitwan",
+    "Lumbini",
+    "Nagarkot",
+    "Janakpur"
+  ]
+}

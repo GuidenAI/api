@@ -1,0 +1,15 @@
+{
+  "iso2": "CZ",
+  "iso3": "CZE",
+  "country": "Czechia",
+  "cities": [
+    "Prague",
+    "Brno",
+    "Ostrava",
+    "Plzeň",
+    "Český Krumlov",
+    "Karlovy Vary",
+    "Olomouc",
+    "Kutná Hora"
+  ]
+}

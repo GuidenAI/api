@@ -1,0 +1,15 @@
+{
+  "iso2": "LT",
+  "iso3": "LTU",
+  "country": "Lithuania",
+  "cities": [
+    "Vilnius",
+    "Kaunas",
+    "Klaipėda",
+    "Šiauliai",
+    "Panevėžys",
+    "Trakai",
+    "Palanga",
+    "Druskininkai"
+  ]
+}

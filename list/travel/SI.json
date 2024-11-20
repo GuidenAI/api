@@ -1,0 +1,15 @@
+{
+  "iso2": "SI",
+  "iso3": "SVN",
+  "country": "Slovenia",
+  "cities": [
+    "Ljubljana",
+    "Bled",
+    "Piran",
+    "Maribor",
+    "Koper",
+    "Ptuj",
+    "Celje",
+    "Kranj"
+  ]
+}

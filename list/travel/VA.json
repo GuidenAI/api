@@ -1,0 +1,15 @@
+{
+  "iso2": "VA",
+  "iso3": "VAT",
+  "country": "Vatican",
+  "cities": [
+    "St. Peter's Basilica",
+    "Sistine Chapel",
+    "Vatican Museums",
+    "St. Peter's Square",
+    "Apostolic Palace",
+    "Vatican Gardens",
+    "Vatican Library",
+    "Vatican Necropolis"
+  ]
+}

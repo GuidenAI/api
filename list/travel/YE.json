@@ -1,0 +1,15 @@
+{
+  "iso2": "YE",
+  "iso3": "YEM",
+  "country": "Yemen",
+  "cities": [
+    "Sana'a",
+    "Aden",
+    "Taiz",
+    "Mukalla",
+    "Al Hudaydah",
+    "Ibb",
+    "Shibam",
+    "Socotra"
+  ]
+}

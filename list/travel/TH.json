@@ -1,0 +1,15 @@
+{
+  "iso2": "TH",
+  "iso3": "THA",
+  "country": "Thailand",
+  "cities": [
+    "Bangkok",
+    "Chiang Mai",
+    "Phuket",
+    "Pattaya",
+    "Krabi",
+    "Ayutthaya",
+    "Chiang Rai",
+    "Hua Hin"
+  ]
+}

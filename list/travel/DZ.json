@@ -1,0 +1,15 @@
+{
+  "iso2": "DZ",
+  "iso3": "DZA",
+  "country": "Algeria",
+  "cities": [
+    "Algiers",
+    "Oran",
+    "Constantine",
+    "Annaba",
+    "Tlemcen",
+    "Ghardaia",
+    "Tamanrasset",
+    "Béjaïa"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "BJ",
+  "iso3": "BEN",
+  "country": "Benin",
+  "cities": [
+    "Cotonou",
+    "Porto-Novo",
+    "Abomey",
+    "Ouidah",
+    "Parakou",
+    "Natitingou",
+    "Bohicon",
+    "Grand-Popo"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "GF",
+  "iso3": "GUF",
+  "country": "French Guiana",
+  "cities": [
+    "Cayenne",
+    "Kourou",
+    "Saint-Laurent-du-Maroni",
+    "Rémire-Montjoly",
+    "Matoury",
+    "Sinnamary",
+    "Awala-Yalimapo",
+    "Apatou"
+  ]
+}

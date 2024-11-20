@@ -1,0 +1,15 @@
+{
+  "iso2": "BG",
+  "iso3": "BGR",
+  "country": "Bulgaria",
+  "cities": [
+    "Sofia",
+    "Plovdiv",
+    "Varna",
+    "Burgas",
+    "Veliko Tarnovo",
+    "Ruse",
+    "Bansko",
+    "Nesebar"
+  ]
+}

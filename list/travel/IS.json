@@ -1,0 +1,15 @@
+{
+  "iso2": "IS",
+  "iso3": "ISL",
+  "country": "Iceland",
+  "cities": [
+    "Reykjavik",
+    "Akureyri",
+    "Reykjanesbær",
+    "Húsavík",
+    "Selfoss",
+    "Egilsstaðir",
+    "Vík í Mýrdal",
+    "Ísafjörður"
+  ]
+}

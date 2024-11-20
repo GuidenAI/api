@@ -1,0 +1,15 @@
+{
+  "iso2": "CA",
+  "iso3": "CAN",
+  "country": "Canada",
+  "cities": [
+    "Toronto",
+    "Vancouver",
+    "Montreal",
+    "Calgary",
+    "Ottawa",
+    "Quebec City",
+    "Edmonton",
+    "Banff"
+  ]
+}

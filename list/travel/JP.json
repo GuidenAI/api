@@ -1,0 +1,15 @@
+{
+  "iso2": "JP",
+  "iso3": "JPN",
+  "country": "Japan",
+  "cities": [
+    "Tokyo",
+    "Kyoto",
+    "Osaka",
+    "Hiroshima",
+    "Sapporo",
+    "Nara",
+    "Fukuoka",
+    "Nagoya"
+  ]
+}

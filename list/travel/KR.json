@@ -1,0 +1,15 @@
+{
+  "iso2": "KR",
+  "iso3": "KOR",
+  "country": "South Korea",
+  "cities": [
+    "Seoul",
+    "Busan",
+    "Incheon",
+    "Daegu",
+    "Gwangju",
+    "Daejeon",
+    "Suwon",
+    "Jeonju"
+  ]
+}

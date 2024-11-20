@@ -1,0 +1,15 @@
+{
+  "iso2": "PL",
+  "iso3": "POL",
+  "country": "Poland",
+  "cities": [
+    "Warsaw",
+    "Kraków",
+    "Gdańsk",
+    "Wrocław",
+    "Poznań",
+    "Łódź",
+    "Zakopane",
+    "Sopot"
+  ]
+}

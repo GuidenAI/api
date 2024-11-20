@@ -1,0 +1,15 @@
+{
+  "iso2": "PK",
+  "iso3": "PAK",
+  "country": "Pakistan",
+  "cities": [
+    "Karachi",
+    "Lahore",
+    "Islamabad",
+    "Rawalpindi",
+    "Peshawar",
+    "Quetta",
+    "Multan",
+    "Faisalabad"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "UZ",
+  "iso3": "UZB",
+  "country": "Uzbekistan",
+  "cities": [
+    "Tashkent",
+    "Samarkand",
+    "Bukhara",
+    "Khiva",
+    "Shakhrisabz",
+    "Nukus",
+    "Termez",
+    "Andijan"
+  ]
+}

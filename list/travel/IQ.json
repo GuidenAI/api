@@ -1,0 +1,15 @@
+{
+  "iso2": "IQ",
+  "iso3": "IRQ",
+  "country": "Iraq",
+  "cities": [
+    "Baghdad",
+    "Basra",
+    "Erbil",
+    "Mosul",
+    "Karbala",
+    "Najaf",
+    "Sulaymaniyah",
+    "Babylon"
+  ]
+}

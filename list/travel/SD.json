@@ -1,0 +1,15 @@
+{
+  "iso2": "SD",
+  "iso3": "SDN",
+  "country": "Sudan",
+  "cities": [
+    "Khartoum",
+    "Omdurman",
+    "Port Sudan",
+    "Kassala",
+    "El Obeid",
+    "Nyala",
+    "Dongola",
+    "Merowe"
+  ]
+}

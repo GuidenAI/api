@@ -1,0 +1,15 @@
+{
+  "iso2": "CM",
+  "iso3": "CMR",
+  "country": "Cameroon",
+  "cities": [
+    "Douala",
+    "Yaoundé",
+    "Bamenda",
+    "Buea",
+    "Limbe",
+    "Kribi",
+    "Garoua",
+    "Bafoussam"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "KG",
+  "iso3": "KGZ",
+  "country": "Kyrgyzstan",
+  "cities": [
+    "Bishkek",
+    "Osh",
+    "Karakol",
+    "Cholpon-Ata",
+    "Naryn",
+    "Jalal-Abad",
+    "Talas",
+    "Kochkor"
+  ]
+}

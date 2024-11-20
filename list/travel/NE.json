@@ -1,0 +1,15 @@
+{
+  "iso2": "NE",
+  "iso3": "NER",
+  "country": "Niger",
+  "cities": [
+    "Niamey",
+    "Agadez",
+    "Zinder",
+    "Maradi",
+    "Tahoua",
+    "Dosso",
+    "Tillabéri",
+    "Diffa"
+  ]
+}

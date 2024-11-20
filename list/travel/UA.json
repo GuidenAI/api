@@ -1,0 +1,15 @@
+{
+  "iso2": "UA",
+  "iso3": "UKR",
+  "country": "Ukraine",
+  "cities": [
+    "Kyiv",
+    "Lviv",
+    "Odessa",
+    "Kharkiv",
+    "Dnipro",
+    "Zaporizhzhia",
+    "Chernivtsi",
+    "Uzhhorod"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "ER",
+  "iso3": "ERI",
+  "country": "Eritrea",
+  "cities": [
+    "Asmara",
+    "Massawa",
+    "Keren",
+    "Assab",
+    "Mendefera",
+    "Barentu",
+    "Agordat",
+    "Dekemhare"
+  ]
+}

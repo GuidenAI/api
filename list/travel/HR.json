@@ -1,0 +1,15 @@
+{
+  "iso2": "HR",
+  "iso3": "HRV",
+  "country": "Croatia",
+  "cities": [
+    "Zagreb",
+    "Dubrovnik",
+    "Split",
+    "Zadar",
+    "Rijeka",
+    "Pula",
+    "Šibenik",
+    "Osijek"
+  ]
+}

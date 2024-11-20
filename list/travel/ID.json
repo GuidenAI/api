@@ -1,0 +1,15 @@
+{
+  "iso2": "ID",
+  "iso3": "IDN",
+  "country": "Indonesia",
+  "cities": [
+    "Jakarta",
+    "Bali",
+    "Yogyakarta",
+    "Surabaya",
+    "Bandung",
+    "Medan",
+    "Makassar",
+    "Lombok"
+  ]
+}

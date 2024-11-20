@@ -1,0 +1,15 @@
+{
+  "iso2": "CH",
+  "iso3": "CHE",
+  "country": "Switzerland",
+  "cities": [
+    "Zurich",
+    "Geneva",
+    "Lucerne",
+    "Interlaken",
+    "Bern",
+    "Lausanne",
+    "Zermatt",
+    "Basel"
+  ]
+}

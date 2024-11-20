@@ -1,0 +1,15 @@
+{
+  "iso2": "LK",
+  "iso3": "LKA",
+  "country": "Sri Lanka",
+  "cities": [
+    "Colombo",
+    "Kandy",
+    "Galle",
+    "Nuwara Eliya",
+    "Sigiriya",
+    "Anuradhapura",
+    "Ella",
+    "Jaffna"
+  ]
+}

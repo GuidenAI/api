@@ -1,0 +1,15 @@
+{
+  "iso2": "MK",
+  "iso3": "MKD",
+  "country": "North Macedonia",
+  "cities": [
+    "Skopje",
+    "Ohrid",
+    "Bitola",
+    "Tetovo",
+    "Kumanovo",
+    "Prilep",
+    "Struga",
+    "Veles"
+  ]
+}

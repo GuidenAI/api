@@ -1,0 +1,15 @@
+{
+  "iso2": "GB",
+  "iso3": "GBR",
+  "country": "United Kingdom",
+  "cities": [
+    "London",
+    "Edinburgh",
+    "Manchester",
+    "Birmingham",
+    "Glasgow",
+    "Liverpool",
+    "Bristol",
+    "Bath"
+  ]
+}

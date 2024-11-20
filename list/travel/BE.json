@@ -1,0 +1,15 @@
+{
+  "iso2": "BE",
+  "iso3": "BEL",
+  "country": "Belgium",
+  "cities": [
+    "Brussels",
+    "Bruges",
+    "Ghent",
+    "Antwerp",
+    "Leuven",
+    "Liège",
+    "Mons",
+    "Namur"
+  ]
+}

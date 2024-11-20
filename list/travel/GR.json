@@ -1,0 +1,15 @@
+{
+  "iso2": "GR",
+  "iso3": "GRC",
+  "country": "Greece",
+  "cities": [
+    "Athens",
+    "Thessaloniki",
+    "Santorini",
+    "Mykonos",
+    "Rhodes",
+    "Heraklion",
+    "Corfu",
+    "Delphi"
+  ]
+}

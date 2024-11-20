@@ -1,0 +1,15 @@
+{
+  "iso2": "RS",
+  "iso3": "SRB",
+  "country": "Serbia",
+  "cities": [
+    "Belgrade",
+    "Novi Sad",
+    "Niš",
+    "Kragujevac",
+    "Subotica",
+    "Zlatibor",
+    "Kopaonik",
+    "Tara National Park"
+  ]
+}

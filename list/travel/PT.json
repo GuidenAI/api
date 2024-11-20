@@ -1,0 +1,15 @@
+{
+  "iso2": "PT",
+  "iso3": "PRT",
+  "country": "Portugal",
+  "cities": [
+    "Lisbon",
+    "Porto",
+    "Faro",
+    "Coimbra",
+    "Braga",
+    "Funchal",
+    "Sintra",
+    "Évora"
+  ]
+}

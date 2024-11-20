@@ -1,0 +1,15 @@
+{
+  "iso2": "GE",
+  "iso3": "GEO",
+  "country": "Georgia",
+  "cities": [
+    "Atlanta",
+    "Savannah",
+    "Augusta",
+    "Athens",
+    "Macon",
+    "Columbus",
+    "Tybee Island",
+    "Jekyll Island"
+  ]
+}

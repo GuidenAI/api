@@ -1,0 +1,15 @@
+{
+  "iso2": "ME",
+  "iso3": "MNE",
+  "country": "Montenegro",
+  "cities": [
+    "Podgorica",
+    "Kotor",
+    "Budva",
+    "Herceg Novi",
+    "Tivat",
+    "Cetinje",
+    "Bar",
+    "Ulcinj"
+  ]
+}

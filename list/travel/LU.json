@@ -1,0 +1,15 @@
+{
+  "iso2": "LU",
+  "iso3": "LUX",
+  "country": "Luxembourg",
+  "cities": [
+    "Luxembourg City",
+    "Echternach",
+    "Vianden",
+    "Esch-sur-Alzette",
+    "Clervaux",
+    "Differdange",
+    "Remich",
+    "Wiltz"
+  ]
+}

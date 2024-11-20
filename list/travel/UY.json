@@ -1,0 +1,15 @@
+{
+  "iso2": "UY",
+  "iso3": "URY",
+  "country": "Uruguay",
+  "cities": [
+    "Montevideo",
+    "Punta del Este",
+    "Colonia del Sacramento",
+    "Salto",
+    "Maldonado",
+    "Piriápolis",
+    "Carmelo",
+    "La Paloma"
+  ]
+}

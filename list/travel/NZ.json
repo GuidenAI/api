@@ -1,0 +1,15 @@
+{
+  "iso2": "NZ",
+  "iso3": "NZL",
+  "country": "New Zealand",
+  "cities": [
+    "Auckland",
+    "Wellington",
+    "Christchurch",
+    "Queenstown",
+    "Rotorua",
+    "Dunedin",
+    "Hamilton",
+    "Napier"
+  ]
+}

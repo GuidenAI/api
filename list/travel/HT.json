@@ -1,0 +1,15 @@
+{
+  "iso2": "HT",
+  "iso3": "HTI",
+  "country": "Haiti",
+  "cities": [
+    "Port-au-Prince",
+    "Cap-Haïtien",
+    "Jacmel",
+    "Les Cayes",
+    "Gonaïves",
+    "Saint-Marc",
+    "Hinche",
+    "Port-de-Paix"
+  ]
+}
