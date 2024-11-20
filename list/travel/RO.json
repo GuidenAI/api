@@ -1,0 +1,15 @@
+{
+  "iso2": "RO",
+  "iso3": "ROU",
+  "country": "Romania",
+  "cities": [
+    "Bucharest",
+    "Cluj-Napoca",
+    "Timișoara",
+    "Iași",
+    "Constanța",
+    "Brașov",
+    "Sibiu",
+    "Sighișoara"
+  ]
+}

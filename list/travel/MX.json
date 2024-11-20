@@ -1,0 +1,15 @@
+{
+  "iso2": "MX",
+  "iso3": "MEX",
+  "country": "Mexico",
+  "cities": [
+    "Mexico City",
+    "Cancun",
+    "Guadalajara",
+    "Monterrey",
+    "Tulum",
+    "Playa del Carmen",
+    "Puerto Vallarta",
+    "Cabo San Lucas"
+  ]
+}

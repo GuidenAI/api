@@ -1,0 +1,15 @@
+{
+  "iso2": "AF",
+  "iso3": "AFG",
+  "country": "Afghanistan",
+  "cities": [
+    "Kabul",
+    "Herat",
+    "Mazar-i-Sharif",
+    "Kandahar",
+    "Bamyan",
+    "Jalalabad",
+    "Balkh",
+    "Kunduz"
+  ]
+}

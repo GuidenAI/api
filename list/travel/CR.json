@@ -1,0 +1,15 @@
+{
+  "iso2": "CR",
+  "iso3": "CRI",
+  "country": "Costa Rica",
+  "cities": [
+    "San José",
+    "Liberia",
+    "Tamarindo",
+    "La Fortuna",
+    "Monteverde",
+    "Puerto Viejo",
+    "Manuel Antonio",
+    "Jaco"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "VE",
+  "iso3": "VEN",
+  "country": "Venezuela",
+  "cities": [
+    "Caracas",
+    "Maracaibo",
+    "Valencia",
+    "Barquisimeto",
+    "Mérida",
+    "Ciudad Bolívar",
+    "Puerto La Cruz",
+    "Isla Margarita"
+  ]
+}

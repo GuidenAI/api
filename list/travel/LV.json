@@ -1,0 +1,15 @@
+{
+  "iso2": "LV",
+  "iso3": "LVA",
+  "country": "Latvia",
+  "cities": [
+    "Riga",
+    "Jurmala",
+    "Liepaja",
+    "Daugavpils",
+    "Ventspils",
+    "Cesis",
+    "Sigulda",
+    "Kuldiga"
+  ]
+}

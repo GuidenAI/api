@@ -1,0 +1,15 @@
+{
+  "iso2": "HN",
+  "iso3": "HND",
+  "country": "Honduras",
+  "cities": [
+    "Tegucigalpa",
+    "San Pedro Sula",
+    "La Ceiba",
+    "Roatán",
+    "Copán Ruinas",
+    "Utila",
+    "Tela",
+    "Comayagua"
+  ]
+}

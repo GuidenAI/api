@@ -1,0 +1,15 @@
+{
+  "iso2": "PH",
+  "iso3": "PHL",
+  "country": "Philippines",
+  "cities": [
+    "Manila",
+    "Cebu City",
+    "Davao City",
+    "Boracay",
+    "Baguio",
+    "Palawan",
+    "Vigan",
+    "Tagaytay"
+  ]
+}

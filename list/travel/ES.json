@@ -1,0 +1,15 @@
+{
+  "iso2": "ES",
+  "iso3": "ESP",
+  "country": "Spain",
+  "cities": [
+    "Barcelona",
+    "Madrid",
+    "Seville",
+    "Valencia",
+    "Granada",
+    "Bilbao",
+    "Malaga",
+    "San Sebastian"
+  ]
+}

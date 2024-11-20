@@ -1,0 +1,15 @@
+{
+  "iso2": "JO",
+  "iso3": "JOR",
+  "country": "Jordan",
+  "cities": [
+    "Amman",
+    "Petra",
+    "Aqaba",
+    "Wadi Rum",
+    "Jerash",
+    "Madaba",
+    "Dead Sea",
+    "Ajloun"
+  ]
+}

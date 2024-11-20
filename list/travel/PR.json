@@ -1,0 +1,15 @@
+{
+  "iso2": "PR",
+  "iso3": "PRI",
+  "country": "Puerto Rico",
+  "cities": [
+    "San Juan",
+    "Ponce",
+    "Mayagüez",
+    "Caguas",
+    "Arecibo",
+    "Fajardo",
+    "Rincón",
+    "Vieques"
+  ]
+}

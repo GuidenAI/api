@@ -1,0 +1,15 @@
+{
+  "iso2": "EG",
+  "iso3": "EGY",
+  "country": "Egypt",
+  "cities": [
+    "Cairo",
+    "Alexandria",
+    "Luxor",
+    "Aswan",
+    "Giza",
+    "Sharm El Sheikh",
+    "Hurghada",
+    "Dahab"
+  ]
+}

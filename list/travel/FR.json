@@ -1,0 +1,15 @@
+{
+  "iso2": "FR",
+  "iso3": "FRA",
+  "country": "France",
+  "cities": [
+    "Paris",
+    "Lyon",
+    "Marseille",
+    "Nice",
+    "Bordeaux",
+    "Toulouse",
+    "Strasbourg",
+    "Lille"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "CL",
+  "iso3": "CHL",
+  "country": "Chile",
+  "cities": [
+    "Santiago",
+    "Valparaíso",
+    "Viña del Mar",
+    "Punta Arenas",
+    "San Pedro de Atacama",
+    "Puerto Varas",
+    "La Serena",
+    "Puerto Natales"
+  ]
+}

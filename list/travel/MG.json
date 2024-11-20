@@ -1,0 +1,15 @@
+{
+  "iso2": "MG",
+  "iso3": "MDG",
+  "country": "Madagascar",
+  "cities": [
+    "Antananarivo",
+    "Toamasina",
+    "Antsirabe",
+    "Fianarantsoa",
+    "Mahajanga",
+    "Toliara",
+    "Nosy Be",
+    "Morondava"
+  ]
+}

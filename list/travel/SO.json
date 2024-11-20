@@ -1,0 +1,15 @@
+{
+  "iso2": "SO",
+  "iso3": "SOM",
+  "country": "Somalia",
+  "cities": [
+    "Mogadishu",
+    "Hargeisa",
+    "Kismayo",
+    "Berbera",
+    "Bosaso",
+    "Garowe",
+    "Baidoa",
+    "Galkayo"
+  ]
+}

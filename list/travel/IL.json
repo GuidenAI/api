@@ -1,0 +1,15 @@
+{
+  "iso2": "IL",
+  "iso3": "ISR",
+  "country": "Israel",
+  "cities": [
+    "Jerusalem",
+    "Tel Aviv",
+    "Haifa",
+    "Eilat",
+    "Nazareth",
+    "Bethlehem",
+    "Tiberias",
+    "Acre"
+  ]
+}

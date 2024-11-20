@@ -1,0 +1,15 @@
+{
+  "iso2": "DK",
+  "iso3": "DNK",
+  "country": "Denmark",
+  "cities": [
+    "Copenhagen",
+    "Aarhus",
+    "Odense",
+    "Aalborg",
+    "Esbjerg",
+    "Roskilde",
+    "Helsingør",
+    "Billund"
+  ]
+}

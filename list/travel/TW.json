@@ -1,0 +1,15 @@
+{
+  "iso2": "TW",
+  "iso3": "TWN",
+  "country": "Taiwan",
+  "cities": [
+    "Taipei",
+    "Kaohsiung",
+    "Taichung",
+    "Tainan",
+    "Hualien",
+    "Taitung",
+    "Keelung",
+    "Nantou"
+  ]
+}

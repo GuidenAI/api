@@ -1,0 +1,15 @@
+{
+  "iso2": "PE",
+  "iso3": "PER",
+  "country": "Peru",
+  "cities": [
+    "Lima",
+    "Cusco",
+    "Arequipa",
+    "Trujillo",
+    "Iquitos",
+    "Puno",
+    "Machu Picchu",
+    "Nazca"
+  ]
+}

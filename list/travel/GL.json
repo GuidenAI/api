@@ -1,0 +1,15 @@
+{
+  "iso2": "GL",
+  "iso3": "GRL",
+  "country": "Greenland",
+  "cities": [
+    "Nuuk",
+    "Ilulissat",
+    "Sisimiut",
+    "Qaqortoq",
+    "Narsaq",
+    "Kangerlussuaq",
+    "Tasiilaq",
+    "Uummannaq"
+  ]
+}

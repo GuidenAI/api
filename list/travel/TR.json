@@ -1,0 +1,15 @@
+{
+  "iso2": "TR",
+  "iso3": "TUR",
+  "country": "Türkiye",
+  "cities": [
+    "Istanbul",
+    "Ankara",
+    "Izmir",
+    "Antalya",
+    "Cappadocia",
+    "Bodrum",
+    "Pamukkale",
+    "Ephesus"
+  ]
+}

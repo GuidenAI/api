@@ -1,0 +1,15 @@
+{
+  "iso2": "RW",
+  "iso3": "RWA",
+  "country": "Rwanda",
+  "cities": [
+    "Kigali",
+    "Musanze",
+    "Huye",
+    "Rubavu",
+    "Karongi",
+    "Nyungwe Forest",
+    "Akagera National Park",
+    "Volcanoes National Park"
+  ]
+}

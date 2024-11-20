@@ -1,0 +1,15 @@
+{
+  "iso2": "CO",
+  "iso3": "COL",
+  "country": "Colombia",
+  "cities": [
+    "Bogotá",
+    "Medellín",
+    "Cartagena",
+    "Cali",
+    "Barranquilla",
+    "Santa Marta",
+    "San Andrés",
+    "Pereira"
+  ]
+}

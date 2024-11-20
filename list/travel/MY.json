@@ -1,0 +1,15 @@
+{
+  "iso2": "MY",
+  "iso3": "MYS",
+  "country": "Malaysia",
+  "cities": [
+    "Kuala Lumpur",
+    "George Town",
+    "Malacca City",
+    "Kota Kinabalu",
+    "Johor Bahru",
+    "Ipoh",
+    "Kuching",
+    "Langkawi"
+  ]
+}

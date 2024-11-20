@@ -1,0 +1,15 @@
+{
+  "iso2": "CU",
+  "iso3": "CUB",
+  "country": "Cuba",
+  "cities": [
+    "Havana",
+    "Santiago de Cuba",
+    "Varadero",
+    "Trinidad",
+    "Cienfuegos",
+    "Holguín",
+    "Camagüey",
+    "Santa Clara"
+  ]
+}

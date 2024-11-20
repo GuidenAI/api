@@ -1,0 +1,15 @@
+{
+  "iso2": "SY",
+  "iso3": "SYR",
+  "country": "Syrian",
+  "cities": [
+    "Damascus",
+    "Aleppo",
+    "Homs",
+    "Hama",
+    "Latakia",
+    "Palmyra",
+    "Tartus",
+    "Bosra"
+  ]
+}

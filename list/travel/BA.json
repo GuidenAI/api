@@ -1,0 +1,15 @@
+{
+  "iso2": "BA",
+  "iso3": "BIH",
+  "country": "Bosnia and Herzegovina",
+  "cities": [
+    "Sarajevo",
+    "Mostar",
+    "Banja Luka",
+    "Tuzla",
+    "Zenica",
+    "Trebinje",
+    "Jajce",
+    "Bihać"
+  ]
+}

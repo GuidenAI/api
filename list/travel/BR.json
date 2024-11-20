@@ -1,0 +1,15 @@
+{
+  "iso2": "BR",
+  "iso3": "BRA",
+  "country": "Brazil",
+  "cities": [
+    "Rio de Janeiro",
+    "São Paulo",
+    "Salvador",
+    "Brasília",
+    "Fortaleza",
+    "Belo Horizonte",
+    "Recife",
+    "Manaus"
+  ]
+}

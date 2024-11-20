@@ -1,0 +1,15 @@
+{
+  "iso2": "SK",
+  "iso3": "SVK",
+  "country": "Slovakia",
+  "cities": [
+    "Bratislava",
+    "Košice",
+    "Prešov",
+    "Žilina",
+    "Nitra",
+    "Banská Bystrica",
+    "Trnava",
+    "Poprad"
+  ]
+}

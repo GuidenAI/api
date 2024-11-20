@@ -1,0 +1,15 @@
+{
+  "iso2": "BD",
+  "iso3": "BGD",
+  "country": "Bangladesh",
+  "cities": [
+    "Dhaka",
+    "Chittagong",
+    "Sylhet",
+    "Khulna",
+    "Rajshahi",
+    "Cox's Bazar",
+    "Rangamati",
+    "Sundarbans"
+  ]
+}

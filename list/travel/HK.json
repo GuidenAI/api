@@ -1,0 +1,15 @@
+{
+  "iso2": "HK",
+  "iso3": "HKG",
+  "country": "Hong Kong",
+  "cities": [
+    "Central",
+    "Tsim Sha Tsui",
+    "Mong Kok",
+    "Causeway Bay",
+    "Wan Chai",
+    "Lantau Island",
+    "Stanley",
+    "Sai Kung"
+  ]
+}

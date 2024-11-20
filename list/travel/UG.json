@@ -1,0 +1,15 @@
+{
+  "iso2": "UG",
+  "iso3": "UGA",
+  "country": "Uganda",
+  "cities": [
+    "Kampala",
+    "Entebbe",
+    "Jinja",
+    "Mbarara",
+    "Fort Portal",
+    "Gulu",
+    "Mbale",
+    "Kabale"
+  ]
+}

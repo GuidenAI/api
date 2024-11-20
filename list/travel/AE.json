@@ -1,0 +1,15 @@
+{
+  "iso2": "AE",
+  "iso3": "ARE",
+  "country": "United Arab Emirates",
+  "cities": [
+    "Dubai",
+    "Abu Dhabi",
+    "Sharjah",
+    "Ajman",
+    "Fujairah",
+    "Ras Al Khaimah",
+    "Al Ain",
+    "Umm Al Quwain"
+  ]
+}

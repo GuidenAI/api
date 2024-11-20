@@ -1,0 +1,15 @@
+{
+  "iso2": "BI",
+  "iso3": "BDI",
+  "country": "Burundi",
+  "cities": [
+    "Bujumbura",
+    "Gitega",
+    "Ngozi",
+    "Rumonge",
+    "Bururi",
+    "Kayanza",
+    "Ruyigi",
+    "Kirundo"
+  ]
+}

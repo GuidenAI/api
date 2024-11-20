@@ -1,0 +1,15 @@
+{
+  "iso2": "ZA",
+  "iso3": "ZAF",
+  "country": "South Africa",
+  "cities": [
+    "Cape Town",
+    "Johannesburg",
+    "Durban",
+    "Pretoria",
+    "Port Elizabeth",
+    "Bloemfontein",
+    "Stellenbosch",
+    "Kruger National Park"
+  ]
+}

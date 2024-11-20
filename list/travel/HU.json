@@ -1,0 +1,15 @@
+{
+  "iso2": "HU",
+  "iso3": "HUN",
+  "country": "Hungary",
+  "cities": [
+    "Budapest",
+    "Debrecen",
+    "Szeged",
+    "Miskolc",
+    "Pécs",
+    "Győr",
+    "Eger",
+    "Sopron"
+  ]
+}

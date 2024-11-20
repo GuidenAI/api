@@ -1,0 +1,15 @@
+{
+  "iso2": "TZ",
+  "iso3": "TZA",
+  "country": "Tanzania",
+  "cities": [
+    "Dar es Salaam",
+    "Arusha",
+    "Zanzibar City",
+    "Mwanza",
+    "Dodoma",
+    "Mbeya",
+    "Kilimanjaro",
+    "Tanga"
+  ]
+}

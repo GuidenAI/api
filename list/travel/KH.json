@@ -1,0 +1,15 @@
+{
+  "iso2": "KH",
+  "iso3": "KHM",
+  "country": "Cambodia",
+  "cities": [
+    "Phnom Penh",
+    "Siem Reap",
+    "Sihanoukville",
+    "Battambang",
+    "Kampot",
+    "Kep",
+    "Koh Rong",
+    "Kratie"
+  ]
+}

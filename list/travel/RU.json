@@ -1,0 +1,15 @@
+{
+  "iso2": "RU",
+  "iso3": "RUS",
+  "country": "Rusia",
+  "cities": [
+    "Moscow",
+    "Saint Petersburg",
+    "Kazan",
+    "Sochi",
+    "Novosibirsk",
+    "Yekaterinburg",
+    "Vladivostok",
+    "Nizhny Novgorod"
+  ]
+}

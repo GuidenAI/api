@@ -1,0 +1,15 @@
+{
+  "iso2": "SE",
+  "iso3": "SWE",
+  "country": "Sweden",
+  "cities": [
+    "Stockholm",
+    "Gothenburg",
+    "Malmö",
+    "Uppsala",
+    "Visby",
+    "Kiruna",
+    "Lund",
+    "Örebro"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "IT",
+  "iso3": "ITA",
+  "country": "Italy",
+  "cities": [
+    "Rome",
+    "Florence",
+    "Venice",
+    "Milan",
+    "Naples",
+    "Pisa",
+    "Verona",
+    "Bologna"
+  ]
+}

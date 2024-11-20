@@ -1,0 +1,15 @@
+{
+  "iso2": "NG",
+  "iso3": "NGA",
+  "country": "Nigeria",
+  "cities": [
+    "Lagos",
+    "Abuja",
+    "Port Harcourt",
+    "Kano",
+    "Ibadan",
+    "Enugu",
+    "Calabar",
+    "Jos"
+  ]
+}

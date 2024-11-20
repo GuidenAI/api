@@ -1,0 +1,15 @@
+{
+  "iso2": "AM",
+  "iso3": "ARM",
+  "country": "Armenia",
+  "cities": [
+    "Yerevan",
+    "Gyumri",
+    "Vanadzor",
+    "Dilijan",
+    "Tsaghkadzor",
+    "Jermuk",
+    "Sevan",
+    "Goris"
+  ]
+}

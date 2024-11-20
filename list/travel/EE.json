@@ -1,0 +1,15 @@
+{
+  "iso2": "EE",
+  "iso3": "EST",
+  "country": "Estonia",
+  "cities": [
+    "Tallinn",
+    "Tartu",
+    "Pärnu",
+    "Narva",
+    "Kuressaare",
+    "Viljandi",
+    "Rakvere",
+    "Haapsalu"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "IR",
+  "iso3": "IRN",
+  "country": "Islamic Republic of Iran",
+  "cities": [
+    "Tehran",
+    "Isfahan",
+    "Shiraz",
+    "Mashhad",
+    "Tabriz",
+    "Yazd",
+    "Kashan",
+    "Kerman"
+  ]
+}

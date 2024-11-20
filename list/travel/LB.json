@@ -1,0 +1,15 @@
+{
+  "iso2": "LB",
+  "iso3": "LBN",
+  "country": "Lebanon",
+  "cities": [
+    "Beirut",
+    "Tripoli",
+    "Byblos",
+    "Sidon",
+    "Tyre",
+    "Baalbek",
+    "Zahle",
+    "Jounieh"
+  ]
+}

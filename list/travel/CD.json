@@ -1,0 +1,15 @@
+{
+  "iso2": "CD",
+  "iso3": "COD",
+  "country": "Congo",
+  "cities": [
+    "Kinshasa",
+    "Lubumbashi",
+    "Goma",
+    "Bukavu",
+    "Kisangani",
+    "Mbandaka",
+    "Kananga",
+    "Matadi"
+  ]
+}

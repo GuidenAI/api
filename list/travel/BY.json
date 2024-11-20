@@ -1,0 +1,15 @@
+{
+  "iso2": "BY",
+  "iso3": "BLR",
+  "country": "Belarus",
+  "cities": [
+    "Minsk",
+    "Brest",
+    "Grodno",
+    "Gomel",
+    "Vitebsk",
+    "Mogilev",
+    "Polotsk",
+    "Nesvizh"
+  ]
+}

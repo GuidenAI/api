@@ -1,0 +1,15 @@
+{
+  "iso2": "CI",
+  "iso3": "CIV",
+  "country": "Côte d'Ivoire",
+  "cities": [
+    "Abidjan",
+    "Yamoussoukro",
+    "Bouaké",
+    "San Pedro",
+    "Man",
+    "Korhogo",
+    "Grand-Bassam",
+    "Daloa"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "iso2": "LY",
+  "iso3": "LBY",
+  "country": "Libya",
+  "cities": [
+    "Tripoli",
+    "Benghazi",
+    "Misrata",
+    "Bayda",
+    "Tobruk",
+    "Ghadames",
+    "Sabratha",
+    "Leptis Magna"
+  ]
+}

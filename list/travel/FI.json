@@ -1,0 +1,15 @@
+{
+  "iso2": "FI",
+  "iso3": "FIN",
+  "country": "Finland",
+  "cities": [
+    "Helsinki",
+    "Espoo",
+    "Tampere",
+    "Turku",
+    "Oulu",
+    "Rovaniemi",
+    "Lahti",
+    "Kuopio"
+  ]
+}

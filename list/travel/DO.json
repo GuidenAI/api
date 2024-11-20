@@ -1,0 +1,15 @@
+{
+  "iso2": "DO",
+  "iso3": "DOM",
+  "country": "Dominican Republic",
+  "cities": [
+    "Santo Domingo",
+    "Punta Cana",
+    "Santiago de los Caballeros",
+    "Puerto Plata",
+    "La Romana",
+    "Bávaro",
+    "Las Terrenas",
+    "Bayahibe"
+  ]
+}

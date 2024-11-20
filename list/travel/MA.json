@@ -1,0 +1,15 @@
+{
+  "iso2": "MA",
+  "iso3": "MAR",
+  "country": "Morocco",
+  "cities": [
+    "Marrakech",
+    "Casablanca",
+    "Fes",
+    "Rabat",
+    "Tangier",
+    "Agadir",
+    "Chefchaouen",
+    "Essaouira"
+  ]
+}

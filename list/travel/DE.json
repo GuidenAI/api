@@ -1,0 +1,15 @@
+{
+  "iso2": "DE",
+  "iso3": "DEU",
+  "country": "Germany",
+  "cities": [
+    "Berlin",
+    "Munich",
+    "Frankfurt",
+    "Hamburg",
+    "Cologne",
+    "Stuttgart",
+    "Dresden",
+    "Heidelberg"
+  ]
+}

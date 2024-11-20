@@ -1,0 +1,15 @@
+{
+  "iso2": "MT",
+  "iso3": "MLT",
+  "country": "Malta",
+  "cities": [
+    "Valletta",
+    "Mdina",
+    "Sliema",
+    "St. Julian's",
+    "Rabat",
+    "Marsaxlokk",
+    "Birgu",
+    "Gozo"
+  ]
+}

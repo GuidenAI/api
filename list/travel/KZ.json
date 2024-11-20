@@ -1,0 +1,15 @@
+{
+  "iso2": "KZ",
+  "iso3": "KAZ",
+  "country": "Kazakhstan",
+  "cities": [
+    "Almaty",
+    "Nur-Sultan",
+    "Shymkent",
+    "Aktau",
+    "Karaganda",
+    "Pavlodar",
+    "Taraz",
+    "Kokshetau"
+  ]
+}

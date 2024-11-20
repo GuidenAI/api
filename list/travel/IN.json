@@ -1,0 +1,15 @@
+{
+  "iso2": "IN",
+  "iso3": "IND",
+  "country": "India",
+  "cities": [
+    "Delhi",
+    "Mumbai",
+    "Bengaluru",
+    "Chennai",
+    "Kolkata",
+    "Jaipur",
+    "Agra",
+    "Goa"
+  ]
+}

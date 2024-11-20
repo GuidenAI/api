@@ -1,0 +1,15 @@
+{
+  "iso2": "EC",
+  "iso3": "ECU",
+  "country": "Ecuador",
+  "cities": [
+    "Quito",
+    "Guayaquil",
+    "Cuenca",
+    "Baños",
+    "Manta",
+    "Salinas",
+    "Otavalo",
+    "Galápagos Islands"
+  ]
+}

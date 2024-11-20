@@ -1,0 +1,15 @@
+{
+  "iso2": "NO",
+  "iso3": "NOR",
+  "country": "Norway",
+  "cities": [
+    "Oslo",
+    "Bergen",
+    "Trondheim",
+    "Stavanger",
+    "Tromsø",
+    "Ålesund",
+    "Kristiansand",
+    "Geiranger"
+  ]
+}

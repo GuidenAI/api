@@ -1,0 +1,15 @@
+{
+  "iso2": "AU",
+  "iso3": "AUS",
+  "country": "Australia",
+  "cities": [
+    "Sydney",
+    "Melbourne",
+    "Brisbane",
+    "Perth",
+    "Adelaide",
+    "Gold Coast",
+    "Cairns",
+    "Hobart"
+  ]
+}

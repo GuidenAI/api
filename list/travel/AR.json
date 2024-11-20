@@ -1,0 +1,15 @@
+{
+  "iso2": "AR",
+  "iso3": "ARG",
+  "country": "Argentina",
+  "cities": [
+    "Buenos Aires",
+    "Córdoba",
+    "Rosario",
+    "Mendoza",
+    "Bariloche",
+    "Salta",
+    "Ushuaia",
+    "Mar del Plata"
+  ]
+}

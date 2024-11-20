@@ -1,0 +1,15 @@
+{
+  "iso2": "SG",
+  "iso3": "SGP",
+  "country": "Singapore",
+  "cities": [
+    "Marina Bay",
+    "Sentosa Island",
+    "Orchard Road",
+    "Chinatown",
+    "Little India",
+    "Clarke Quay",
+    "Gardens by the Bay",
+    "Singapore Zoo"
+  ]
+}
