@@ -1,1172 +1,1130 @@
 [
   {
-    "name": "Afghanistan",
-    "code": "AF",
-    "url": "https://guidenai.github.io/api/list/city/AF.json",
-    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_afghanistan.webp"
-  },
-  {
     "name": "Albania",
     "code": "AL",
-    "url": "https://guidenai.github.io/api/list/city/AL.json",
+    "url": "https://guidenai.github.io/api/list/travel/AL.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_albania.webp"
   },
   {
     "name": "Algeria",
     "code": "DZ",
-    "url": "https://guidenai.github.io/api/list/city/DZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/DZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_algeria.webp"
   },
   {
     "name": "Andorra",
     "code": "AD",
-    "url": "https://guidenai.github.io/api/list/city/AD.json",
+    "url": "https://guidenai.github.io/api/list/travel/AD.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_andorra.webp"
   },
   {
     "name": "Angola",
     "code": "AO",
-    "url": "https://guidenai.github.io/api/list/city/AO.json",
+    "url": "https://guidenai.github.io/api/list/travel/AO.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_angola.webp"
   },
   {
     "name": "Antigua and Barbuda",
     "code": "AG",
-    "url": "https://guidenai.github.io/api/list/city/AG.json",
+    "url": "https://guidenai.github.io/api/list/travel/AG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_antigua_and_barbuda.webp"
   },
   {
     "name": "Argentina",
     "code": "AR",
-    "url": "https://guidenai.github.io/api/list/city/AR.json",
+    "url": "https://guidenai.github.io/api/list/travel/AR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_argentina.webp"
   },
   {
     "name": "Armenia",
     "code": "AM",
-    "url": "https://guidenai.github.io/api/list/city/AM.json",
+    "url": "https://guidenai.github.io/api/list/travel/AM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_armenia.webp"
   },
   {
     "name": "Australia",
     "code": "AU",
-    "url": "https://guidenai.github.io/api/list/city/AU.json",
+    "url": "https://guidenai.github.io/api/list/travel/AU.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_australia.webp"
   },
   {
     "name": "Austria",
     "code": "AT",
-    "url": "https://guidenai.github.io/api/list/city/AT.json",
+    "url": "https://guidenai.github.io/api/list/travel/AT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_austria.webp"
   },
   {
     "name": "Azerbaijan",
     "code": "AZ",
-    "url": "https://guidenai.github.io/api/list/city/AZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/AZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_azerbaijan.webp"
   },
   {
     "name": "Bahamas",
     "code": "BS",
-    "url": "https://guidenai.github.io/api/list/city/BS.json",
+    "url": "https://guidenai.github.io/api/list/travel/BS.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_bahamas.webp"
   },
   {
     "name": "Bahrain",
     "code": "BH",
-    "url": "https://guidenai.github.io/api/list/city/BH.json",
+    "url": "https://guidenai.github.io/api/list/travel/BH.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_bahrain.webp"
   },
   {
     "name": "Bangladesh",
     "code": "BD",
-    "url": "https://guidenai.github.io/api/list/city/BD.json",
+    "url": "https://guidenai.github.io/api/list/travel/BD.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_bangladesh.webp"
   },
   {
     "name": "Barbados",
     "code": "BB",
-    "url": "https://guidenai.github.io/api/list/city/BB.json",
+    "url": "https://guidenai.github.io/api/list/travel/BB.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_barbados.webp"
   },
   {
     "name": "Belarus",
     "code": "BY",
-    "url": "https://guidenai.github.io/api/list/city/BY.json",
+    "url": "https://guidenai.github.io/api/list/travel/BY.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_belarus.webp"
   },
   {
     "name": "Belgium",
     "code": "BE",
-    "url": "https://guidenai.github.io/api/list/city/BE.json",
+    "url": "https://guidenai.github.io/api/list/travel/BE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_belgium.webp"
   },
   {
     "name": "Belize",
     "code": "BZ",
-    "url": "https://guidenai.github.io/api/list/city/BZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/BZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_belize.webp"
   },
   {
     "name": "Benin",
     "code": "BJ",
-    "url": "https://guidenai.github.io/api/list/city/BJ.json",
+    "url": "https://guidenai.github.io/api/list/travel/BJ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_benin.webp"
   },
   {
     "name": "Bhutan",
     "code": "BT",
-    "url": "https://guidenai.github.io/api/list/city/BT.json",
+    "url": "https://guidenai.github.io/api/list/travel/BT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_bhutan.webp"
   },
   {
     "name": "Bolivia",
     "code": "BO",
-    "url": "https://guidenai.github.io/api/list/city/BO.json",
+    "url": "https://guidenai.github.io/api/list/travel/BO.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_bolivia.webp"
   },
   {
     "name": "Bosnia and Herzegovina",
     "code": "BA",
-    "url": "https://guidenai.github.io/api/list/city/BA.json",
+    "url": "https://guidenai.github.io/api/list/travel/BA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_bosnia_and_herzegovina.webp"
   },
   {
     "name": "Botswana",
     "code": "BW",
-    "url": "https://guidenai.github.io/api/list/city/BW.json",
+    "url": "https://guidenai.github.io/api/list/travel/BW.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_botswana.webp"
   },
   {
     "name": "Brazil",
     "code": "BR",
-    "url": "https://guidenai.github.io/api/list/city/BR.json",
+    "url": "https://guidenai.github.io/api/list/travel/BR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_brazil.webp"
   },
   {
     "name": "Brunei",
     "code": "BN",
-    "url": "https://guidenai.github.io/api/list/city/BN.json",
+    "url": "https://guidenai.github.io/api/list/travel/BN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_brunei.webp"
   },
   {
     "name": "Bulgaria",
     "code": "BG",
-    "url": "https://guidenai.github.io/api/list/city/BG.json",
+    "url": "https://guidenai.github.io/api/list/travel/BG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_bulgaria.webp"
   },
   {
     "name": "Burkina Faso",
     "code": "BF",
-    "url": "https://guidenai.github.io/api/list/city/BF.json",
+    "url": "https://guidenai.github.io/api/list/travel/BF.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_burkina_faso.webp"
   },
   {
     "name": "Burundi",
     "code": "BI",
-    "url": "https://guidenai.github.io/api/list/city/BI.json",
+    "url": "https://guidenai.github.io/api/list/travel/BI.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_burundi.webp"
   },
   {
     "name": "Cabo Verde",
     "code": "CV",
-    "url": "https://guidenai.github.io/api/list/city/CV.json",
+    "url": "https://guidenai.github.io/api/list/travel/CV.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_cabo_verde.webp"
   },
   {
     "name": "Cambodia",
     "code": "KH",
-    "url": "https://guidenai.github.io/api/list/city/KH.json",
+    "url": "https://guidenai.github.io/api/list/travel/KH.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_cambodia.webp"
   },
   {
     "name": "Cameroon",
     "code": "CM",
-    "url": "https://guidenai.github.io/api/list/city/CM.json",
+    "url": "https://guidenai.github.io/api/list/travel/CM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_cameroon.webp"
   },
   {
     "name": "Canada",
     "code": "CA",
-    "url": "https://guidenai.github.io/api/list/city/CA.json",
+    "url": "https://guidenai.github.io/api/list/travel/CA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_canada.webp"
   },
   {
     "name": "Central African Republic",
     "code": "CF",
-    "url": "https://guidenai.github.io/api/list/city/CF.json",
+    "url": "https://guidenai.github.io/api/list/travel/CF.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_central_african_republic.webp"
   },
   {
     "name": "Chad",
     "code": "TD",
-    "url": "https://guidenai.github.io/api/list/city/TD.json",
+    "url": "https://guidenai.github.io/api/list/travel/TD.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_burkina_chad.webp"
   },
   {
     "name": "Chile",
     "code": "CL",
-    "url": "https://guidenai.github.io/api/list/city/CL.json",
+    "url": "https://guidenai.github.io/api/list/travel/CL.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_chile.webp"
   },
   {
     "name": "China",
     "code": "CN",
-    "url": "https://guidenai.github.io/api/list/city/CN.json",
+    "url": "https://guidenai.github.io/api/list/travel/CN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_china.webp"
   },
   {
     "name": "Colombia",
     "code": "CO",
-    "url": "https://guidenai.github.io/api/list/city/CO.json",
+    "url": "https://guidenai.github.io/api/list/travel/CO.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_colombia.webp"
   },
   {
     "name": "Comoros",
     "code": "KM",
-    "url": "https://guidenai.github.io/api/list/city/KM.json",
+    "url": "https://guidenai.github.io/api/list/travel/KM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_comoros.webp"
   },
   {
     "name": "Congo (Congo-Brazzaville)",
     "code": "CG",
-    "url": "https://guidenai.github.io/api/list/city/CG.json",
+    "url": "https://guidenai.github.io/api/list/travel/CG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_congo_(congo-brazzaville).webp"
   },
   {
     "name": "Costa Rica",
     "code": "CR",
-    "url": "https://guidenai.github.io/api/list/city/CR.json",
+    "url": "https://guidenai.github.io/api/list/travel/CR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_costa_rica.webp"
   },
   {
     "name": "Croatia",
     "code": "HR",
-    "url": "https://guidenai.github.io/api/list/city/HR.json",
+    "url": "https://guidenai.github.io/api/list/travel/HR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_croatia.webp"
   },
   {
     "name": "Cuba",
     "code": "CU",
-    "url": "https://guidenai.github.io/api/list/city/CU.json",
+    "url": "https://guidenai.github.io/api/list/travel/CU.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_cuba.webp"
   },
   {
     "name": "Cyprus",
     "code": "CY",
-    "url": "https://guidenai.github.io/api/list/city/CY.json",
+    "url": "https://guidenai.github.io/api/list/travel/CY.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_cyprus.webp"
   },
   {
     "name": "Czech Republic",
     "code": "CZ",
-    "url": "https://guidenai.github.io/api/list/city/CZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/CZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_czech_republic.webp"
   },
   {
     "name": "Democratic Republic of the Congo",
     "code": "CD",
-    "url": "https://guidenai.github.io/api/list/city/CD.json",
+    "url": "https://guidenai.github.io/api/list/travel/CD.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_democratic_republic_of_the_congo.webp"
   },
   {
     "name": "Denmark",
     "code": "DK",
-    "url": "https://guidenai.github.io/api/list/city/DK.json",
+    "url": "https://guidenai.github.io/api/list/travel/DK.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_denmark.webp"
   },
   {
     "name": "Djibouti",
     "code": "DJ",
-    "url": "https://guidenai.github.io/api/list/city/DJ.json",
+    "url": "https://guidenai.github.io/api/list/travel/DJ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_djibouti.webp"
   },
   {
     "name": "Dominica",
     "code": "DM",
-    "url": "https://guidenai.github.io/api/list/city/DM.json",
+    "url": "https://guidenai.github.io/api/list/travel/DM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_dominica.webp"
   },
   {
     "name": "Dominican Republic",
     "code": "DO",
-    "url": "https://guidenai.github.io/api/list/city/DO.json",
+    "url": "https://guidenai.github.io/api/list/travel/DO.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_dominican_republic.webp"
   },
   {
     "name": "Ecuador",
     "code": "EC",
-    "url": "https://guidenai.github.io/api/list/city/EC.json",
+    "url": "https://guidenai.github.io/api/list/travel/EC.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_ecuador.webp"
   },
   {
     "name": "Egypt",
     "code": "EG",
-    "url": "https://guidenai.github.io/api/list/city/EG.json",
+    "url": "https://guidenai.github.io/api/list/travel/EG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_egypt.webp"
   },
   {
     "name": "El Salvador",
     "code": "SV",
-    "url": "https://guidenai.github.io/api/list/city/SV.json",
+    "url": "https://guidenai.github.io/api/list/travel/SV.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_el_salvador.webp"
   },
   {
     "name": "Equatorial Guinea",
     "code": "GQ",
-    "url": "https://guidenai.github.io/api/list/city/GQ.json",
+    "url": "https://guidenai.github.io/api/list/travel/GQ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_equatorial_guinea.webp"
   },
   {
     "name": "Eritrea",
     "code": "ER",
-    "url": "https://guidenai.github.io/api/list/city/ER.json",
+    "url": "https://guidenai.github.io/api/list/travel/ER.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_eritrea.webp"
   },
   {
     "name": "Estonia",
     "code": "EE",
-    "url": "https://guidenai.github.io/api/list/city/EE.json",
+    "url": "https://guidenai.github.io/api/list/travel/EE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_estonia.webp"
   },
   {
     "name": "Eswatini",
     "code": "SZ",
-    "url": "https://guidenai.github.io/api/list/city/SZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/SZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_eswatini.webp"
   },
   {
     "name": "Ethiopia",
     "code": "ET",
-    "url": "https://guidenai.github.io/api/list/city/ET.json",
+    "url": "https://guidenai.github.io/api/list/travel/ET.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_ethiopia.webp"
   },
   {
     "name": "Fiji",
     "code": "FJ",
-    "url": "https://guidenai.github.io/api/list/city/FJ.json",
+    "url": "https://guidenai.github.io/api/list/travel/FJ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_fiji.webp"
   },
   {
     "name": "Finland",
     "code": "FI",
-    "url": "https://guidenai.github.io/api/list/city/FI.json",
+    "url": "https://guidenai.github.io/api/list/travel/FI.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_finland.webp"
   },
   {
     "name": "France",
     "code": "FR",
-    "url": "https://guidenai.github.io/api/list/city/FR.json",
+    "url": "https://guidenai.github.io/api/list/travel/FR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_france.webp"
   },
   {
     "name": "Gabon",
     "code": "GA",
-    "url": "https://guidenai.github.io/api/list/city/GA.json",
+    "url": "https://guidenai.github.io/api/list/travel/GA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_gabon.webp"
   },
   {
     "name": "Gambia",
     "code": "GM",
-    "url": "https://guidenai.github.io/api/list/city/GM.json",
+    "url": "https://guidenai.github.io/api/list/travel/GM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_gambia.webp"
   },
   {
     "name": "Georgia",
     "code": "GE",
-    "url": "https://guidenai.github.io/api/list/city/GE.json",
+    "url": "https://guidenai.github.io/api/list/travel/GE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_georgia.webp"
   },
   {
     "name": "Germany",
     "code": "DE",
-    "url": "https://guidenai.github.io/api/list/city/DE.json",
+    "url": "https://guidenai.github.io/api/list/travel/DE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_germany.webp"
   },
   {
     "name": "Ghana",
     "code": "GH",
-    "url": "https://guidenai.github.io/api/list/city/GH.json",
+    "url": "https://guidenai.github.io/api/list/travel/GH.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_ghana.webp"
   },
   {
     "name": "Greece",
     "code": "GR",
-    "url": "https://guidenai.github.io/api/list/city/GR.json",
+    "url": "https://guidenai.github.io/api/list/travel/GR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_greece.webp"
   },
   {
     "name": "Grenada",
     "code": "GD",
-    "url": "https://guidenai.github.io/api/list/city/GD.json",
+    "url": "https://guidenai.github.io/api/list/travel/GD.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_grenada.webp"
   },
   {
     "name": "Guatemala",
     "code": "GT",
-    "url": "https://guidenai.github.io/api/list/city/GT.json",
+    "url": "https://guidenai.github.io/api/list/travel/GT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_guatemala.webp"
   },
   {
     "name": "Guinea",
     "code": "GN",
-    "url": "https://guidenai.github.io/api/list/city/GN.json",
+    "url": "https://guidenai.github.io/api/list/travel/GN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_guinea.webp"
   },
   {
     "name": "Guinea-Bissau",
     "code": "GW",
-    "url": "https://guidenai.github.io/api/list/city/GW.json",
+    "url": "https://guidenai.github.io/api/list/travel/GW.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_guinea-bissau.webp"
   },
   {
     "name": "Guyana",
     "code": "GY",
-    "url": "https://guidenai.github.io/api/list/city/GY.json",
+    "url": "https://guidenai.github.io/api/list/travel/GY.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_guyana.webp"
   },
   {
     "name": "Haiti",
     "code": "HT",
-    "url": "https://guidenai.github.io/api/list/city/HT.json",
+    "url": "https://guidenai.github.io/api/list/travel/HT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_haiti.webp"
   },
   {
     "name": "Honduras",
     "code": "HN",
-    "url": "https://guidenai.github.io/api/list/city/HN.json",
+    "url": "https://guidenai.github.io/api/list/travel/HN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_honduras.webp"
   },
   {
     "name": "Hungary",
     "code": "HU",
-    "url": "https://guidenai.github.io/api/list/city/HU.json",
+    "url": "https://guidenai.github.io/api/list/travel/HU.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_hungary.webp"
   },
   {
     "name": "Iceland",
     "code": "IS",
-    "url": "https://guidenai.github.io/api/list/city/IS.json",
+    "url": "https://guidenai.github.io/api/list/travel/IS.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_iceland.webp"
   },
   {
     "name": "India",
     "code": "IN",
-    "url": "https://guidenai.github.io/api/list/city/IN.json",
+    "url": "https://guidenai.github.io/api/list/travel/IN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_india.webp"
   },
   {
     "name": "Indonesia",
     "code": "ID",
-    "url": "https://guidenai.github.io/api/list/city/ID.json",
+    "url": "https://guidenai.github.io/api/list/travel/ID.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_indonesia.webp"
   },
   {
     "name": "Iran",
     "code": "IR",
-    "url": "https://guidenai.github.io/api/list/city/IR.json",
+    "url": "https://guidenai.github.io/api/list/travel/IR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_iran.webp"
   },
   {
     "name": "Iraq",
     "code": "IQ",
-    "url": "https://guidenai.github.io/api/list/city/IQ.json",
+    "url": "https://guidenai.github.io/api/list/travel/IQ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_iraq.webp"
   },
   {
     "name": "Ireland",
     "code": "IE",
-    "url": "https://guidenai.github.io/api/list/city/IE.json",
+    "url": "https://guidenai.github.io/api/list/travel/IE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_ireland.webp"
   },
   {
     "name": "Israel",
     "code": "IL",
-    "url": "https://guidenai.github.io/api/list/city/IL.json",
+    "url": "https://guidenai.github.io/api/list/travel/IL.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_israel.webp"
   },
   {
     "name": "Italy",
     "code": "IT",
-    "url": "https://guidenai.github.io/api/list/city/IT.json",
+    "url": "https://guidenai.github.io/api/list/travel/IT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_italy.webp"
   },
   {
     "name": "Ivory Coast",
     "code": "CI",
-    "url": "https://guidenai.github.io/api/list/city/CI.json",
+    "url": "https://guidenai.github.io/api/list/travel/CI.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_ivory_coast.webp"
   },
   {
     "name": "Jamaica",
     "code": "JM",
-    "url": "https://guidenai.github.io/api/list/city/JM.json",
+    "url": "https://guidenai.github.io/api/list/travel/JM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_jamaica.webp"
   },
   {
     "name": "Japan",
     "code": "JP",
-    "url": "https://guidenai.github.io/api/list/city/JP.json",
+    "url": "https://guidenai.github.io/api/list/travel/JP.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_japan.webp"
   },
   {
     "name": "Jordan",
     "code": "JO",
-    "url": "https://guidenai.github.io/api/list/city/JO.json",
+    "url": "https://guidenai.github.io/api/list/travel/JO.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_jordan.webp"
   },
   {
     "name": "Kazakhstan",
     "code": "KZ",
-    "url": "https://guidenai.github.io/api/list/city/KZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/KZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_kazakhstan.webp"
   },
   {
     "name": "Kenya",
     "code": "KE",
-    "url": "https://guidenai.github.io/api/list/city/KE.json",
+    "url": "https://guidenai.github.io/api/list/travel/KE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_kenya.webp"
   },
   {
     "name": "Kiribati",
     "code": "KI",
-    "url": "https://guidenai.github.io/api/list/city/KI.json",
+    "url": "https://guidenai.github.io/api/list/travel/KI.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_kiribati.webp"
   },
   {
     "name": "Kuwait",
     "code": "KW",
-    "url": "https://guidenai.github.io/api/list/city/KW.json",
+    "url": "https://guidenai.github.io/api/list/travel/KW.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_kuwait.webp"
   },
   {
     "name": "Kyrgyzstan",
     "code": "KG",
-    "url": "https://guidenai.github.io/api/list/city/KG.json",
+    "url": "https://guidenai.github.io/api/list/travel/KG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_kyrgyzstan.webp"
   },
   {
     "name": "Laos",
     "code": "LA",
-    "url": "https://guidenai.github.io/api/list/city/LA.json",
+    "url": "https://guidenai.github.io/api/list/travel/LA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_laos.webp"
   },
   {
     "name": "Latvia",
     "code": "LV",
-    "url": "https://guidenai.github.io/api/list/city/LV.json",
+    "url": "https://guidenai.github.io/api/list/travel/LV.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_latvia.webp"
   },
   {
     "name": "Lebanon",
     "code": "LB",
-    "url": "https://guidenai.github.io/api/list/city/LB.json",
+    "url": "https://guidenai.github.io/api/list/travel/LB.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_lebanon.webp"
   },
   {
     "name": "Lesotho",
     "code": "LS",
-    "url": "https://guidenai.github.io/api/list/city/LS.json",
+    "url": "https://guidenai.github.io/api/list/travel/LS.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_lesotho.webp"
   },
   {
     "name": "Liberia",
     "code": "LR",
-    "url": "https://guidenai.github.io/api/list/city/LR.json",
+    "url": "https://guidenai.github.io/api/list/travel/LR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_liberia.webp"
-  },
-  {
-    "name": "Libya",
-    "code": "LY",
-    "url": "https://guidenai.github.io/api/list/city/LY.json",
-    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_libya.webp"
   },
   {
     "name": "Liechtenstein",
     "code": "LI",
-    "url": "https://guidenai.github.io/api/list/city/LI.json",
+    "url": "https://guidenai.github.io/api/list/travel/LI.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_liechtenstein.webp"
   },
   {
     "name": "Lithuania",
     "code": "LT",
-    "url": "https://guidenai.github.io/api/list/city/LT.json",
+    "url": "https://guidenai.github.io/api/list/travel/LT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_lithuania.webp"
   },
   {
     "name": "Luxembourg",
     "code": "LU",
-    "url": "https://guidenai.github.io/api/list/city/LU.json",
+    "url": "https://guidenai.github.io/api/list/travel/LU.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_luxembourg.webp"
   },
   {
     "name": "Madagascar",
     "code": "MG",
-    "url": "https://guidenai.github.io/api/list/city/MG.json",
+    "url": "https://guidenai.github.io/api/list/travel/MG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_madagascar.webp"
   },
   {
     "name": "Malawi",
     "code": "MW",
-    "url": "https://guidenai.github.io/api/list/city/MW.json",
+    "url": "https://guidenai.github.io/api/list/travel/MW.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_malawi.webp"
   },
   {
     "name": "Malaysia",
     "code": "MY",
-    "url": "https://guidenai.github.io/api/list/city/MY.json",
+    "url": "https://guidenai.github.io/api/list/travel/MY.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_malaysia.webp"
   },
   {
     "name": "Maldives",
     "code": "MV",
-    "url": "https://guidenai.github.io/api/list/city/MV.json",
+    "url": "https://guidenai.github.io/api/list/travel/MV.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_maldives.webp"
   },
   {
     "name": "Mali",
     "code": "ML",
-    "url": "https://guidenai.github.io/api/list/city/ML.json",
+    "url": "https://guidenai.github.io/api/list/travel/ML.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_mali.webp"
   },
   {
     "name": "Malta",
     "code": "MT",
-    "url": "https://guidenai.github.io/api/list/city/MT.json",
+    "url": "https://guidenai.github.io/api/list/travel/MT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_malta.webp"
   },
   {
     "name": "Marshall Islands",
     "code": "MH",
-    "url": "https://guidenai.github.io/api/list/city/MH.json",
+    "url": "https://guidenai.github.io/api/list/travel/MH.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_marshall_islands.webp"
   },
   {
     "name": "Mauritania",
     "code": "MR",
-    "url": "https://guidenai.github.io/api/list/city/MR.json",
+    "url": "https://guidenai.github.io/api/list/travel/MR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_mauritania.webp"
   },
   {
     "name": "Mauritius",
     "code": "MU",
-    "url": "https://guidenai.github.io/api/list/city/MU.json",
+    "url": "https://guidenai.github.io/api/list/travel/MU.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_mauritius.webp"
   },
   {
     "name": "Mexico",
     "code": "MX",
-    "url": "https://guidenai.github.io/api/list/city/MX.json",
+    "url": "https://guidenai.github.io/api/list/travel/MX.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_mexico.webp"
   },
   {
     "name": "Micronesia",
     "code": "FM",
-    "url": "https://guidenai.github.io/api/list/city/FM.json",
+    "url": "https://guidenai.github.io/api/list/travel/FM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_micronesia.webp"
   },
   {
     "name": "Moldova",
     "code": "MD",
-    "url": "https://guidenai.github.io/api/list/city/MD.json",
+    "url": "https://guidenai.github.io/api/list/travel/MD.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_moldova.webp"
   },
   {
     "name": "Monaco",
     "code": "MC",
-    "url": "https://guidenai.github.io/api/list/city/MC.json",
+    "url": "https://guidenai.github.io/api/list/travel/MC.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_monaco.webp"
   },
   {
     "name": "Mongolia",
     "code": "MN",
-    "url": "https://guidenai.github.io/api/list/city/MN.json",
+    "url": "https://guidenai.github.io/api/list/travel/MN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_mongolia.webp"
   },
   {
     "name": "Montenegro",
     "code": "ME",
-    "url": "https://guidenai.github.io/api/list/city/ME.json",
+    "url": "https://guidenai.github.io/api/list/travel/ME.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_montenegro.webp"
   },
   {
     "name": "Morocco",
     "code": "MA",
-    "url": "https://guidenai.github.io/api/list/city/MA.json",
+    "url": "https://guidenai.github.io/api/list/travel/MA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_morocco.webp"
   },
   {
     "name": "Mozambique",
     "code": "MZ",
-    "url": "https://guidenai.github.io/api/list/city/MZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/MZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_mozambique.webp"
   },
   {
     "name": "Myanmar",
     "code": "MM",
-    "url": "https://guidenai.github.io/api/list/city/MM.json",
+    "url": "https://guidenai.github.io/api/list/travel/MM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_myanmar.webp"
   },
   {
     "name": "Namibia",
     "code": "NA",
-    "url": "https://guidenai.github.io/api/list/city/NA.json",
+    "url": "https://guidenai.github.io/api/list/travel/NA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_namibia.webp"
   },
   {
     "name": "Nauru",
     "code": "NR",
-    "url": "https://guidenai.github.io/api/list/city/NR.json",
+    "url": "https://guidenai.github.io/api/list/travel/NR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_nauru.webp"
   },
   {
     "name": "Nepal",
     "code": "NP",
-    "url": "https://guidenai.github.io/api/list/city/NP.json",
+    "url": "https://guidenai.github.io/api/list/travel/NP.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_nepal.webp"
   },
   {
     "name": "Netherlands",
     "code": "NL",
-    "url": "https://guidenai.github.io/api/list/city/NL.json",
+    "url": "https://guidenai.github.io/api/list/travel/NL.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_netherlands.webp"
   },
   {
     "name": "New Zealand",
     "code": "NZ",
-    "url": "https://guidenai.github.io/api/list/city/NZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/NZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_new_zealand.webp"
   },
   {
     "name": "Nicaragua",
     "code": "NI",
-    "url": "https://guidenai.github.io/api/list/city/NI.json",
+    "url": "https://guidenai.github.io/api/list/travel/NI.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_nicaragua.webp"
   },
   {
     "name": "Niger",
     "code": "NE",
-    "url": "https://guidenai.github.io/api/list/city/NE.json",
+    "url": "https://guidenai.github.io/api/list/travel/NE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_niger.webp"
   },
   {
     "name": "Nigeria",
     "code": "NG",
-    "url": "https://guidenai.github.io/api/list/city/NG.json",
+    "url": "https://guidenai.github.io/api/list/travel/NG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_nigeria.webp"
-  },
-  {
-    "name": "North Korea",
-    "code": "KP",
-    "url": "https://guidenai.github.io/api/list/city/KP.json",
-    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_north_korea.webp"
   },
   {
     "name": "North Macedonia",
     "code": "MK",
-    "url": "https://guidenai.github.io/api/list/city/MK.json",
+    "url": "https://guidenai.github.io/api/list/travel/MK.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_north_macedonia.webp"
   },
   {
     "name": "Norway",
     "code": "NO",
-    "url": "https://guidenai.github.io/api/list/city/NO.json",
+    "url": "https://guidenai.github.io/api/list/travel/NO.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_norway.webp"
   },
   {
     "name": "Oman",
     "code": "OM",
-    "url": "https://guidenai.github.io/api/list/city/OM.json",
+    "url": "https://guidenai.github.io/api/list/travel/OM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_oman.webp"
   },
   {
     "name": "Pakistan",
     "code": "PK",
-    "url": "https://guidenai.github.io/api/list/city/PK.json",
+    "url": "https://guidenai.github.io/api/list/travel/PK.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_pakistan.webp"
   },
   {
     "name": "Palau",
     "code": "PW",
-    "url": "https://guidenai.github.io/api/list/city/PW.json",
+    "url": "https://guidenai.github.io/api/list/travel/PW.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_palau.webp"
   },
   {
     "name": "Panama",
     "code": "PA",
-    "url": "https://guidenai.github.io/api/list/city/PA.json",
+    "url": "https://guidenai.github.io/api/list/travel/PA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_panama.webp"
   },
   {
     "name": "Papua New Guinea",
     "code": "PG",
-    "url": "https://guidenai.github.io/api/list/city/PG.json",
+    "url": "https://guidenai.github.io/api/list/travel/PG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_papua_new_guinea.webp"
   },
   {
     "name": "Paraguay",
     "code": "PY",
-    "url": "https://guidenai.github.io/api/list/city/PY.json",
+    "url": "https://guidenai.github.io/api/list/travel/PY.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_paraguay.webp"
   },
   {
     "name": "Peru",
     "code": "PE",
-    "url": "https://guidenai.github.io/api/list/city/PE.json",
+    "url": "https://guidenai.github.io/api/list/travel/PE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_peru.webp"
   },
   {
     "name": "Philippines",
     "code": "PH",
-    "url": "https://guidenai.github.io/api/list/city/PH.json",
-    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_philippines.webp"
+    "url": "https://guidenai.github.io/api/list/travel/PH.json",
+    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_costa_philippines.webp"
   },
   {
     "name": "Poland",
     "code": "PL",
-    "url": "https://guidenai.github.io/api/list/city/PL.json",
+    "url": "https://guidenai.github.io/api/list/travel/PL.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_poland.webp"
   },
   {
     "name": "Portugal",
     "code": "PT",
-    "url": "https://guidenai.github.io/api/list/city/PT.json",
+    "url": "https://guidenai.github.io/api/list/travel/PT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_portugal.webp"
   },
   {
     "name": "Qatar",
     "code": "QA",
-    "url": "https://guidenai.github.io/api/list/city/QA.json",
+    "url": "https://guidenai.github.io/api/list/travel/QA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_qatar.webp"
   },
   {
     "name": "Romania",
     "code": "RO",
-    "url": "https://guidenai.github.io/api/list/city/RO.json",
+    "url": "https://guidenai.github.io/api/list/travel/RO.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_romania.webp"
   },
   {
     "name": "Russia",
     "code": "RU",
-    "url": "https://guidenai.github.io/api/list/city/RU.json",
+    "url": "https://guidenai.github.io/api/list/travel/RU.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_russia.webp"
   },
   {
     "name": "Rwanda",
     "code": "RW",
-    "url": "https://guidenai.github.io/api/list/city/RW.json",
+    "url": "https://guidenai.github.io/api/list/travel/RW.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_rwanda.webp"
   },
   {
     "name": "Saint Kitts and Nevis",
     "code": "KN",
-    "url": "https://guidenai.github.io/api/list/city/KN.json",
+    "url": "https://guidenai.github.io/api/list/travel/KN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_saint_kitts_and_nevis.webp"
   },
   {
     "name": "Saint Lucia",
     "code": "LC",
-    "url": "https://guidenai.github.io/api/list/city/LC.json",
+    "url": "https://guidenai.github.io/api/list/travel/LC.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_saint_lucia.webp"
   },
   {
     "name": "Saint Vincent and the Grenadines",
     "code": "VC",
-    "url": "https://guidenai.github.io/api/list/city/VC.json",
+    "url": "https://guidenai.github.io/api/list/travel/VC.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_saint_vincent_and_the_grenadines.webp"
   },
   {
     "name": "Samoa",
     "code": "WS",
-    "url": "https://guidenai.github.io/api/list/city/WS.json",
+    "url": "https://guidenai.github.io/api/list/travel/WS.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_samoa.webp"
   },
   {
     "name": "San Marino",
     "code": "SM",
-    "url": "https://guidenai.github.io/api/list/city/SM.json",
+    "url": "https://guidenai.github.io/api/list/travel/SM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_san_marino.webp"
   },
   {
     "name": "Sao Tome and Principe",
     "code": "ST",
-    "url": "https://guidenai.github.io/api/list/city/ST.json",
+    "url": "https://guidenai.github.io/api/list/travel/ST.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_sao_tome_and_principe.webp"
   },
   {
     "name": "Saudi Arabia",
     "code": "SA",
-    "url": "https://guidenai.github.io/api/list/city/SA.json",
+    "url": "https://guidenai.github.io/api/list/travel/SA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_saudi_arabia.webp"
   },
   {
     "name": "Senegal",
     "code": "SN",
-    "url": "https://guidenai.github.io/api/list/city/SN.json",
+    "url": "https://guidenai.github.io/api/list/travel/SN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_senegal.webp"
   },
   {
     "name": "Serbia",
     "code": "RS",
-    "url": "https://guidenai.github.io/api/list/city/RS.json",
+    "url": "https://guidenai.github.io/api/list/travel/RS.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_serbia.webp"
   },
   {
     "name": "Seychelles",
     "code": "SC",
-    "url": "https://guidenai.github.io/api/list/city/SC.json",
+    "url": "https://guidenai.github.io/api/list/travel/SC.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_seychelles.webp"
   },
   {
     "name": "Sierra Leone",
     "code": "SL",
-    "url": "https://guidenai.github.io/api/list/city/SL.json",
+    "url": "https://guidenai.github.io/api/list/travel/SL.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_sierra_leone.webp"
   },
   {
     "name": "Singapore",
     "code": "SG",
-    "url": "https://guidenai.github.io/api/list/city/SG.json",
+    "url": "https://guidenai.github.io/api/list/travel/SG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_singapore.webp"
   },
   {
     "name": "Slovakia",
     "code": "SK",
-    "url": "https://guidenai.github.io/api/list/city/SK.json",
+    "url": "https://guidenai.github.io/api/list/travel/SK.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_slovakia.webp"
   },
   {
     "name": "Slovenia",
     "code": "SI",
-    "url": "https://guidenai.github.io/api/list/city/SI.json",
+    "url": "https://guidenai.github.io/api/list/travel/SI.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_slovenia.webp"
   },
   {
     "name": "Solomon Islands",
     "code": "SB",
-    "url": "https://guidenai.github.io/api/list/city/SB.json",
+    "url": "https://guidenai.github.io/api/list/travel/SB.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_solomon_islands.webp"
-  },
-  {
-    "name": "Somalia",
-    "code": "SO",
-    "url": "https://guidenai.github.io/api/list/city/SO.json",
-    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_somalia.webp"
   },
   {
     "name": "South Africa",
     "code": "ZA",
-    "url": "https://guidenai.github.io/api/list/city/ZA.json",
+    "url": "https://guidenai.github.io/api/list/travel/ZA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_south_africa.webp"
   },
   {
     "name": "South Korea",
     "code": "KR",
-    "url": "https://guidenai.github.io/api/list/city/KR.json",
+    "url": "https://guidenai.github.io/api/list/travel/KR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_south_korea.webp"
-  },
-  {
-    "name": "South Sudan",
-    "code": "SS",
-    "url": "https://guidenai.github.io/api/list/city/SS.json",
-    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_south_sudan.webp"
   },
   {
     "name": "Spain",
     "code": "ES",
-    "url": "https://guidenai.github.io/api/list/city/ES.json",
+    "url": "https://guidenai.github.io/api/list/travel/ES.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_spain.webp"
   },
   {
     "name": "Sri Lanka",
     "code": "LK",
-    "url": "https://guidenai.github.io/api/list/city/LK.json",
+    "url": "https://guidenai.github.io/api/list/travel/LK.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_sri_lanka.webp"
   },
   {
     "name": "Sudan",
     "code": "SD",
-    "url": "https://guidenai.github.io/api/list/city/SD.json",
+    "url": "https://guidenai.github.io/api/list/travel/SD.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_sudan.webp"
   },
   {
     "name": "Suriname",
     "code": "SR",
-    "url": "https://guidenai.github.io/api/list/city/SR.json",
+    "url": "https://guidenai.github.io/api/list/travel/SR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_suriname.webp"
   },
   {
     "name": "Sweden",
     "code": "SE",
-    "url": "https://guidenai.github.io/api/list/city/SE.json",
+    "url": "https://guidenai.github.io/api/list/travel/SE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_sweden.webp"
   },
   {
     "name": "Switzerland",
     "code": "CH",
-    "url": "https://guidenai.github.io/api/list/city/CH.json",
+    "url": "https://guidenai.github.io/api/list/travel/CH.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_switzerland.webp"
-  },
-  {
-    "name": "Syria",
-    "code": "SY",
-    "url": "https://guidenai.github.io/api/list/city/SY.json",
-    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_syria.webp"
   },
   {
     "name": "Taiwan",
     "code": "TW",
-    "url": "https://guidenai.github.io/api/list/city/TW.json",
+    "url": "https://guidenai.github.io/api/list/travel/TW.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_taiwan.webp"
   },
   {
     "name": "Tajikistan",
     "code": "TJ",
-    "url": "https://guidenai.github.io/api/list/city/TJ.json",
+    "url": "https://guidenai.github.io/api/list/travel/TJ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_tajikistan.webp"
   },
   {
     "name": "Tanzania",
     "code": "TZ",
-    "url": "https://guidenai.github.io/api/list/city/TZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/TZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_tanzania.webp"
   },
   {
     "name": "Thailand",
     "code": "TH",
-    "url": "https://guidenai.github.io/api/list/city/TH.json",
+    "url": "https://guidenai.github.io/api/list/travel/TH.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_thailand.webp"
   },
   {
     "name": "Timor-Leste",
     "code": "TL",
-    "url": "https://guidenai.github.io/api/list/city/TL.json",
+    "url": "https://guidenai.github.io/api/list/travel/TL.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_timor-leste.webp"
   },
   {
     "name": "Togo",
     "code": "TG",
-    "url": "https://guidenai.github.io/api/list/city/TG.json",
+    "url": "https://guidenai.github.io/api/list/travel/TG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_togo.webp"
   },
   {
     "name": "Tonga",
     "code": "TO",
-    "url": "https://guidenai.github.io/api/list/city/TO.json",
+    "url": "https://guidenai.github.io/api/list/travel/TO.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_tonga.webp"
   },
   {
     "name": "Trinidad and Tobago",
     "code": "TT",
-    "url": "https://guidenai.github.io/api/list/city/TT.json",
+    "url": "https://guidenai.github.io/api/list/travel/TT.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_trinidad_and_tobago.webp"
   },
   {
     "name": "Tunisia",
     "code": "TN",
-    "url": "https://guidenai.github.io/api/list/city/TN.json",
+    "url": "https://guidenai.github.io/api/list/travel/TN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_tunisia.webp"
   },
   {
     "name": "Turkey",
     "code": "TR",
-    "url": "https://guidenai.github.io/api/list/city/TR.json",
+    "url": "https://guidenai.github.io/api/list/travel/TR.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_turkey.webp"
   },
   {
     "name": "Turkmenistan",
     "code": "TM",
-    "url": "https://guidenai.github.io/api/list/city/TM.json",
+    "url": "https://guidenai.github.io/api/list/travel/TM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_turkmenistan.webp"
   },
   {
     "name": "Tuvalu",
     "code": "TV",
-    "url": "https://guidenai.github.io/api/list/city/TV.json",
+    "url": "https://guidenai.github.io/api/list/travel/TV.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_tuvalu.webp"
   },
   {
     "name": "Uganda",
     "code": "UG",
-    "url": "https://guidenai.github.io/api/list/city/UG.json",
+    "url": "https://guidenai.github.io/api/list/travel/UG.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_uganda.webp"
   },
   {
     "name": "Ukraine",
     "code": "UA",
-    "url": "https://guidenai.github.io/api/list/city/UA.json",
+    "url": "https://guidenai.github.io/api/list/travel/UA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_ukraine.webp"
   },
   {
     "name": "United Arab Emirates",
     "code": "AE",
-    "url": "https://guidenai.github.io/api/list/city/AE.json",
+    "url": "https://guidenai.github.io/api/list/travel/AE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_united_arab_emirates.webp"
   },
   {
     "name": "United Kingdom",
     "code": "GB",
-    "url": "https://guidenai.github.io/api/list/city/GB.json",
+    "url": "https://guidenai.github.io/api/list/travel/GB.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_united_kingdom.webp"
   },
   {
     "name": "United States",
     "code": "US",
-    "url": "https://guidenai.github.io/api/list/city/US.json",
+    "url": "https://guidenai.github.io/api/list/travel/US.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_united_states.webp"
   },
   {
     "name": "Uruguay",
     "code": "UY",
-    "url": "https://guidenai.github.io/api/list/city/UY.json",
+    "url": "https://guidenai.github.io/api/list/travel/UY.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_uruguay.webp"
   },
   {
     "name": "Uzbekistan",
     "code": "UZ",
-    "url": "https://guidenai.github.io/api/list/city/UZ.json",
+    "url": "https://guidenai.github.io/api/list/travel/UZ.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_uzbekistan.webp"
   },
   {
     "name": "Vanuatu",
     "code": "VU",
-    "url": "https://guidenai.github.io/api/list/city/VU.json",
+    "url": "https://guidenai.github.io/api/list/travel/VU.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_vanuatu.webp"
   },
   {
     "name": "Vatican City",
     "code": "VA",
-    "url": "https://guidenai.github.io/api/list/city/VA.json",
+    "url": "https://guidenai.github.io/api/list/travel/VA.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_vatican_city.webp"
   },
   {
     "name": "Venezuela",
     "code": "VE",
-    "url": "https://guidenai.github.io/api/list/city/VE.json",
+    "url": "https://guidenai.github.io/api/list/travel/VE.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_venezuela.webp"
   },
   {
     "name": "Vietnam",
     "code": "VN",
-    "url": "https://guidenai.github.io/api/list/city/VN.json",
+    "url": "https://guidenai.github.io/api/list/travel/VN.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_vietnam.webp"
-  },
-  {
-    "name": "Yemen",
-    "code": "YE",
-    "url": "https://guidenai.github.io/api/list/city/YE.json",
-    "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_yemen.webp"
   },
   {
     "name": "Zambia",
     "code": "ZM",
-    "url": "https://guidenai.github.io/api/list/city/ZM.json",
+    "url": "https://guidenai.github.io/api/list/travel/ZM.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_zambia.webp"
   },
   {
     "name": "Zimbabwe",
     "code": "ZW",
-    "url": "https://guidenai.github.io/api/list/city/ZW.json",
+    "url": "https://guidenai.github.io/api/list/travel/ZW.json",
     "image": "https://guidenai.github.io/api/assets/country/img_backgrounds_zimbabwe.webp"
   }
 ]
